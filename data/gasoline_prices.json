@@ -2,3057 +2,3057 @@
   {
     "year": 2005,
     "prefecture": "Hokkaido",
-    "price": 172
+    "price": 165
   },
   {
     "year": 2005,
-    "prefecture": "Aomori",
-    "price": 145
-  },
-  {
-    "year": 2005,
-    "prefecture": "Iwate",
-    "price": 152
-  },
-  {
-    "year": 2005,
-    "prefecture": "Miyagi",
-    "price": 153
-  },
-  {
-    "year": 2005,
-    "prefecture": "Akita",
-    "price": 155
-  },
-  {
-    "year": 2005,
-    "prefecture": "Yamagata",
-    "price": 146
-  },
-  {
-    "year": 2005,
-    "prefecture": "Fukushima",
-    "price": 144
-  },
-  {
-    "year": 2005,
-    "prefecture": "Ibaraki",
-    "price": 142
-  },
-  {
-    "year": 2005,
-    "prefecture": "Tochigi",
-    "price": 156
-  },
-  {
-    "year": 2005,
-    "prefecture": "Gunma",
+    "prefecture": "Aomori Ken",
     "price": 158
   },
   {
     "year": 2005,
-    "prefecture": "Saitama",
-    "price": 156
-  },
-  {
-    "year": 2005,
-    "prefecture": "Chiba",
-    "price": 152
-  },
-  {
-    "year": 2005,
-    "prefecture": "Tokyo",
-    "price": 160
-  },
-  {
-    "year": 2005,
-    "prefecture": "Kanagawa",
-    "price": 163
-  },
-  {
-    "year": 2005,
-    "prefecture": "Niigata",
-    "price": 148
-  },
-  {
-    "year": 2005,
-    "prefecture": "Toyama",
-    "price": 155
-  },
-  {
-    "year": 2005,
-    "prefecture": "Ishikawa",
-    "price": 145
-  },
-  {
-    "year": 2005,
-    "prefecture": "Fukui",
+    "prefecture": "Iwate Ken",
     "price": 153
   },
   {
     "year": 2005,
-    "prefecture": "Yamanashi",
+    "prefecture": "Miyagi Ken",
+    "price": 153
+  },
+  {
+    "year": 2005,
+    "prefecture": "Akita Ken",
     "price": 144
   },
   {
     "year": 2005,
-    "prefecture": "Nagano",
-    "price": 143
+    "prefecture": "Yamagata Ken",
+    "price": 153
   },
   {
     "year": 2005,
-    "prefecture": "Gifu",
+    "prefecture": "Fukushima Ken",
     "price": 141
   },
   {
     "year": 2005,
-    "prefecture": "Shizuoka",
-    "price": 156
+    "prefecture": "Ibaraki Ken",
+    "price": 147
   },
   {
     "year": 2005,
-    "prefecture": "Aichi",
-    "price": 140
+    "prefecture": "Tochigi Ken",
+    "price": 155
   },
   {
     "year": 2005,
-    "prefecture": "Mie",
-    "price": 140
+    "prefecture": "Gunma Ken",
+    "price": 146
   },
   {
     "year": 2005,
-    "prefecture": "Shiga",
-    "price": 157
+    "prefecture": "Saitama Ken",
+    "price": 141
   },
   {
     "year": 2005,
-    "prefecture": "Kyoto",
+    "prefecture": "Chiba Ken",
+    "price": 147
+  },
+  {
+    "year": 2005,
+    "prefecture": "Tokyo To",
+    "price": 162
+  },
+  {
+    "year": 2005,
+    "prefecture": "Kanagawa Ken",
+    "price": 150
+  },
+  {
+    "year": 2005,
+    "prefecture": "Niigata Ken",
     "price": 153
   },
   {
     "year": 2005,
-    "prefecture": "Osaka",
-    "price": 160
-  },
-  {
-    "year": 2005,
-    "prefecture": "Hyogo",
-    "price": 158
-  },
-  {
-    "year": 2005,
-    "prefecture": "Nara",
-    "price": 158
-  },
-  {
-    "year": 2005,
-    "prefecture": "Wakayama",
-    "price": 152
-  },
-  {
-    "year": 2005,
-    "prefecture": "Tottori",
-    "price": 154
-  },
-  {
-    "year": 2005,
-    "prefecture": "Shimane",
-    "price": 159
-  },
-  {
-    "year": 2005,
-    "prefecture": "Okayama",
-    "price": 140
-  },
-  {
-    "year": 2005,
-    "prefecture": "Hiroshima",
-    "price": 151
-  },
-  {
-    "year": 2005,
-    "prefecture": "Yamaguchi",
-    "price": 151
-  },
-  {
-    "year": 2005,
-    "prefecture": "Tokushima",
-    "price": 154
-  },
-  {
-    "year": 2005,
-    "prefecture": "Kagawa",
-    "price": 157
-  },
-  {
-    "year": 2005,
-    "prefecture": "Ehime",
+    "prefecture": "Toyama Ken",
     "price": 149
   },
   {
     "year": 2005,
-    "prefecture": "Kochi",
-    "price": 157
+    "prefecture": "Ishikawa Ken",
+    "price": 148
   },
   {
     "year": 2005,
-    "prefecture": "Fukuoka",
-    "price": 153
+    "prefecture": "Fukui Ken",
+    "price": 159
   },
   {
     "year": 2005,
-    "prefecture": "Saga",
+    "prefecture": "Yamanashi Ken",
+    "price": 148
+  },
+  {
+    "year": 2005,
+    "prefecture": "Nagano Ken",
+    "price": 150
+  },
+  {
+    "year": 2005,
+    "prefecture": "Gifu Ken",
+    "price": 149
+  },
+  {
+    "year": 2005,
+    "prefecture": "Shizuoka Ken",
+    "price": 149
+  },
+  {
+    "year": 2005,
+    "prefecture": "Aichi Ken",
+    "price": 148
+  },
+  {
+    "year": 2005,
+    "prefecture": "Mie Ken",
+    "price": 148
+  },
+  {
+    "year": 2005,
+    "prefecture": "Shiga Ken",
+    "price": 152
+  },
+  {
+    "year": 2005,
+    "prefecture": "Kyoto Fu",
+    "price": 144
+  },
+  {
+    "year": 2005,
+    "prefecture": "Osaka Fu",
+    "price": 167
+  },
+  {
+    "year": 2005,
+    "prefecture": "Hyogo Ken",
+    "price": 150
+  },
+  {
+    "year": 2005,
+    "prefecture": "Nara Ken",
+    "price": 158
+  },
+  {
+    "year": 2005,
+    "prefecture": "Wakayama Ken",
     "price": 143
   },
   {
     "year": 2005,
-    "prefecture": "Nagasaki",
+    "prefecture": "Tottori Ken",
+    "price": 158
+  },
+  {
+    "year": 2005,
+    "prefecture": "Shimane Ken",
+    "price": 144
+  },
+  {
+    "year": 2005,
+    "prefecture": "Okayama Ken",
+    "price": 143
+  },
+  {
+    "year": 2005,
+    "prefecture": "Hiroshima Ken",
     "price": 156
   },
   {
     "year": 2005,
-    "prefecture": "Kumamoto",
-    "price": 154
+    "prefecture": "Yamaguchi Ken",
+    "price": 143
   },
   {
     "year": 2005,
-    "prefecture": "Oita",
-    "price": 159
+    "prefecture": "Tokushima Ken",
+    "price": 147
   },
   {
     "year": 2005,
-    "prefecture": "Miyazaki",
+    "prefecture": "Kagawa Ken",
+    "price": 156
+  },
+  {
+    "year": 2005,
+    "prefecture": "Ehime Ken",
+    "price": 155
+  },
+  {
+    "year": 2005,
+    "prefecture": "Kochi Ken",
     "price": 140
   },
   {
     "year": 2005,
-    "prefecture": "Kagoshima",
+    "prefecture": "Fukuoka Ken",
+    "price": 153
+  },
+  {
+    "year": 2005,
+    "prefecture": "Saga Ken",
+    "price": 148
+  },
+  {
+    "year": 2005,
+    "prefecture": "Nagasaki Ken",
     "price": 155
   },
   {
     "year": 2005,
-    "prefecture": "Okinawa",
-    "price": 167
+    "prefecture": "Kumamoto Ken",
+    "price": 141
+  },
+  {
+    "year": 2005,
+    "prefecture": "Oita Ken",
+    "price": 157
+  },
+  {
+    "year": 2005,
+    "prefecture": "Miyazaki Ken",
+    "price": 154
+  },
+  {
+    "year": 2005,
+    "prefecture": "Kagoshima Ken",
+    "price": 140
+  },
+  {
+    "year": 2005,
+    "prefecture": "Okinawa Ken",
+    "price": 172
   },
   {
     "year": 2006,
     "prefecture": "Hokkaido",
+    "price": 166
+  },
+  {
+    "year": 2006,
+    "prefecture": "Aomori Ken",
+    "price": 157
+  },
+  {
+    "year": 2006,
+    "prefecture": "Iwate Ken",
+    "price": 148
+  },
+  {
+    "year": 2006,
+    "prefecture": "Miyagi Ken",
+    "price": 158
+  },
+  {
+    "year": 2006,
+    "prefecture": "Akita Ken",
     "price": 160
   },
   {
     "year": 2006,
-    "prefecture": "Aomori",
-    "price": 160
-  },
-  {
-    "year": 2006,
-    "prefecture": "Iwate",
-    "price": 152
-  },
-  {
-    "year": 2006,
-    "prefecture": "Miyagi",
-    "price": 147
-  },
-  {
-    "year": 2006,
-    "prefecture": "Akita",
-    "price": 160
-  },
-  {
-    "year": 2006,
-    "prefecture": "Yamagata",
+    "prefecture": "Yamagata Ken",
     "price": 142
   },
   {
     "year": 2006,
-    "prefecture": "Fukushima",
-    "price": 157
-  },
-  {
-    "year": 2006,
-    "prefecture": "Ibaraki",
+    "prefecture": "Fukushima Ken",
     "price": 147
   },
   {
     "year": 2006,
-    "prefecture": "Tochigi",
-    "price": 153
-  },
-  {
-    "year": 2006,
-    "prefecture": "Gunma",
-    "price": 144
-  },
-  {
-    "year": 2006,
-    "prefecture": "Saitama",
-    "price": 148
-  },
-  {
-    "year": 2006,
-    "prefecture": "Chiba",
-    "price": 147
-  },
-  {
-    "year": 2006,
-    "prefecture": "Tokyo",
-    "price": 166
-  },
-  {
-    "year": 2006,
-    "prefecture": "Kanagawa",
-    "price": 170
-  },
-  {
-    "year": 2006,
-    "prefecture": "Niigata",
+    "prefecture": "Ibaraki Ken",
     "price": 154
   },
   {
     "year": 2006,
-    "prefecture": "Toyama",
-    "price": 155
-  },
-  {
-    "year": 2006,
-    "prefecture": "Ishikawa",
-    "price": 161
-  },
-  {
-    "year": 2006,
-    "prefecture": "Fukui",
-    "price": 160
-  },
-  {
-    "year": 2006,
-    "prefecture": "Yamanashi",
-    "price": 144
-  },
-  {
-    "year": 2006,
-    "prefecture": "Nagano",
+    "prefecture": "Tochigi Ken",
     "price": 150
   },
   {
     "year": 2006,
-    "prefecture": "Gifu",
+    "prefecture": "Gunma Ken",
+    "price": 159
+  },
+  {
+    "year": 2006,
+    "prefecture": "Saitama Ken",
+    "price": 151
+  },
+  {
+    "year": 2006,
+    "prefecture": "Chiba Ken",
     "price": 149
   },
   {
     "year": 2006,
-    "prefecture": "Shizuoka",
-    "price": 160
+    "prefecture": "Tokyo To",
+    "price": 161
   },
   {
     "year": 2006,
-    "prefecture": "Aichi",
+    "prefecture": "Kanagawa Ken",
+    "price": 167
+  },
+  {
+    "year": 2006,
+    "prefecture": "Niigata Ken",
+    "price": 144
+  },
+  {
+    "year": 2006,
+    "prefecture": "Toyama Ken",
+    "price": 158
+  },
+  {
+    "year": 2006,
+    "prefecture": "Ishikawa Ken",
+    "price": 148
+  },
+  {
+    "year": 2006,
+    "prefecture": "Fukui Ken",
+    "price": 152
+  },
+  {
+    "year": 2006,
+    "prefecture": "Yamanashi Ken",
+    "price": 152
+  },
+  {
+    "year": 2006,
+    "prefecture": "Nagano Ken",
     "price": 157
   },
   {
     "year": 2006,
-    "prefecture": "Mie",
-    "price": 150
-  },
-  {
-    "year": 2006,
-    "prefecture": "Shiga",
+    "prefecture": "Gifu Ken",
     "price": 142
   },
   {
     "year": 2006,
-    "prefecture": "Kyoto",
-    "price": 159
+    "prefecture": "Shizuoka Ken",
+    "price": 148
   },
   {
     "year": 2006,
-    "prefecture": "Osaka",
-    "price": 158
-  },
-  {
-    "year": 2006,
-    "prefecture": "Hyogo",
+    "prefecture": "Aichi Ken",
     "price": 152
   },
   {
     "year": 2006,
-    "prefecture": "Nara",
+    "prefecture": "Mie Ken",
+    "price": 161
+  },
+  {
+    "year": 2006,
+    "prefecture": "Shiga Ken",
+    "price": 153
+  },
+  {
+    "year": 2006,
+    "prefecture": "Kyoto Fu",
+    "price": 152
+  },
+  {
+    "year": 2006,
+    "prefecture": "Osaka Fu",
+    "price": 158
+  },
+  {
+    "year": 2006,
+    "prefecture": "Hyogo Ken",
+    "price": 158
+  },
+  {
+    "year": 2006,
+    "prefecture": "Nara Ken",
     "price": 157
   },
   {
     "year": 2006,
-    "prefecture": "Wakayama",
-    "price": 150
-  },
-  {
-    "year": 2006,
-    "prefecture": "Tottori",
-    "price": 144
-  },
-  {
-    "year": 2006,
-    "prefecture": "Shimane",
-    "price": 156
-  },
-  {
-    "year": 2006,
-    "prefecture": "Okayama",
-    "price": 159
-  },
-  {
-    "year": 2006,
-    "prefecture": "Hiroshima",
+    "prefecture": "Wakayama Ken",
     "price": 160
   },
   {
     "year": 2006,
-    "prefecture": "Yamaguchi",
-    "price": 147
-  },
-  {
-    "year": 2006,
-    "prefecture": "Tokushima",
+    "prefecture": "Tottori Ken",
     "price": 142
   },
   {
     "year": 2006,
-    "prefecture": "Kagawa",
-    "price": 143
+    "prefecture": "Shimane Ken",
+    "price": 147
   },
   {
     "year": 2006,
-    "prefecture": "Ehime",
-    "price": 148
+    "prefecture": "Okayama Ken",
+    "price": 154
   },
   {
     "year": 2006,
-    "prefecture": "Kochi",
-    "price": 159
-  },
-  {
-    "year": 2006,
-    "prefecture": "Fukuoka",
-    "price": 148
-  },
-  {
-    "year": 2006,
-    "prefecture": "Saga",
-    "price": 159
-  },
-  {
-    "year": 2006,
-    "prefecture": "Nagasaki",
-    "price": 160
-  },
-  {
-    "year": 2006,
-    "prefecture": "Kumamoto",
+    "prefecture": "Hiroshima Ken",
     "price": 146
   },
   {
     "year": 2006,
-    "prefecture": "Oita",
+    "prefecture": "Yamaguchi Ken",
+    "price": 150
+  },
+  {
+    "year": 2006,
+    "prefecture": "Tokushima Ken",
     "price": 159
   },
   {
     "year": 2006,
-    "prefecture": "Miyazaki",
+    "prefecture": "Kagawa Ken",
+    "price": 142
+  },
+  {
+    "year": 2006,
+    "prefecture": "Ehime Ken",
+    "price": 161
+  },
+  {
+    "year": 2006,
+    "prefecture": "Kochi Ken",
+    "price": 149
+  },
+  {
+    "year": 2006,
+    "prefecture": "Fukuoka Ken",
+    "price": 161
+  },
+  {
+    "year": 2006,
+    "prefecture": "Saga Ken",
+    "price": 144
+  },
+  {
+    "year": 2006,
+    "prefecture": "Nagasaki Ken",
+    "price": 148
+  },
+  {
+    "year": 2006,
+    "prefecture": "Kumamoto Ken",
+    "price": 157
+  },
+  {
+    "year": 2006,
+    "prefecture": "Oita Ken",
+    "price": 142
+  },
+  {
+    "year": 2006,
+    "prefecture": "Miyazaki Ken",
+    "price": 161
+  },
+  {
+    "year": 2006,
+    "prefecture": "Kagoshima Ken",
+    "price": 145
+  },
+  {
+    "year": 2006,
+    "prefecture": "Okinawa Ken",
     "price": 159
-  },
-  {
-    "year": 2006,
-    "prefecture": "Kagoshima",
-    "price": 146
-  },
-  {
-    "year": 2006,
-    "prefecture": "Okinawa",
-    "price": 173
   },
   {
     "year": 2007,
     "prefecture": "Hokkaido",
-    "price": 174
+    "price": 160
   },
   {
     "year": 2007,
-    "prefecture": "Aomori",
+    "prefecture": "Aomori Ken",
     "price": 162
   },
   {
     "year": 2007,
-    "prefecture": "Iwate",
-    "price": 150
+    "prefecture": "Iwate Ken",
+    "price": 145
   },
   {
     "year": 2007,
-    "prefecture": "Miyagi",
-    "price": 152
+    "prefecture": "Miyagi Ken",
+    "price": 160
   },
   {
     "year": 2007,
-    "prefecture": "Akita",
-    "price": 161
+    "prefecture": "Akita Ken",
+    "price": 154
   },
   {
     "year": 2007,
-    "prefecture": "Yamagata",
+    "prefecture": "Yamagata Ken",
+    "price": 154
+  },
+  {
+    "year": 2007,
+    "prefecture": "Fukushima Ken",
+    "price": 148
+  },
+  {
+    "year": 2007,
+    "prefecture": "Ibaraki Ken",
+    "price": 145
+  },
+  {
+    "year": 2007,
+    "prefecture": "Tochigi Ken",
+    "price": 163
+  },
+  {
+    "year": 2007,
+    "prefecture": "Gunma Ken",
+    "price": 157
+  },
+  {
+    "year": 2007,
+    "prefecture": "Saitama Ken",
+    "price": 146
+  },
+  {
+    "year": 2007,
+    "prefecture": "Chiba Ken",
+    "price": 155
+  },
+  {
+    "year": 2007,
+    "prefecture": "Tokyo To",
+    "price": 173
+  },
+  {
+    "year": 2007,
+    "prefecture": "Kanagawa Ken",
+    "price": 169
+  },
+  {
+    "year": 2007,
+    "prefecture": "Niigata Ken",
+    "price": 148
+  },
+  {
+    "year": 2007,
+    "prefecture": "Toyama Ken",
+    "price": 146
+  },
+  {
+    "year": 2007,
+    "prefecture": "Ishikawa Ken",
+    "price": 159
+  },
+  {
+    "year": 2007,
+    "prefecture": "Fukui Ken",
+    "price": 146
+  },
+  {
+    "year": 2007,
+    "prefecture": "Yamanashi Ken",
+    "price": 147
+  },
+  {
+    "year": 2007,
+    "prefecture": "Nagano Ken",
+    "price": 149
+  },
+  {
+    "year": 2007,
+    "prefecture": "Gifu Ken",
+    "price": 145
+  },
+  {
+    "year": 2007,
+    "prefecture": "Shizuoka Ken",
     "price": 153
   },
   {
     "year": 2007,
-    "prefecture": "Fukushima",
+    "prefecture": "Aichi Ken",
+    "price": 145
+  },
+  {
+    "year": 2007,
+    "prefecture": "Mie Ken",
+    "price": 158
+  },
+  {
+    "year": 2007,
+    "prefecture": "Shiga Ken",
+    "price": 160
+  },
+  {
+    "year": 2007,
+    "prefecture": "Kyoto Fu",
+    "price": 148
+  },
+  {
+    "year": 2007,
+    "prefecture": "Osaka Fu",
+    "price": 155
+  },
+  {
+    "year": 2007,
+    "prefecture": "Hyogo Ken",
+    "price": 159
+  },
+  {
+    "year": 2007,
+    "prefecture": "Nara Ken",
     "price": 144
   },
   {
     "year": 2007,
-    "prefecture": "Ibaraki",
-    "price": 146
+    "prefecture": "Wakayama Ken",
+    "price": 163
   },
   {
     "year": 2007,
-    "prefecture": "Tochigi",
-    "price": 152
+    "prefecture": "Tottori Ken",
+    "price": 163
   },
   {
     "year": 2007,
-    "prefecture": "Gunma",
+    "prefecture": "Shimane Ken",
+    "price": 161
+  },
+  {
+    "year": 2007,
+    "prefecture": "Okayama Ken",
     "price": 156
   },
   {
     "year": 2007,
-    "prefecture": "Saitama",
-    "price": 153
+    "prefecture": "Hiroshima Ken",
+    "price": 144
   },
   {
     "year": 2007,
-    "prefecture": "Chiba",
+    "prefecture": "Yamaguchi Ken",
+    "price": 158
+  },
+  {
+    "year": 2007,
+    "prefecture": "Tokushima Ken",
     "price": 157
   },
   {
     "year": 2007,
-    "prefecture": "Tokyo",
-    "price": 156
-  },
-  {
-    "year": 2007,
-    "prefecture": "Kanagawa",
-    "price": 171
-  },
-  {
-    "year": 2007,
-    "prefecture": "Niigata",
+    "prefecture": "Kagawa Ken",
     "price": 145
   },
   {
     "year": 2007,
-    "prefecture": "Toyama",
-    "price": 160
-  },
-  {
-    "year": 2007,
-    "prefecture": "Ishikawa",
-    "price": 153
-  },
-  {
-    "year": 2007,
-    "prefecture": "Fukui",
-    "price": 146
-  },
-  {
-    "year": 2007,
-    "prefecture": "Yamanashi",
-    "price": 148
-  },
-  {
-    "year": 2007,
-    "prefecture": "Nagano",
-    "price": 157
-  },
-  {
-    "year": 2007,
-    "prefecture": "Gifu",
-    "price": 149
-  },
-  {
-    "year": 2007,
-    "prefecture": "Shizuoka",
-    "price": 149
-  },
-  {
-    "year": 2007,
-    "prefecture": "Aichi",
+    "prefecture": "Ehime Ken",
     "price": 163
   },
   {
     "year": 2007,
-    "prefecture": "Mie",
-    "price": 163
-  },
-  {
-    "year": 2007,
-    "prefecture": "Shiga",
+    "prefecture": "Kochi Ken",
     "price": 155
   },
   {
     "year": 2007,
-    "prefecture": "Kyoto",
-    "price": 163
+    "prefecture": "Fukuoka Ken",
+    "price": 158
   },
   {
     "year": 2007,
-    "prefecture": "Osaka",
-    "price": 160
-  },
-  {
-    "year": 2007,
-    "prefecture": "Hyogo",
-    "price": 148
-  },
-  {
-    "year": 2007,
-    "prefecture": "Nara",
-    "price": 152
-  },
-  {
-    "year": 2007,
-    "prefecture": "Wakayama",
-    "price": 152
-  },
-  {
-    "year": 2007,
-    "prefecture": "Tottori",
-    "price": 148
-  },
-  {
-    "year": 2007,
-    "prefecture": "Shimane",
-    "price": 145
-  },
-  {
-    "year": 2007,
-    "prefecture": "Okayama",
-    "price": 159
-  },
-  {
-    "year": 2007,
-    "prefecture": "Hiroshima",
-    "price": 151
-  },
-  {
-    "year": 2007,
-    "prefecture": "Yamaguchi",
-    "price": 145
-  },
-  {
-    "year": 2007,
-    "prefecture": "Tokushima",
+    "prefecture": "Saga Ken",
     "price": 162
   },
   {
     "year": 2007,
-    "prefecture": "Kagawa",
-    "price": 158
+    "prefecture": "Nagasaki Ken",
+    "price": 162
   },
   {
     "year": 2007,
-    "prefecture": "Ehime",
+    "prefecture": "Kumamoto Ken",
     "price": 157
   },
   {
     "year": 2007,
-    "prefecture": "Kochi",
-    "price": 153
+    "prefecture": "Oita Ken",
+    "price": 147
   },
   {
     "year": 2007,
-    "prefecture": "Fukuoka",
-    "price": 148
+    "prefecture": "Miyazaki Ken",
+    "price": 147
   },
   {
     "year": 2007,
-    "prefecture": "Saga",
-    "price": 151
-  },
-  {
-    "year": 2007,
-    "prefecture": "Nagasaki",
-    "price": 152
-  },
-  {
-    "year": 2007,
-    "prefecture": "Kumamoto",
-    "price": 156
-  },
-  {
-    "year": 2007,
-    "prefecture": "Oita",
-    "price": 153
-  },
-  {
-    "year": 2007,
-    "prefecture": "Miyazaki",
+    "prefecture": "Kagoshima Ken",
     "price": 155
   },
   {
     "year": 2007,
-    "prefecture": "Kagoshima",
-    "price": 156
-  },
-  {
-    "year": 2007,
-    "prefecture": "Okinawa",
-    "price": 165
+    "prefecture": "Okinawa Ken",
+    "price": 171
   },
   {
     "year": 2008,
     "prefecture": "Hokkaido",
-    "price": 180
+    "price": 170
   },
   {
     "year": 2008,
-    "prefecture": "Aomori",
-    "price": 151
+    "prefecture": "Aomori Ken",
+    "price": 150
   },
   {
     "year": 2008,
-    "prefecture": "Iwate",
-    "price": 161
+    "prefecture": "Iwate Ken",
+    "price": 156
   },
   {
     "year": 2008,
-    "prefecture": "Miyagi",
-    "price": 149
+    "prefecture": "Miyagi Ken",
+    "price": 162
   },
   {
     "year": 2008,
-    "prefecture": "Akita",
-    "price": 155
+    "prefecture": "Akita Ken",
+    "price": 147
   },
   {
     "year": 2008,
-    "prefecture": "Yamagata",
-    "price": 148
-  },
-  {
-    "year": 2008,
-    "prefecture": "Fukushima",
-    "price": 165
-  },
-  {
-    "year": 2008,
-    "prefecture": "Ibaraki",
-    "price": 149
-  },
-  {
-    "year": 2008,
-    "prefecture": "Tochigi",
-    "price": 159
-  },
-  {
-    "year": 2008,
-    "prefecture": "Gunma",
-    "price": 164
-  },
-  {
-    "year": 2008,
-    "prefecture": "Saitama",
-    "price": 151
-  },
-  {
-    "year": 2008,
-    "prefecture": "Chiba",
-    "price": 146
-  },
-  {
-    "year": 2008,
-    "prefecture": "Tokyo",
+    "prefecture": "Yamagata Ken",
     "price": 157
   },
   {
     "year": 2008,
-    "prefecture": "Kanagawa",
-    "price": 172
+    "prefecture": "Fukushima Ken",
+    "price": 162
   },
   {
     "year": 2008,
-    "prefecture": "Niigata",
-    "price": 163
-  },
-  {
-    "year": 2008,
-    "prefecture": "Toyama",
-    "price": 158
-  },
-  {
-    "year": 2008,
-    "prefecture": "Ishikawa",
+    "prefecture": "Ibaraki Ken",
     "price": 160
   },
   {
     "year": 2008,
-    "prefecture": "Fukui",
+    "prefecture": "Tochigi Ken",
+    "price": 165
+  },
+  {
+    "year": 2008,
+    "prefecture": "Gunma Ken",
+    "price": 160
+  },
+  {
+    "year": 2008,
+    "prefecture": "Saitama Ken",
+    "price": 163
+  },
+  {
+    "year": 2008,
+    "prefecture": "Chiba Ken",
+    "price": 163
+  },
+  {
+    "year": 2008,
+    "prefecture": "Tokyo To",
+    "price": 156
+  },
+  {
+    "year": 2008,
+    "prefecture": "Kanagawa Ken",
+    "price": 171
+  },
+  {
+    "year": 2008,
+    "prefecture": "Niigata Ken",
+    "price": 152
+  },
+  {
+    "year": 2008,
+    "prefecture": "Toyama Ken",
+    "price": 160
+  },
+  {
+    "year": 2008,
+    "prefecture": "Ishikawa Ken",
+    "price": 165
+  },
+  {
+    "year": 2008,
+    "prefecture": "Fukui Ken",
+    "price": 149
+  },
+  {
+    "year": 2008,
+    "prefecture": "Yamanashi Ken",
+    "price": 162
+  },
+  {
+    "year": 2008,
+    "prefecture": "Nagano Ken",
+    "price": 152
+  },
+  {
+    "year": 2008,
+    "prefecture": "Gifu Ken",
+    "price": 152
+  },
+  {
+    "year": 2008,
+    "prefecture": "Shizuoka Ken",
     "price": 157
   },
   {
     "year": 2008,
-    "prefecture": "Yamanashi",
-    "price": 161
-  },
-  {
-    "year": 2008,
-    "prefecture": "Nagano",
+    "prefecture": "Aichi Ken",
     "price": 155
   },
   {
     "year": 2008,
-    "prefecture": "Gifu",
+    "prefecture": "Mie Ken",
+    "price": 154
+  },
+  {
+    "year": 2008,
+    "prefecture": "Shiga Ken",
+    "price": 156
+  },
+  {
+    "year": 2008,
+    "prefecture": "Kyoto Fu",
+    "price": 157
+  },
+  {
+    "year": 2008,
+    "prefecture": "Osaka Fu",
+    "price": 159
+  },
+  {
+    "year": 2008,
+    "prefecture": "Hyogo Ken",
+    "price": 149
+  },
+  {
+    "year": 2008,
+    "prefecture": "Nara Ken",
+    "price": 162
+  },
+  {
+    "year": 2008,
+    "prefecture": "Wakayama Ken",
+    "price": 157
+  },
+  {
+    "year": 2008,
+    "prefecture": "Tottori Ken",
+    "price": 165
+  },
+  {
+    "year": 2008,
+    "prefecture": "Shimane Ken",
+    "price": 159
+  },
+  {
+    "year": 2008,
+    "prefecture": "Okayama Ken",
+    "price": 161
+  },
+  {
+    "year": 2008,
+    "prefecture": "Hiroshima Ken",
+    "price": 156
+  },
+  {
+    "year": 2008,
+    "prefecture": "Yamaguchi Ken",
+    "price": 153
+  },
+  {
+    "year": 2008,
+    "prefecture": "Tokushima Ken",
+    "price": 155
+  },
+  {
+    "year": 2008,
+    "prefecture": "Kagawa Ken",
+    "price": 154
+  },
+  {
+    "year": 2008,
+    "prefecture": "Ehime Ken",
     "price": 146
   },
   {
     "year": 2008,
-    "prefecture": "Shizuoka",
-    "price": 158
+    "prefecture": "Kochi Ken",
+    "price": 148
   },
   {
     "year": 2008,
-    "prefecture": "Aichi",
-    "price": 159
+    "prefecture": "Fukuoka Ken",
+    "price": 149
   },
   {
     "year": 2008,
-    "prefecture": "Mie",
+    "prefecture": "Saga Ken",
+    "price": 150
+  },
+  {
+    "year": 2008,
+    "prefecture": "Nagasaki Ken",
     "price": 157
   },
   {
     "year": 2008,
-    "prefecture": "Shiga",
-    "price": 150
+    "prefecture": "Kumamoto Ken",
+    "price": 160
   },
   {
     "year": 2008,
-    "prefecture": "Kyoto",
-    "price": 150
-  },
-  {
-    "year": 2008,
-    "prefecture": "Osaka",
-    "price": 156
-  },
-  {
-    "year": 2008,
-    "prefecture": "Hyogo",
-    "price": 165
-  },
-  {
-    "year": 2008,
-    "prefecture": "Nara",
-    "price": 151
-  },
-  {
-    "year": 2008,
-    "prefecture": "Wakayama",
-    "price": 151
-  },
-  {
-    "year": 2008,
-    "prefecture": "Tottori",
-    "price": 152
-  },
-  {
-    "year": 2008,
-    "prefecture": "Shimane",
-    "price": 158
-  },
-  {
-    "year": 2008,
-    "prefecture": "Okayama",
-    "price": 163
-  },
-  {
-    "year": 2008,
-    "prefecture": "Hiroshima",
-    "price": 152
-  },
-  {
-    "year": 2008,
-    "prefecture": "Yamaguchi",
+    "prefecture": "Oita Ken",
     "price": 155
   },
   {
     "year": 2008,
-    "prefecture": "Tokushima",
+    "prefecture": "Miyazaki Ken",
     "price": 161
   },
   {
     "year": 2008,
-    "prefecture": "Kagawa",
-    "price": 150
-  },
-  {
-    "year": 2008,
-    "prefecture": "Ehime",
-    "price": 161
-  },
-  {
-    "year": 2008,
-    "prefecture": "Kochi",
-    "price": 155
-  },
-  {
-    "year": 2008,
-    "prefecture": "Fukuoka",
-    "price": 158
-  },
-  {
-    "year": 2008,
-    "prefecture": "Saga",
-    "price": 153
-  },
-  {
-    "year": 2008,
-    "prefecture": "Nagasaki",
+    "prefecture": "Kagoshima Ken",
     "price": 163
   },
   {
     "year": 2008,
-    "prefecture": "Kumamoto",
-    "price": 163
-  },
-  {
-    "year": 2008,
-    "prefecture": "Oita",
-    "price": 155
-  },
-  {
-    "year": 2008,
-    "prefecture": "Miyazaki",
-    "price": 150
-  },
-  {
-    "year": 2008,
-    "prefecture": "Kagoshima",
-    "price": 158
-  },
-  {
-    "year": 2008,
-    "prefecture": "Okinawa",
-    "price": 169
+    "prefecture": "Okinawa Ken",
+    "price": 174
   },
   {
     "year": 2009,
     "prefecture": "Hokkaido",
-    "price": 171
-  },
-  {
-    "year": 2009,
-    "prefecture": "Aomori",
-    "price": 157
-  },
-  {
-    "year": 2009,
-    "prefecture": "Iwate",
-    "price": 155
-  },
-  {
-    "year": 2009,
-    "prefecture": "Miyagi",
     "price": 166
   },
   {
     "year": 2009,
-    "prefecture": "Akita",
-    "price": 155
-  },
-  {
-    "year": 2009,
-    "prefecture": "Yamagata",
-    "price": 161
-  },
-  {
-    "year": 2009,
-    "prefecture": "Fukushima",
+    "prefecture": "Aomori Ken",
     "price": 166
   },
   {
     "year": 2009,
-    "prefecture": "Ibaraki",
-    "price": 148
+    "prefecture": "Iwate Ken",
+    "price": 160
   },
   {
     "year": 2009,
-    "prefecture": "Tochigi",
+    "prefecture": "Miyagi Ken",
     "price": 167
   },
   {
     "year": 2009,
-    "prefecture": "Gunma",
-    "price": 164
+    "prefecture": "Akita Ken",
+    "price": 156
   },
   {
     "year": 2009,
-    "prefecture": "Saitama",
-    "price": 161
-  },
-  {
-    "year": 2009,
-    "prefecture": "Chiba",
-    "price": 153
-  },
-  {
-    "year": 2009,
-    "prefecture": "Tokyo",
-    "price": 172
-  },
-  {
-    "year": 2009,
-    "prefecture": "Kanagawa",
-    "price": 172
-  },
-  {
-    "year": 2009,
-    "prefecture": "Niigata",
-    "price": 148
-  },
-  {
-    "year": 2009,
-    "prefecture": "Toyama",
-    "price": 165
-  },
-  {
-    "year": 2009,
-    "prefecture": "Ishikawa",
-    "price": 150
-  },
-  {
-    "year": 2009,
-    "prefecture": "Fukui",
-    "price": 161
-  },
-  {
-    "year": 2009,
-    "prefecture": "Yamanashi",
-    "price": 160
-  },
-  {
-    "year": 2009,
-    "prefecture": "Nagano",
-    "price": 165
-  },
-  {
-    "year": 2009,
-    "prefecture": "Gifu",
-    "price": 161
-  },
-  {
-    "year": 2009,
-    "prefecture": "Shizuoka",
-    "price": 166
-  },
-  {
-    "year": 2009,
-    "prefecture": "Aichi",
-    "price": 160
-  },
-  {
-    "year": 2009,
-    "prefecture": "Mie",
-    "price": 162
-  },
-  {
-    "year": 2009,
-    "prefecture": "Shiga",
-    "price": 163
-  },
-  {
-    "year": 2009,
-    "prefecture": "Kyoto",
-    "price": 151
-  },
-  {
-    "year": 2009,
-    "prefecture": "Osaka",
-    "price": 159
-  },
-  {
-    "year": 2009,
-    "prefecture": "Hyogo",
+    "prefecture": "Yamagata Ken",
     "price": 152
   },
   {
     "year": 2009,
-    "prefecture": "Nara",
-    "price": 157
+    "prefecture": "Fukushima Ken",
+    "price": 163
   },
   {
     "year": 2009,
-    "prefecture": "Wakayama",
+    "prefecture": "Ibaraki Ken",
+    "price": 156
+  },
+  {
+    "year": 2009,
+    "prefecture": "Tochigi Ken",
+    "price": 156
+  },
+  {
+    "year": 2009,
+    "prefecture": "Gunma Ken",
+    "price": 161
+  },
+  {
+    "year": 2009,
+    "prefecture": "Saitama Ken",
+    "price": 153
+  },
+  {
+    "year": 2009,
+    "prefecture": "Chiba Ken",
     "price": 149
   },
   {
     "year": 2009,
-    "prefecture": "Tottori",
-    "price": 160
-  },
-  {
-    "year": 2009,
-    "prefecture": "Shimane",
-    "price": 152
-  },
-  {
-    "year": 2009,
-    "prefecture": "Okayama",
-    "price": 154
-  },
-  {
-    "year": 2009,
-    "prefecture": "Hiroshima",
-    "price": 163
-  },
-  {
-    "year": 2009,
-    "prefecture": "Yamaguchi",
+    "prefecture": "Tokyo To",
     "price": 159
   },
   {
     "year": 2009,
-    "prefecture": "Tokushima",
-    "price": 159
+    "prefecture": "Kanagawa Ken",
+    "price": 174
   },
   {
     "year": 2009,
-    "prefecture": "Kagawa",
-    "price": 167
+    "prefecture": "Niigata Ken",
+    "price": 155
   },
   {
     "year": 2009,
-    "prefecture": "Ehime",
-    "price": 162
+    "prefecture": "Toyama Ken",
+    "price": 151
   },
   {
     "year": 2009,
-    "prefecture": "Kochi",
-    "price": 167
-  },
-  {
-    "year": 2009,
-    "prefecture": "Fukuoka",
-    "price": 163
-  },
-  {
-    "year": 2009,
-    "prefecture": "Saga",
-    "price": 167
-  },
-  {
-    "year": 2009,
-    "prefecture": "Nagasaki",
+    "prefecture": "Ishikawa Ken",
     "price": 165
   },
   {
     "year": 2009,
-    "prefecture": "Kumamoto",
-    "price": 161
+    "prefecture": "Fukui Ken",
+    "price": 156
   },
   {
     "year": 2009,
-    "prefecture": "Oita",
+    "prefecture": "Yamanashi Ken",
+    "price": 158
+  },
+  {
+    "year": 2009,
+    "prefecture": "Nagano Ken",
+    "price": 167
+  },
+  {
+    "year": 2009,
+    "prefecture": "Gifu Ken",
+    "price": 151
+  },
+  {
+    "year": 2009,
+    "prefecture": "Shizuoka Ken",
+    "price": 165
+  },
+  {
+    "year": 2009,
+    "prefecture": "Aichi Ken",
+    "price": 164
+  },
+  {
+    "year": 2009,
+    "prefecture": "Mie Ken",
+    "price": 157
+  },
+  {
+    "year": 2009,
+    "prefecture": "Shiga Ken",
+    "price": 158
+  },
+  {
+    "year": 2009,
+    "prefecture": "Kyoto Fu",
+    "price": 153
+  },
+  {
+    "year": 2009,
+    "prefecture": "Osaka Fu",
+    "price": 176
+  },
+  {
+    "year": 2009,
+    "prefecture": "Hyogo Ken",
+    "price": 156
+  },
+  {
+    "year": 2009,
+    "prefecture": "Nara Ken",
+    "price": 149
+  },
+  {
+    "year": 2009,
+    "prefecture": "Wakayama Ken",
+    "price": 156
+  },
+  {
+    "year": 2009,
+    "prefecture": "Tottori Ken",
+    "price": 160
+  },
+  {
+    "year": 2009,
+    "prefecture": "Shimane Ken",
+    "price": 166
+  },
+  {
+    "year": 2009,
+    "prefecture": "Okayama Ken",
+    "price": 155
+  },
+  {
+    "year": 2009,
+    "prefecture": "Hiroshima Ken",
     "price": 148
   },
   {
     "year": 2009,
-    "prefecture": "Miyazaki",
+    "prefecture": "Yamaguchi Ken",
+    "price": 157
+  },
+  {
+    "year": 2009,
+    "prefecture": "Tokushima Ken",
+    "price": 149
+  },
+  {
+    "year": 2009,
+    "prefecture": "Kagawa Ken",
     "price": 150
   },
   {
     "year": 2009,
-    "prefecture": "Kagoshima",
-    "price": 162
+    "prefecture": "Ehime Ken",
+    "price": 158
   },
   {
     "year": 2009,
-    "prefecture": "Okinawa",
-    "price": 177
-  },
-  {
-    "year": 2010,
-    "prefecture": "Hokkaido",
-    "price": 166
-  },
-  {
-    "year": 2010,
-    "prefecture": "Aomori",
+    "prefecture": "Kochi Ken",
     "price": 158
   },
   {
-    "year": 2010,
-    "prefecture": "Iwate",
-    "price": 152
-  },
-  {
-    "year": 2010,
-    "prefecture": "Miyagi",
-    "price": 159
-  },
-  {
-    "year": 2010,
-    "prefecture": "Akita",
-    "price": 168
-  },
-  {
-    "year": 2010,
-    "prefecture": "Yamagata",
-    "price": 150
-  },
-  {
-    "year": 2010,
-    "prefecture": "Fukushima",
-    "price": 157
-  },
-  {
-    "year": 2010,
-    "prefecture": "Ibaraki",
-    "price": 153
-  },
-  {
-    "year": 2010,
-    "prefecture": "Tochigi",
-    "price": 166
-  },
-  {
-    "year": 2010,
-    "prefecture": "Gunma",
-    "price": 162
-  },
-  {
-    "year": 2010,
-    "prefecture": "Saitama",
-    "price": 165
-  },
-  {
-    "year": 2010,
-    "prefecture": "Chiba",
-    "price": 153
-  },
-  {
-    "year": 2010,
-    "prefecture": "Tokyo",
-    "price": 160
-  },
-  {
-    "year": 2010,
-    "prefecture": "Kanagawa",
-    "price": 162
-  },
-  {
-    "year": 2010,
-    "prefecture": "Niigata",
-    "price": 154
-  },
-  {
-    "year": 2010,
-    "prefecture": "Toyama",
-    "price": 155
-  },
-  {
-    "year": 2010,
-    "prefecture": "Ishikawa",
-    "price": 156
-  },
-  {
-    "year": 2010,
-    "prefecture": "Fukui",
+    "year": 2009,
+    "prefecture": "Fukuoka Ken",
     "price": 151
   },
   {
-    "year": 2010,
-    "prefecture": "Yamanashi",
-    "price": 167
+    "year": 2009,
+    "prefecture": "Saga Ken",
+    "price": 158
   },
   {
-    "year": 2010,
-    "prefecture": "Nagano",
-    "price": 162
-  },
-  {
-    "year": 2010,
-    "prefecture": "Gifu",
-    "price": 160
-  },
-  {
-    "year": 2010,
-    "prefecture": "Shizuoka",
+    "year": 2009,
+    "prefecture": "Nagasaki Ken",
     "price": 152
   },
   {
-    "year": 2010,
-    "prefecture": "Aichi",
-    "price": 153
-  },
-  {
-    "year": 2010,
-    "prefecture": "Mie",
-    "price": 157
-  },
-  {
-    "year": 2010,
-    "prefecture": "Shiga",
-    "price": 164
-  },
-  {
-    "year": 2010,
-    "prefecture": "Kyoto",
-    "price": 166
-  },
-  {
-    "year": 2010,
-    "prefecture": "Osaka",
-    "price": 162
-  },
-  {
-    "year": 2010,
-    "prefecture": "Hyogo",
-    "price": 161
-  },
-  {
-    "year": 2010,
-    "prefecture": "Nara",
-    "price": 168
-  },
-  {
-    "year": 2010,
-    "prefecture": "Wakayama",
-    "price": 150
-  },
-  {
-    "year": 2010,
-    "prefecture": "Tottori",
-    "price": 169
-  },
-  {
-    "year": 2010,
-    "prefecture": "Shimane",
-    "price": 157
-  },
-  {
-    "year": 2010,
-    "prefecture": "Okayama",
-    "price": 152
-  },
-  {
-    "year": 2010,
-    "prefecture": "Hiroshima",
-    "price": 161
-  },
-  {
-    "year": 2010,
-    "prefecture": "Yamaguchi",
-    "price": 150
-  },
-  {
-    "year": 2010,
-    "prefecture": "Tokushima",
-    "price": 159
-  },
-  {
-    "year": 2010,
-    "prefecture": "Kagawa",
-    "price": 152
-  },
-  {
-    "year": 2010,
-    "prefecture": "Ehime",
+    "year": 2009,
+    "prefecture": "Kumamoto Ken",
     "price": 163
   },
   {
-    "year": 2010,
-    "prefecture": "Kochi",
+    "year": 2009,
+    "prefecture": "Oita Ken",
     "price": 164
   },
   {
-    "year": 2010,
-    "prefecture": "Fukuoka",
+    "year": 2009,
+    "prefecture": "Miyazaki Ken",
     "price": 164
   },
   {
-    "year": 2010,
-    "prefecture": "Saga",
-    "price": 151
+    "year": 2009,
+    "prefecture": "Kagoshima Ken",
+    "price": 165
   },
   {
-    "year": 2010,
-    "prefecture": "Nagasaki",
-    "price": 157
-  },
-  {
-    "year": 2010,
-    "prefecture": "Kumamoto",
-    "price": 159
+    "year": 2009,
+    "prefecture": "Okinawa Ken",
+    "price": 165
   },
   {
     "year": 2010,
-    "prefecture": "Oita",
-    "price": 154
-  },
-  {
-    "year": 2010,
-    "prefecture": "Miyazaki",
-    "price": 167
-  },
-  {
-    "year": 2010,
-    "prefecture": "Kagoshima",
-    "price": 156
-  },
-  {
-    "year": 2010,
-    "prefecture": "Okinawa",
-    "price": 175
-  },
-  {
-    "year": 2011,
-    "prefecture": "Hokkaido",
-    "price": 170
-  },
-  {
-    "year": 2011,
-    "prefecture": "Aomori",
-    "price": 163
-  },
-  {
-    "year": 2011,
-    "prefecture": "Iwate",
-    "price": 158
-  },
-  {
-    "year": 2011,
-    "prefecture": "Miyagi",
-    "price": 169
-  },
-  {
-    "year": 2011,
-    "prefecture": "Akita",
-    "price": 162
-  },
-  {
-    "year": 2011,
-    "prefecture": "Yamagata",
-    "price": 159
-  },
-  {
-    "year": 2011,
-    "prefecture": "Fukushima",
-    "price": 162
-  },
-  {
-    "year": 2011,
-    "prefecture": "Ibaraki",
-    "price": 165
-  },
-  {
-    "year": 2011,
-    "prefecture": "Tochigi",
-    "price": 165
-  },
-  {
-    "year": 2011,
-    "prefecture": "Gunma",
-    "price": 168
-  },
-  {
-    "year": 2011,
-    "prefecture": "Saitama",
-    "price": 164
-  },
-  {
-    "year": 2011,
-    "prefecture": "Chiba",
-    "price": 157
-  },
-  {
-    "year": 2011,
-    "prefecture": "Tokyo",
-    "price": 174
-  },
-  {
-    "year": 2011,
-    "prefecture": "Kanagawa",
-    "price": 164
-  },
-  {
-    "year": 2011,
-    "prefecture": "Niigata",
-    "price": 164
-  },
-  {
-    "year": 2011,
-    "prefecture": "Toyama",
-    "price": 156
-  },
-  {
-    "year": 2011,
-    "prefecture": "Ishikawa",
-    "price": 156
-  },
-  {
-    "year": 2011,
-    "prefecture": "Fukui",
-    "price": 159
-  },
-  {
-    "year": 2011,
-    "prefecture": "Yamanashi",
-    "price": 160
-  },
-  {
-    "year": 2011,
-    "prefecture": "Nagano",
-    "price": 170
-  },
-  {
-    "year": 2011,
-    "prefecture": "Gifu",
-    "price": 169
-  },
-  {
-    "year": 2011,
-    "prefecture": "Shizuoka",
-    "price": 170
-  },
-  {
-    "year": 2011,
-    "prefecture": "Aichi",
-    "price": 170
-  },
-  {
-    "year": 2011,
-    "prefecture": "Mie",
-    "price": 166
-  },
-  {
-    "year": 2011,
-    "prefecture": "Shiga",
-    "price": 153
-  },
-  {
-    "year": 2011,
-    "prefecture": "Kyoto",
-    "price": 171
-  },
-  {
-    "year": 2011,
-    "prefecture": "Osaka",
-    "price": 171
-  },
-  {
-    "year": 2011,
-    "prefecture": "Hyogo",
-    "price": 155
-  },
-  {
-    "year": 2011,
-    "prefecture": "Nara",
-    "price": 152
-  },
-  {
-    "year": 2011,
-    "prefecture": "Wakayama",
-    "price": 164
-  },
-  {
-    "year": 2011,
-    "prefecture": "Tottori",
-    "price": 156
-  },
-  {
-    "year": 2011,
-    "prefecture": "Shimane",
-    "price": 164
-  },
-  {
-    "year": 2011,
-    "prefecture": "Okayama",
-    "price": 153
-  },
-  {
-    "year": 2011,
-    "prefecture": "Hiroshima",
-    "price": 168
-  },
-  {
-    "year": 2011,
-    "prefecture": "Yamaguchi",
-    "price": 167
-  },
-  {
-    "year": 2011,
-    "prefecture": "Tokushima",
-    "price": 161
-  },
-  {
-    "year": 2011,
-    "prefecture": "Kagawa",
-    "price": 167
-  },
-  {
-    "year": 2011,
-    "prefecture": "Ehime",
-    "price": 171
-  },
-  {
-    "year": 2011,
-    "prefecture": "Kochi",
-    "price": 161
-  },
-  {
-    "year": 2011,
-    "prefecture": "Fukuoka",
-    "price": 166
-  },
-  {
-    "year": 2011,
-    "prefecture": "Saga",
-    "price": 156
-  },
-  {
-    "year": 2011,
-    "prefecture": "Nagasaki",
-    "price": 162
-  },
-  {
-    "year": 2011,
-    "prefecture": "Kumamoto",
-    "price": 153
-  },
-  {
-    "year": 2011,
-    "prefecture": "Oita",
-    "price": 159
-  },
-  {
-    "year": 2011,
-    "prefecture": "Miyazaki",
-    "price": 159
-  },
-  {
-    "year": 2011,
-    "prefecture": "Kagoshima",
-    "price": 155
-  },
-  {
-    "year": 2011,
-    "prefecture": "Okinawa",
-    "price": 168
-  },
-  {
-    "year": 2012,
-    "prefecture": "Hokkaido",
-    "price": 177
-  },
-  {
-    "year": 2012,
-    "prefecture": "Aomori",
-    "price": 155
-  },
-  {
-    "year": 2012,
-    "prefecture": "Iwate",
-    "price": 155
-  },
-  {
-    "year": 2012,
-    "prefecture": "Miyagi",
-    "price": 172
-  },
-  {
-    "year": 2012,
-    "prefecture": "Akita",
-    "price": 165
-  },
-  {
-    "year": 2012,
-    "prefecture": "Yamagata",
-    "price": 173
-  },
-  {
-    "year": 2012,
-    "prefecture": "Fukushima",
-    "price": 173
-  },
-  {
-    "year": 2012,
-    "prefecture": "Ibaraki",
-    "price": 171
-  },
-  {
-    "year": 2012,
-    "prefecture": "Tochigi",
-    "price": 160
-  },
-  {
-    "year": 2012,
-    "prefecture": "Gunma",
-    "price": 161
-  },
-  {
-    "year": 2012,
-    "prefecture": "Saitama",
-    "price": 155
-  },
-  {
-    "year": 2012,
-    "prefecture": "Chiba",
-    "price": 159
-  },
-  {
-    "year": 2012,
-    "prefecture": "Tokyo",
-    "price": 169
-  },
-  {
-    "year": 2012,
-    "prefecture": "Kanagawa",
-    "price": 168
-  },
-  {
-    "year": 2012,
-    "prefecture": "Niigata",
-    "price": 173
-  },
-  {
-    "year": 2012,
-    "prefecture": "Toyama",
-    "price": 169
-  },
-  {
-    "year": 2012,
-    "prefecture": "Ishikawa",
-    "price": 155
-  },
-  {
-    "year": 2012,
-    "prefecture": "Fukui",
-    "price": 173
-  },
-  {
-    "year": 2012,
-    "prefecture": "Yamanashi",
-    "price": 169
-  },
-  {
-    "year": 2012,
-    "prefecture": "Nagano",
-    "price": 170
-  },
-  {
-    "year": 2012,
-    "prefecture": "Gifu",
-    "price": 158
-  },
-  {
-    "year": 2012,
-    "prefecture": "Shizuoka",
-    "price": 168
-  },
-  {
-    "year": 2012,
-    "prefecture": "Aichi",
-    "price": 158
-  },
-  {
-    "year": 2012,
-    "prefecture": "Mie",
-    "price": 165
-  },
-  {
-    "year": 2012,
-    "prefecture": "Shiga",
-    "price": 165
-  },
-  {
-    "year": 2012,
-    "prefecture": "Kyoto",
-    "price": 157
-  },
-  {
-    "year": 2012,
-    "prefecture": "Osaka",
-    "price": 175
-  },
-  {
-    "year": 2012,
-    "prefecture": "Hyogo",
-    "price": 170
-  },
-  {
-    "year": 2012,
-    "prefecture": "Nara",
-    "price": 156
-  },
-  {
-    "year": 2012,
-    "prefecture": "Wakayama",
-    "price": 168
-  },
-  {
-    "year": 2012,
-    "prefecture": "Tottori",
-    "price": 162
-  },
-  {
-    "year": 2012,
-    "prefecture": "Shimane",
-    "price": 166
-  },
-  {
-    "year": 2012,
-    "prefecture": "Okayama",
-    "price": 169
-  },
-  {
-    "year": 2012,
-    "prefecture": "Hiroshima",
-    "price": 168
-  },
-  {
-    "year": 2012,
-    "prefecture": "Yamaguchi",
-    "price": 161
-  },
-  {
-    "year": 2012,
-    "prefecture": "Tokushima",
-    "price": 164
-  },
-  {
-    "year": 2012,
-    "prefecture": "Kagawa",
-    "price": 158
-  },
-  {
-    "year": 2012,
-    "prefecture": "Ehime",
-    "price": 168
-  },
-  {
-    "year": 2012,
-    "prefecture": "Kochi",
-    "price": 167
-  },
-  {
-    "year": 2012,
-    "prefecture": "Fukuoka",
-    "price": 156
-  },
-  {
-    "year": 2012,
-    "prefecture": "Saga",
-    "price": 166
-  },
-  {
-    "year": 2012,
-    "prefecture": "Nagasaki",
-    "price": 154
-  },
-  {
-    "year": 2012,
-    "prefecture": "Kumamoto",
-    "price": 165
-  },
-  {
-    "year": 2012,
-    "prefecture": "Oita",
-    "price": 160
-  },
-  {
-    "year": 2012,
-    "prefecture": "Miyazaki",
-    "price": 157
-  },
-  {
-    "year": 2012,
-    "prefecture": "Kagoshima",
-    "price": 164
-  },
-  {
-    "year": 2012,
-    "prefecture": "Okinawa",
-    "price": 187
-  },
-  {
-    "year": 2013,
-    "prefecture": "Hokkaido",
-    "price": 185
-  },
-  {
-    "year": 2013,
-    "prefecture": "Aomori",
-    "price": 158
-  },
-  {
-    "year": 2013,
-    "prefecture": "Iwate",
-    "price": 167
-  },
-  {
-    "year": 2013,
-    "prefecture": "Miyagi",
-    "price": 172
-  },
-  {
-    "year": 2013,
-    "prefecture": "Akita",
-    "price": 156
-  },
-  {
-    "year": 2013,
-    "prefecture": "Yamagata",
-    "price": 169
-  },
-  {
-    "year": 2013,
-    "prefecture": "Fukushima",
-    "price": 161
-  },
-  {
-    "year": 2013,
-    "prefecture": "Ibaraki",
-    "price": 169
-  },
-  {
-    "year": 2013,
-    "prefecture": "Tochigi",
-    "price": 171
-  },
-  {
-    "year": 2013,
-    "prefecture": "Gunma",
-    "price": 171
-  },
-  {
-    "year": 2013,
-    "prefecture": "Saitama",
-    "price": 163
-  },
-  {
-    "year": 2013,
-    "prefecture": "Chiba",
-    "price": 170
-  },
-  {
-    "year": 2013,
-    "prefecture": "Tokyo",
-    "price": 169
-  },
-  {
-    "year": 2013,
-    "prefecture": "Kanagawa",
-    "price": 170
-  },
-  {
-    "year": 2013,
-    "prefecture": "Niigata",
-    "price": 162
-  },
-  {
-    "year": 2013,
-    "prefecture": "Toyama",
-    "price": 159
-  },
-  {
-    "year": 2013,
-    "prefecture": "Ishikawa",
-    "price": 174
-  },
-  {
-    "year": 2013,
-    "prefecture": "Fukui",
-    "price": 169
-  },
-  {
-    "year": 2013,
-    "prefecture": "Yamanashi",
-    "price": 164
-  },
-  {
-    "year": 2013,
-    "prefecture": "Nagano",
-    "price": 170
-  },
-  {
-    "year": 2013,
-    "prefecture": "Gifu",
-    "price": 173
-  },
-  {
-    "year": 2013,
-    "prefecture": "Shizuoka",
-    "price": 165
-  },
-  {
-    "year": 2013,
-    "prefecture": "Aichi",
-    "price": 160
-  },
-  {
-    "year": 2013,
-    "prefecture": "Mie",
-    "price": 172
-  },
-  {
-    "year": 2013,
-    "prefecture": "Shiga",
-    "price": 157
-  },
-  {
-    "year": 2013,
-    "prefecture": "Kyoto",
-    "price": 161
-  },
-  {
-    "year": 2013,
-    "prefecture": "Osaka",
-    "price": 184
-  },
-  {
-    "year": 2013,
-    "prefecture": "Hyogo",
-    "price": 167
-  },
-  {
-    "year": 2013,
-    "prefecture": "Nara",
-    "price": 166
-  },
-  {
-    "year": 2013,
-    "prefecture": "Wakayama",
-    "price": 171
-  },
-  {
-    "year": 2013,
-    "prefecture": "Tottori",
-    "price": 168
-  },
-  {
-    "year": 2013,
-    "prefecture": "Shimane",
-    "price": 158
-  },
-  {
-    "year": 2013,
-    "prefecture": "Okayama",
-    "price": 158
-  },
-  {
-    "year": 2013,
-    "prefecture": "Hiroshima",
-    "price": 172
-  },
-  {
-    "year": 2013,
-    "prefecture": "Yamaguchi",
-    "price": 165
-  },
-  {
-    "year": 2013,
-    "prefecture": "Tokushima",
-    "price": 158
-  },
-  {
-    "year": 2013,
-    "prefecture": "Kagawa",
-    "price": 172
-  },
-  {
-    "year": 2013,
-    "prefecture": "Ehime",
-    "price": 158
-  },
-  {
-    "year": 2013,
-    "prefecture": "Kochi",
-    "price": 158
-  },
-  {
-    "year": 2013,
-    "prefecture": "Fukuoka",
-    "price": 168
-  },
-  {
-    "year": 2013,
-    "prefecture": "Saga",
-    "price": 165
-  },
-  {
-    "year": 2013,
-    "prefecture": "Nagasaki",
-    "price": 156
-  },
-  {
-    "year": 2013,
-    "prefecture": "Kumamoto",
-    "price": 175
-  },
-  {
-    "year": 2013,
-    "prefecture": "Oita",
-    "price": 174
-  },
-  {
-    "year": 2013,
-    "prefecture": "Miyazaki",
-    "price": 156
-  },
-  {
-    "year": 2013,
-    "prefecture": "Kagoshima",
-    "price": 168
-  },
-  {
-    "year": 2013,
-    "prefecture": "Okinawa",
-    "price": 176
-  },
-  {
-    "year": 2014,
-    "prefecture": "Hokkaido",
-    "price": 183
-  },
-  {
-    "year": 2014,
-    "prefecture": "Aomori",
-    "price": 160
-  },
-  {
-    "year": 2014,
-    "prefecture": "Iwate",
-    "price": 169
-  },
-  {
-    "year": 2014,
-    "prefecture": "Miyagi",
-    "price": 169
-  },
-  {
-    "year": 2014,
-    "prefecture": "Akita",
-    "price": 163
-  },
-  {
-    "year": 2014,
-    "prefecture": "Yamagata",
-    "price": 166
-  },
-  {
-    "year": 2014,
-    "prefecture": "Fukushima",
-    "price": 167
-  },
-  {
-    "year": 2014,
-    "prefecture": "Ibaraki",
-    "price": 160
-  },
-  {
-    "year": 2014,
-    "prefecture": "Tochigi",
-    "price": 163
-  },
-  {
-    "year": 2014,
-    "prefecture": "Gunma",
-    "price": 171
-  },
-  {
-    "year": 2014,
-    "prefecture": "Saitama",
-    "price": 169
-  },
-  {
-    "year": 2014,
-    "prefecture": "Chiba",
-    "price": 158
-  },
-  {
-    "year": 2014,
-    "prefecture": "Tokyo",
-    "price": 181
-  },
-  {
-    "year": 2014,
-    "prefecture": "Kanagawa",
-    "price": 183
-  },
-  {
-    "year": 2014,
-    "prefecture": "Niigata",
-    "price": 175
-  },
-  {
-    "year": 2014,
-    "prefecture": "Toyama",
-    "price": 163
-  },
-  {
-    "year": 2014,
-    "prefecture": "Ishikawa",
-    "price": 167
-  },
-  {
-    "year": 2014,
-    "prefecture": "Fukui",
-    "price": 159
-  },
-  {
-    "year": 2014,
-    "prefecture": "Yamanashi",
-    "price": 173
-  },
-  {
-    "year": 2014,
-    "prefecture": "Nagano",
-    "price": 175
-  },
-  {
-    "year": 2014,
-    "prefecture": "Gifu",
-    "price": 170
-  },
-  {
-    "year": 2014,
-    "prefecture": "Shizuoka",
-    "price": 174
-  },
-  {
-    "year": 2014,
-    "prefecture": "Aichi",
-    "price": 160
-  },
-  {
-    "year": 2014,
-    "prefecture": "Mie",
-    "price": 170
-  },
-  {
-    "year": 2014,
-    "prefecture": "Shiga",
-    "price": 172
-  },
-  {
-    "year": 2014,
-    "prefecture": "Kyoto",
-    "price": 175
-  },
-  {
-    "year": 2014,
-    "prefecture": "Osaka",
-    "price": 184
-  },
-  {
-    "year": 2014,
-    "prefecture": "Hyogo",
-    "price": 162
-  },
-  {
-    "year": 2014,
-    "prefecture": "Nara",
-    "price": 159
-  },
-  {
-    "year": 2014,
-    "prefecture": "Wakayama",
-    "price": 163
-  },
-  {
-    "year": 2014,
-    "prefecture": "Tottori",
-    "price": 173
-  },
-  {
-    "year": 2014,
-    "prefecture": "Shimane",
-    "price": 168
-  },
-  {
-    "year": 2014,
-    "prefecture": "Okayama",
-    "price": 164
-  },
-  {
-    "year": 2014,
-    "prefecture": "Hiroshima",
-    "price": 165
-  },
-  {
-    "year": 2014,
-    "prefecture": "Yamaguchi",
-    "price": 172
-  },
-  {
-    "year": 2014,
-    "prefecture": "Tokushima",
-    "price": 167
-  },
-  {
-    "year": 2014,
-    "prefecture": "Kagawa",
-    "price": 161
-  },
-  {
-    "year": 2014,
-    "prefecture": "Ehime",
-    "price": 168
-  },
-  {
-    "year": 2014,
-    "prefecture": "Kochi",
-    "price": 177
-  },
-  {
-    "year": 2014,
-    "prefecture": "Fukuoka",
-    "price": 168
-  },
-  {
-    "year": 2014,
-    "prefecture": "Saga",
-    "price": 159
-  },
-  {
-    "year": 2014,
-    "prefecture": "Nagasaki",
-    "price": 166
-  },
-  {
-    "year": 2014,
-    "prefecture": "Kumamoto",
-    "price": 165
-  },
-  {
-    "year": 2014,
-    "prefecture": "Oita",
-    "price": 164
-  },
-  {
-    "year": 2014,
-    "prefecture": "Miyazaki",
-    "price": 174
-  },
-  {
-    "year": 2014,
-    "prefecture": "Kagoshima",
-    "price": 163
-  },
-  {
-    "year": 2014,
-    "prefecture": "Okinawa",
-    "price": 175
-  },
-  {
-    "year": 2015,
-    "prefecture": "Hokkaido",
-    "price": 191
-  },
-  {
-    "year": 2015,
-    "prefecture": "Aomori",
-    "price": 162
-  },
-  {
-    "year": 2015,
-    "prefecture": "Iwate",
-    "price": 160
-  },
-  {
-    "year": 2015,
-    "prefecture": "Miyagi",
-    "price": 167
-  },
-  {
-    "year": 2015,
-    "prefecture": "Akita",
-    "price": 178
-  },
-  {
-    "year": 2015,
-    "prefecture": "Yamagata",
-    "price": 177
-  },
-  {
-    "year": 2015,
-    "prefecture": "Fukushima",
-    "price": 163
-  },
-  {
-    "year": 2015,
-    "prefecture": "Ibaraki",
-    "price": 176
-  },
-  {
-    "year": 2015,
-    "prefecture": "Tochigi",
-    "price": 163
-  },
-  {
-    "year": 2015,
-    "prefecture": "Gunma",
-    "price": 173
-  },
-  {
-    "year": 2015,
-    "prefecture": "Saitama",
-    "price": 175
-  },
-  {
-    "year": 2015,
-    "prefecture": "Chiba",
-    "price": 176
-  },
-  {
-    "year": 2015,
-    "prefecture": "Tokyo",
-    "price": 186
-  },
-  {
-    "year": 2015,
-    "prefecture": "Kanagawa",
-    "price": 174
-  },
-  {
-    "year": 2015,
-    "prefecture": "Niigata",
-    "price": 173
-  },
-  {
-    "year": 2015,
-    "prefecture": "Toyama",
-    "price": 178
-  },
-  {
-    "year": 2015,
-    "prefecture": "Ishikawa",
-    "price": 178
-  },
-  {
-    "year": 2015,
-    "prefecture": "Fukui",
-    "price": 174
-  },
-  {
-    "year": 2015,
-    "prefecture": "Yamanashi",
-    "price": 165
-  },
-  {
-    "year": 2015,
-    "prefecture": "Nagano",
-    "price": 161
-  },
-  {
-    "year": 2015,
-    "prefecture": "Gifu",
-    "price": 164
-  },
-  {
-    "year": 2015,
-    "prefecture": "Shizuoka",
-    "price": 161
-  },
-  {
-    "year": 2015,
-    "prefecture": "Aichi",
-    "price": 171
-  },
-  {
-    "year": 2015,
-    "prefecture": "Mie",
-    "price": 160
-  },
-  {
-    "year": 2015,
-    "prefecture": "Shiga",
-    "price": 167
-  },
-  {
-    "year": 2015,
-    "prefecture": "Kyoto",
-    "price": 179
-  },
-  {
-    "year": 2015,
-    "prefecture": "Osaka",
-    "price": 187
-  },
-  {
-    "year": 2015,
-    "prefecture": "Hyogo",
-    "price": 170
-  },
-  {
-    "year": 2015,
-    "prefecture": "Nara",
-    "price": 166
-  },
-  {
-    "year": 2015,
-    "prefecture": "Wakayama",
-    "price": 166
-  },
-  {
-    "year": 2015,
-    "prefecture": "Tottori",
-    "price": 170
-  },
-  {
-    "year": 2015,
-    "prefecture": "Shimane",
-    "price": 164
-  },
-  {
-    "year": 2015,
-    "prefecture": "Okayama",
-    "price": 175
-  },
-  {
-    "year": 2015,
-    "prefecture": "Hiroshima",
-    "price": 164
-  },
-  {
-    "year": 2015,
-    "prefecture": "Yamaguchi",
-    "price": 160
-  },
-  {
-    "year": 2015,
-    "prefecture": "Tokushima",
-    "price": 164
-  },
-  {
-    "year": 2015,
-    "prefecture": "Kagawa",
-    "price": 175
-  },
-  {
-    "year": 2015,
-    "prefecture": "Ehime",
-    "price": 171
-  },
-  {
-    "year": 2015,
-    "prefecture": "Kochi",
-    "price": 161
-  },
-  {
-    "year": 2015,
-    "prefecture": "Fukuoka",
-    "price": 178
-  },
-  {
-    "year": 2015,
-    "prefecture": "Saga",
-    "price": 167
-  },
-  {
-    "year": 2015,
-    "prefecture": "Nagasaki",
-    "price": 178
-  },
-  {
-    "year": 2015,
-    "prefecture": "Kumamoto",
-    "price": 161
-  },
-  {
-    "year": 2015,
-    "prefecture": "Oita",
-    "price": 165
-  },
-  {
-    "year": 2015,
-    "prefecture": "Miyazaki",
-    "price": 176
-  },
-  {
-    "year": 2015,
-    "prefecture": "Kagoshima",
-    "price": 177
-  },
-  {
-    "year": 2015,
-    "prefecture": "Okinawa",
-    "price": 184
-  },
-  {
-    "year": 2016,
     "prefecture": "Hokkaido",
     "price": 181
   },
   {
-    "year": 2016,
-    "prefecture": "Aomori",
-    "price": 169
+    "year": 2010,
+    "prefecture": "Aomori Ken",
+    "price": 160
   },
   {
-    "year": 2016,
-    "prefecture": "Iwate",
-    "price": 171
-  },
-  {
-    "year": 2016,
-    "prefecture": "Miyagi",
-    "price": 168
-  },
-  {
-    "year": 2016,
-    "prefecture": "Akita",
-    "price": 172
-  },
-  {
-    "year": 2016,
-    "prefecture": "Yamagata",
-    "price": 178
-  },
-  {
-    "year": 2016,
-    "prefecture": "Fukushima",
-    "price": 162
-  },
-  {
-    "year": 2016,
-    "prefecture": "Ibaraki",
-    "price": 164
-  },
-  {
-    "year": 2016,
-    "prefecture": "Tochigi",
-    "price": 164
-  },
-  {
-    "year": 2016,
-    "prefecture": "Gunma",
-    "price": 170
-  },
-  {
-    "year": 2016,
-    "prefecture": "Saitama",
-    "price": 178
-  },
-  {
-    "year": 2016,
-    "prefecture": "Chiba",
-    "price": 164
-  },
-  {
-    "year": 2016,
-    "prefecture": "Tokyo",
-    "price": 191
-  },
-  {
-    "year": 2016,
-    "prefecture": "Kanagawa",
-    "price": 183
-  },
-  {
-    "year": 2016,
-    "prefecture": "Niigata",
-    "price": 178
-  },
-  {
-    "year": 2016,
-    "prefecture": "Toyama",
-    "price": 177
-  },
-  {
-    "year": 2016,
-    "prefecture": "Ishikawa",
-    "price": 171
-  },
-  {
-    "year": 2016,
-    "prefecture": "Fukui",
-    "price": 173
-  },
-  {
-    "year": 2016,
-    "prefecture": "Yamanashi",
-    "price": 179
-  },
-  {
-    "year": 2016,
-    "prefecture": "Nagano",
-    "price": 168
-  },
-  {
-    "year": 2016,
-    "prefecture": "Gifu",
-    "price": 172
-  },
-  {
-    "year": 2016,
-    "prefecture": "Shizuoka",
-    "price": 172
-  },
-  {
-    "year": 2016,
-    "prefecture": "Aichi",
+    "year": 2010,
+    "prefecture": "Iwate Ken",
     "price": 165
   },
   {
-    "year": 2016,
-    "prefecture": "Mie",
-    "price": 179
+    "year": 2010,
+    "prefecture": "Miyagi Ken",
+    "price": 154
   },
   {
-    "year": 2016,
-    "prefecture": "Shiga",
+    "year": 2010,
+    "prefecture": "Akita Ken",
+    "price": 150
+  },
+  {
+    "year": 2010,
+    "prefecture": "Yamagata Ken",
+    "price": 165
+  },
+  {
+    "year": 2010,
+    "prefecture": "Fukushima Ken",
+    "price": 157
+  },
+  {
+    "year": 2010,
+    "prefecture": "Ibaraki Ken",
+    "price": 167
+  },
+  {
+    "year": 2010,
+    "prefecture": "Tochigi Ken",
+    "price": 154
+  },
+  {
+    "year": 2010,
+    "prefecture": "Gunma Ken",
+    "price": 163
+  },
+  {
+    "year": 2010,
+    "prefecture": "Saitama Ken",
     "price": 166
   },
   {
-    "year": 2016,
-    "prefecture": "Kyoto",
+    "year": 2010,
+    "prefecture": "Chiba Ken",
+    "price": 163
+  },
+  {
+    "year": 2010,
+    "prefecture": "Tokyo To",
+    "price": 173
+  },
+  {
+    "year": 2010,
+    "prefecture": "Kanagawa Ken",
+    "price": 176
+  },
+  {
+    "year": 2010,
+    "prefecture": "Niigata Ken",
+    "price": 160
+  },
+  {
+    "year": 2010,
+    "prefecture": "Toyama Ken",
+    "price": 158
+  },
+  {
+    "year": 2010,
+    "prefecture": "Ishikawa Ken",
+    "price": 164
+  },
+  {
+    "year": 2010,
+    "prefecture": "Fukui Ken",
+    "price": 169
+  },
+  {
+    "year": 2010,
+    "prefecture": "Yamanashi Ken",
+    "price": 156
+  },
+  {
+    "year": 2010,
+    "prefecture": "Nagano Ken",
+    "price": 151
+  },
+  {
+    "year": 2010,
+    "prefecture": "Gifu Ken",
+    "price": 157
+  },
+  {
+    "year": 2010,
+    "prefecture": "Shizuoka Ken",
+    "price": 159
+  },
+  {
+    "year": 2010,
+    "prefecture": "Aichi Ken",
+    "price": 162
+  },
+  {
+    "year": 2010,
+    "prefecture": "Mie Ken",
+    "price": 160
+  },
+  {
+    "year": 2010,
+    "prefecture": "Shiga Ken",
+    "price": 158
+  },
+  {
+    "year": 2010,
+    "prefecture": "Kyoto Fu",
+    "price": 158
+  },
+  {
+    "year": 2010,
+    "prefecture": "Osaka Fu",
+    "price": 170
+  },
+  {
+    "year": 2010,
+    "prefecture": "Hyogo Ken",
+    "price": 158
+  },
+  {
+    "year": 2010,
+    "prefecture": "Nara Ken",
+    "price": 167
+  },
+  {
+    "year": 2010,
+    "prefecture": "Wakayama Ken",
+    "price": 168
+  },
+  {
+    "year": 2010,
+    "prefecture": "Tottori Ken",
+    "price": 164
+  },
+  {
+    "year": 2010,
+    "prefecture": "Shimane Ken",
+    "price": 163
+  },
+  {
+    "year": 2010,
+    "prefecture": "Okayama Ken",
+    "price": 156
+  },
+  {
+    "year": 2010,
+    "prefecture": "Hiroshima Ken",
+    "price": 161
+  },
+  {
+    "year": 2010,
+    "prefecture": "Yamaguchi Ken",
+    "price": 163
+  },
+  {
+    "year": 2010,
+    "prefecture": "Tokushima Ken",
+    "price": 150
+  },
+  {
+    "year": 2010,
+    "prefecture": "Kagawa Ken",
+    "price": 168
+  },
+  {
+    "year": 2010,
+    "prefecture": "Ehime Ken",
+    "price": 156
+  },
+  {
+    "year": 2010,
+    "prefecture": "Kochi Ken",
+    "price": 150
+  },
+  {
+    "year": 2010,
+    "prefecture": "Fukuoka Ken",
+    "price": 161
+  },
+  {
+    "year": 2010,
+    "prefecture": "Saga Ken",
+    "price": 156
+  },
+  {
+    "year": 2010,
+    "prefecture": "Nagasaki Ken",
+    "price": 164
+  },
+  {
+    "year": 2010,
+    "prefecture": "Kumamoto Ken",
+    "price": 164
+  },
+  {
+    "year": 2010,
+    "prefecture": "Oita Ken",
+    "price": 167
+  },
+  {
+    "year": 2010,
+    "prefecture": "Miyazaki Ken",
+    "price": 166
+  },
+  {
+    "year": 2010,
+    "prefecture": "Kagoshima Ken",
+    "price": 159
+  },
+  {
+    "year": 2010,
+    "prefecture": "Okinawa Ken",
+    "price": 176
+  },
+  {
+    "year": 2011,
+    "prefecture": "Hokkaido",
+    "price": 181
+  },
+  {
+    "year": 2011,
+    "prefecture": "Aomori Ken",
+    "price": 166
+  },
+  {
+    "year": 2011,
+    "prefecture": "Iwate Ken",
+    "price": 154
+  },
+  {
+    "year": 2011,
+    "prefecture": "Miyagi Ken",
+    "price": 163
+  },
+  {
+    "year": 2011,
+    "prefecture": "Akita Ken",
+    "price": 154
+  },
+  {
+    "year": 2011,
+    "prefecture": "Yamagata Ken",
+    "price": 166
+  },
+  {
+    "year": 2011,
+    "prefecture": "Fukushima Ken",
+    "price": 167
+  },
+  {
+    "year": 2011,
+    "prefecture": "Ibaraki Ken",
+    "price": 164
+  },
+  {
+    "year": 2011,
+    "prefecture": "Tochigi Ken",
+    "price": 164
+  },
+  {
+    "year": 2011,
+    "prefecture": "Gunma Ken",
+    "price": 155
+  },
+  {
+    "year": 2011,
+    "prefecture": "Saitama Ken",
+    "price": 164
+  },
+  {
+    "year": 2011,
+    "prefecture": "Chiba Ken",
+    "price": 156
+  },
+  {
+    "year": 2011,
+    "prefecture": "Tokyo To",
+    "price": 163
+  },
+  {
+    "year": 2011,
+    "prefecture": "Kanagawa Ken",
+    "price": 176
+  },
+  {
+    "year": 2011,
+    "prefecture": "Niigata Ken",
+    "price": 152
+  },
+  {
+    "year": 2011,
+    "prefecture": "Toyama Ken",
+    "price": 152
+  },
+  {
+    "year": 2011,
+    "prefecture": "Ishikawa Ken",
     "price": 165
   },
   {
-    "year": 2016,
-    "prefecture": "Osaka",
+    "year": 2011,
+    "prefecture": "Fukui Ken",
+    "price": 157
+  },
+  {
+    "year": 2011,
+    "prefecture": "Yamanashi Ken",
+    "price": 158
+  },
+  {
+    "year": 2011,
+    "prefecture": "Nagano Ken",
+    "price": 163
+  },
+  {
+    "year": 2011,
+    "prefecture": "Gifu Ken",
+    "price": 158
+  },
+  {
+    "year": 2011,
+    "prefecture": "Shizuoka Ken",
+    "price": 165
+  },
+  {
+    "year": 2011,
+    "prefecture": "Aichi Ken",
+    "price": 153
+  },
+  {
+    "year": 2011,
+    "prefecture": "Mie Ken",
+    "price": 157
+  },
+  {
+    "year": 2011,
+    "prefecture": "Shiga Ken",
+    "price": 159
+  },
+  {
+    "year": 2011,
+    "prefecture": "Kyoto Fu",
+    "price": 159
+  },
+  {
+    "year": 2011,
+    "prefecture": "Osaka Fu",
+    "price": 181
+  },
+  {
+    "year": 2011,
+    "prefecture": "Hyogo Ken",
+    "price": 171
+  },
+  {
+    "year": 2011,
+    "prefecture": "Nara Ken",
+    "price": 156
+  },
+  {
+    "year": 2011,
+    "prefecture": "Wakayama Ken",
+    "price": 152
+  },
+  {
+    "year": 2011,
+    "prefecture": "Tottori Ken",
+    "price": 160
+  },
+  {
+    "year": 2011,
+    "prefecture": "Shimane Ken",
+    "price": 161
+  },
+  {
+    "year": 2011,
+    "prefecture": "Okayama Ken",
+    "price": 159
+  },
+  {
+    "year": 2011,
+    "prefecture": "Hiroshima Ken",
+    "price": 164
+  },
+  {
+    "year": 2011,
+    "prefecture": "Yamaguchi Ken",
+    "price": 155
+  },
+  {
+    "year": 2011,
+    "prefecture": "Tokushima Ken",
+    "price": 166
+  },
+  {
+    "year": 2011,
+    "prefecture": "Kagawa Ken",
+    "price": 162
+  },
+  {
+    "year": 2011,
+    "prefecture": "Ehime Ken",
+    "price": 171
+  },
+  {
+    "year": 2011,
+    "prefecture": "Kochi Ken",
+    "price": 155
+  },
+  {
+    "year": 2011,
+    "prefecture": "Fukuoka Ken",
+    "price": 155
+  },
+  {
+    "year": 2011,
+    "prefecture": "Saga Ken",
+    "price": 165
+  },
+  {
+    "year": 2011,
+    "prefecture": "Nagasaki Ken",
+    "price": 169
+  },
+  {
+    "year": 2011,
+    "prefecture": "Kumamoto Ken",
+    "price": 163
+  },
+  {
+    "year": 2011,
+    "prefecture": "Oita Ken",
+    "price": 157
+  },
+  {
+    "year": 2011,
+    "prefecture": "Miyazaki Ken",
+    "price": 165
+  },
+  {
+    "year": 2011,
+    "prefecture": "Kagoshima Ken",
+    "price": 165
+  },
+  {
+    "year": 2011,
+    "prefecture": "Okinawa Ken",
+    "price": 170
+  },
+  {
+    "year": 2012,
+    "prefecture": "Hokkaido",
+    "price": 174
+  },
+  {
+    "year": 2012,
+    "prefecture": "Aomori Ken",
+    "price": 157
+  },
+  {
+    "year": 2012,
+    "prefecture": "Iwate Ken",
+    "price": 168
+  },
+  {
+    "year": 2012,
+    "prefecture": "Miyagi Ken",
+    "price": 173
+  },
+  {
+    "year": 2012,
+    "prefecture": "Akita Ken",
+    "price": 162
+  },
+  {
+    "year": 2012,
+    "prefecture": "Yamagata Ken",
+    "price": 160
+  },
+  {
+    "year": 2012,
+    "prefecture": "Fukushima Ken",
+    "price": 170
+  },
+  {
+    "year": 2012,
+    "prefecture": "Ibaraki Ken",
+    "price": 165
+  },
+  {
+    "year": 2012,
+    "prefecture": "Tochigi Ken",
+    "price": 168
+  },
+  {
+    "year": 2012,
+    "prefecture": "Gunma Ken",
+    "price": 161
+  },
+  {
+    "year": 2012,
+    "prefecture": "Saitama Ken",
+    "price": 165
+  },
+  {
+    "year": 2012,
+    "prefecture": "Chiba Ken",
+    "price": 157
+  },
+  {
+    "year": 2012,
+    "prefecture": "Tokyo To",
     "price": 182
   },
   {
-    "year": 2016,
-    "prefecture": "Hyogo",
-    "price": 181
-  },
-  {
-    "year": 2016,
-    "prefecture": "Nara",
-    "price": 176
-  },
-  {
-    "year": 2016,
-    "prefecture": "Wakayama",
-    "price": 163
-  },
-  {
-    "year": 2016,
-    "prefecture": "Tottori",
-    "price": 172
-  },
-  {
-    "year": 2016,
-    "prefecture": "Shimane",
-    "price": 178
-  },
-  {
-    "year": 2016,
-    "prefecture": "Okayama",
-    "price": 172
-  },
-  {
-    "year": 2016,
-    "prefecture": "Hiroshima",
-    "price": 172
-  },
-  {
-    "year": 2016,
-    "prefecture": "Yamaguchi",
-    "price": 163
-  },
-  {
-    "year": 2016,
-    "prefecture": "Tokushima",
-    "price": 175
-  },
-  {
-    "year": 2016,
-    "prefecture": "Kagawa",
-    "price": 172
-  },
-  {
-    "year": 2016,
-    "prefecture": "Ehime",
-    "price": 177
-  },
-  {
-    "year": 2016,
-    "prefecture": "Kochi",
-    "price": 178
-  },
-  {
-    "year": 2016,
-    "prefecture": "Fukuoka",
-    "price": 174
-  },
-  {
-    "year": 2016,
-    "prefecture": "Saga",
-    "price": 171
-  },
-  {
-    "year": 2016,
-    "prefecture": "Nagasaki",
-    "price": 178
-  },
-  {
-    "year": 2016,
-    "prefecture": "Kumamoto",
-    "price": 178
-  },
-  {
-    "year": 2016,
-    "prefecture": "Oita",
-    "price": 169
-  },
-  {
-    "year": 2016,
-    "prefecture": "Miyazaki",
-    "price": 166
-  },
-  {
-    "year": 2016,
-    "prefecture": "Kagoshima",
-    "price": 178
-  },
-  {
-    "year": 2016,
-    "prefecture": "Okinawa",
-    "price": 182
-  },
-  {
-    "year": 2017,
-    "prefecture": "Hokkaido",
-    "price": 191
-  },
-  {
-    "year": 2017,
-    "prefecture": "Aomori",
-    "price": 167
-  },
-  {
-    "year": 2017,
-    "prefecture": "Iwate",
-    "price": 166
-  },
-  {
-    "year": 2017,
-    "prefecture": "Miyagi",
-    "price": 171
-  },
-  {
-    "year": 2017,
-    "prefecture": "Akita",
-    "price": 165
-  },
-  {
-    "year": 2017,
-    "prefecture": "Yamagata",
-    "price": 178
-  },
-  {
-    "year": 2017,
-    "prefecture": "Fukushima",
-    "price": 180
-  },
-  {
-    "year": 2017,
-    "prefecture": "Ibaraki",
-    "price": 179
-  },
-  {
-    "year": 2017,
-    "prefecture": "Tochigi",
+    "year": 2012,
+    "prefecture": "Kanagawa Ken",
     "price": 164
   },
   {
-    "year": 2017,
-    "prefecture": "Gunma",
-    "price": 170
-  },
-  {
-    "year": 2017,
-    "prefecture": "Saitama",
+    "year": 2012,
+    "prefecture": "Niigata Ken",
     "price": 165
   },
   {
-    "year": 2017,
-    "prefecture": "Chiba",
+    "year": 2012,
+    "prefecture": "Toyama Ken",
+    "price": 159
+  },
+  {
+    "year": 2012,
+    "prefecture": "Ishikawa Ken",
+    "price": 162
+  },
+  {
+    "year": 2012,
+    "prefecture": "Fukui Ken",
+    "price": 160
+  },
+  {
+    "year": 2012,
+    "prefecture": "Yamanashi Ken",
+    "price": 157
+  },
+  {
+    "year": 2012,
+    "prefecture": "Nagano Ken",
+    "price": 155
+  },
+  {
+    "year": 2012,
+    "prefecture": "Gifu Ken",
+    "price": 165
+  },
+  {
+    "year": 2012,
+    "prefecture": "Shizuoka Ken",
+    "price": 159
+  },
+  {
+    "year": 2012,
+    "prefecture": "Aichi Ken",
+    "price": 172
+  },
+  {
+    "year": 2012,
+    "prefecture": "Mie Ken",
+    "price": 170
+  },
+  {
+    "year": 2012,
+    "prefecture": "Shiga Ken",
+    "price": 166
+  },
+  {
+    "year": 2012,
+    "prefecture": "Kyoto Fu",
+    "price": 167
+  },
+  {
+    "year": 2012,
+    "prefecture": "Osaka Fu",
+    "price": 177
+  },
+  {
+    "year": 2012,
+    "prefecture": "Hyogo Ken",
+    "price": 155
+  },
+  {
+    "year": 2012,
+    "prefecture": "Nara Ken",
+    "price": 163
+  },
+  {
+    "year": 2012,
+    "prefecture": "Wakayama Ken",
+    "price": 173
+  },
+  {
+    "year": 2012,
+    "prefecture": "Tottori Ken",
+    "price": 165
+  },
+  {
+    "year": 2012,
+    "prefecture": "Shimane Ken",
+    "price": 166
+  },
+  {
+    "year": 2012,
+    "prefecture": "Okayama Ken",
+    "price": 156
+  },
+  {
+    "year": 2012,
+    "prefecture": "Hiroshima Ken",
+    "price": 165
+  },
+  {
+    "year": 2012,
+    "prefecture": "Yamaguchi Ken",
+    "price": 156
+  },
+  {
+    "year": 2012,
+    "prefecture": "Tokushima Ken",
+    "price": 164
+  },
+  {
+    "year": 2012,
+    "prefecture": "Kagawa Ken",
+    "price": 160
+  },
+  {
+    "year": 2012,
+    "prefecture": "Ehime Ken",
+    "price": 154
+  },
+  {
+    "year": 2012,
+    "prefecture": "Kochi Ken",
+    "price": 169
+  },
+  {
+    "year": 2012,
+    "prefecture": "Fukuoka Ken",
+    "price": 171
+  },
+  {
+    "year": 2012,
+    "prefecture": "Saga Ken",
+    "price": 157
+  },
+  {
+    "year": 2012,
+    "prefecture": "Nagasaki Ken",
+    "price": 158
+  },
+  {
+    "year": 2012,
+    "prefecture": "Kumamoto Ken",
+    "price": 171
+  },
+  {
+    "year": 2012,
+    "prefecture": "Oita Ken",
+    "price": 160
+  },
+  {
+    "year": 2012,
+    "prefecture": "Miyazaki Ken",
+    "price": 158
+  },
+  {
+    "year": 2012,
+    "prefecture": "Kagoshima Ken",
+    "price": 154
+  },
+  {
+    "year": 2012,
+    "prefecture": "Okinawa Ken",
+    "price": 179
+  },
+  {
+    "year": 2013,
+    "prefecture": "Hokkaido",
+    "price": 184
+  },
+  {
+    "year": 2013,
+    "prefecture": "Aomori Ken",
+    "price": 165
+  },
+  {
+    "year": 2013,
+    "prefecture": "Iwate Ken",
+    "price": 162
+  },
+  {
+    "year": 2013,
+    "prefecture": "Miyagi Ken",
+    "price": 167
+  },
+  {
+    "year": 2013,
+    "prefecture": "Akita Ken",
+    "price": 171
+  },
+  {
+    "year": 2013,
+    "prefecture": "Yamagata Ken",
+    "price": 156
+  },
+  {
+    "year": 2013,
+    "prefecture": "Fukushima Ken",
+    "price": 162
+  },
+  {
+    "year": 2013,
+    "prefecture": "Ibaraki Ken",
+    "price": 157
+  },
+  {
+    "year": 2013,
+    "prefecture": "Tochigi Ken",
+    "price": 158
+  },
+  {
+    "year": 2013,
+    "prefecture": "Gunma Ken",
+    "price": 165
+  },
+  {
+    "year": 2013,
+    "prefecture": "Saitama Ken",
+    "price": 156
+  },
+  {
+    "year": 2013,
+    "prefecture": "Chiba Ken",
+    "price": 173
+  },
+  {
+    "year": 2013,
+    "prefecture": "Tokyo To",
+    "price": 177
+  },
+  {
+    "year": 2013,
+    "prefecture": "Kanagawa Ken",
+    "price": 172
+  },
+  {
+    "year": 2013,
+    "prefecture": "Niigata Ken",
+    "price": 170
+  },
+  {
+    "year": 2013,
+    "prefecture": "Toyama Ken",
+    "price": 157
+  },
+  {
+    "year": 2013,
+    "prefecture": "Ishikawa Ken",
+    "price": 161
+  },
+  {
+    "year": 2013,
+    "prefecture": "Fukui Ken",
     "price": 168
   },
   {
-    "year": 2017,
-    "prefecture": "Tokyo",
-    "price": 185
+    "year": 2013,
+    "prefecture": "Yamanashi Ken",
+    "price": 169
   },
   {
-    "year": 2017,
-    "prefecture": "Kanagawa",
+    "year": 2013,
+    "prefecture": "Nagano Ken",
+    "price": 170
+  },
+  {
+    "year": 2013,
+    "prefecture": "Gifu Ken",
+    "price": 157
+  },
+  {
+    "year": 2013,
+    "prefecture": "Shizuoka Ken",
+    "price": 169
+  },
+  {
+    "year": 2013,
+    "prefecture": "Aichi Ken",
+    "price": 157
+  },
+  {
+    "year": 2013,
+    "prefecture": "Mie Ken",
+    "price": 165
+  },
+  {
+    "year": 2013,
+    "prefecture": "Shiga Ken",
+    "price": 168
+  },
+  {
+    "year": 2013,
+    "prefecture": "Kyoto Fu",
+    "price": 156
+  },
+  {
+    "year": 2013,
+    "prefecture": "Osaka Fu",
+    "price": 178
+  },
+  {
+    "year": 2013,
+    "prefecture": "Hyogo Ken",
+    "price": 166
+  },
+  {
+    "year": 2013,
+    "prefecture": "Nara Ken",
+    "price": 175
+  },
+  {
+    "year": 2013,
+    "prefecture": "Wakayama Ken",
+    "price": 156
+  },
+  {
+    "year": 2013,
+    "prefecture": "Tottori Ken",
+    "price": 173
+  },
+  {
+    "year": 2013,
+    "prefecture": "Shimane Ken",
+    "price": 175
+  },
+  {
+    "year": 2013,
+    "prefecture": "Okayama Ken",
+    "price": 157
+  },
+  {
+    "year": 2013,
+    "prefecture": "Hiroshima Ken",
+    "price": 160
+  },
+  {
+    "year": 2013,
+    "prefecture": "Yamaguchi Ken",
+    "price": 156
+  },
+  {
+    "year": 2013,
+    "prefecture": "Tokushima Ken",
+    "price": 168
+  },
+  {
+    "year": 2013,
+    "prefecture": "Kagawa Ken",
+    "price": 156
+  },
+  {
+    "year": 2013,
+    "prefecture": "Ehime Ken",
+    "price": 159
+  },
+  {
+    "year": 2013,
+    "prefecture": "Kochi Ken",
+    "price": 164
+  },
+  {
+    "year": 2013,
+    "prefecture": "Fukuoka Ken",
+    "price": 174
+  },
+  {
+    "year": 2013,
+    "prefecture": "Saga Ken",
+    "price": 162
+  },
+  {
+    "year": 2013,
+    "prefecture": "Nagasaki Ken",
+    "price": 168
+  },
+  {
+    "year": 2013,
+    "prefecture": "Kumamoto Ken",
+    "price": 162
+  },
+  {
+    "year": 2013,
+    "prefecture": "Oita Ken",
+    "price": 165
+  },
+  {
+    "year": 2013,
+    "prefecture": "Miyazaki Ken",
+    "price": 175
+  },
+  {
+    "year": 2013,
+    "prefecture": "Kagoshima Ken",
+    "price": 164
+  },
+  {
+    "year": 2013,
+    "prefecture": "Okinawa Ken",
+    "price": 172
+  },
+  {
+    "year": 2014,
+    "prefecture": "Hokkaido",
+    "price": 178
+  },
+  {
+    "year": 2014,
+    "prefecture": "Aomori Ken",
+    "price": 176
+  },
+  {
+    "year": 2014,
+    "prefecture": "Iwate Ken",
+    "price": 170
+  },
+  {
+    "year": 2014,
+    "prefecture": "Miyagi Ken",
+    "price": 163
+  },
+  {
+    "year": 2014,
+    "prefecture": "Akita Ken",
+    "price": 170
+  },
+  {
+    "year": 2014,
+    "prefecture": "Yamagata Ken",
+    "price": 177
+  },
+  {
+    "year": 2014,
+    "prefecture": "Fukushima Ken",
+    "price": 160
+  },
+  {
+    "year": 2014,
+    "prefecture": "Ibaraki Ken",
+    "price": 159
+  },
+  {
+    "year": 2014,
+    "prefecture": "Tochigi Ken",
+    "price": 161
+  },
+  {
+    "year": 2014,
+    "prefecture": "Gunma Ken",
+    "price": 159
+  },
+  {
+    "year": 2014,
+    "prefecture": "Saitama Ken",
+    "price": 173
+  },
+  {
+    "year": 2014,
+    "prefecture": "Chiba Ken",
+    "price": 171
+  },
+  {
+    "year": 2014,
+    "prefecture": "Tokyo To",
+    "price": 177
+  },
+  {
+    "year": 2014,
+    "prefecture": "Kanagawa Ken",
+    "price": 182
+  },
+  {
+    "year": 2014,
+    "prefecture": "Niigata Ken",
+    "price": 177
+  },
+  {
+    "year": 2014,
+    "prefecture": "Toyama Ken",
+    "price": 166
+  },
+  {
+    "year": 2014,
+    "prefecture": "Ishikawa Ken",
+    "price": 159
+  },
+  {
+    "year": 2014,
+    "prefecture": "Fukui Ken",
+    "price": 177
+  },
+  {
+    "year": 2014,
+    "prefecture": "Yamanashi Ken",
+    "price": 158
+  },
+  {
+    "year": 2014,
+    "prefecture": "Nagano Ken",
+    "price": 166
+  },
+  {
+    "year": 2014,
+    "prefecture": "Gifu Ken",
+    "price": 159
+  },
+  {
+    "year": 2014,
+    "prefecture": "Shizuoka Ken",
+    "price": 177
+  },
+  {
+    "year": 2014,
+    "prefecture": "Aichi Ken",
+    "price": 174
+  },
+  {
+    "year": 2014,
+    "prefecture": "Mie Ken",
+    "price": 171
+  },
+  {
+    "year": 2014,
+    "prefecture": "Shiga Ken",
+    "price": 165
+  },
+  {
+    "year": 2014,
+    "prefecture": "Kyoto Fu",
+    "price": 166
+  },
+  {
+    "year": 2014,
+    "prefecture": "Osaka Fu",
+    "price": 180
+  },
+  {
+    "year": 2014,
+    "prefecture": "Hyogo Ken",
+    "price": 165
+  },
+  {
+    "year": 2014,
+    "prefecture": "Nara Ken",
+    "price": 177
+  },
+  {
+    "year": 2014,
+    "prefecture": "Wakayama Ken",
+    "price": 174
+  },
+  {
+    "year": 2014,
+    "prefecture": "Tottori Ken",
+    "price": 165
+  },
+  {
+    "year": 2014,
+    "prefecture": "Shimane Ken",
+    "price": 173
+  },
+  {
+    "year": 2014,
+    "prefecture": "Okayama Ken",
+    "price": 162
+  },
+  {
+    "year": 2014,
+    "prefecture": "Hiroshima Ken",
+    "price": 158
+  },
+  {
+    "year": 2014,
+    "prefecture": "Yamaguchi Ken",
+    "price": 177
+  },
+  {
+    "year": 2014,
+    "prefecture": "Tokushima Ken",
+    "price": 177
+  },
+  {
+    "year": 2014,
+    "prefecture": "Kagawa Ken",
+    "price": 161
+  },
+  {
+    "year": 2014,
+    "prefecture": "Ehime Ken",
+    "price": 176
+  },
+  {
+    "year": 2014,
+    "prefecture": "Kochi Ken",
+    "price": 160
+  },
+  {
+    "year": 2014,
+    "prefecture": "Fukuoka Ken",
+    "price": 163
+  },
+  {
+    "year": 2014,
+    "prefecture": "Saga Ken",
+    "price": 173
+  },
+  {
+    "year": 2014,
+    "prefecture": "Nagasaki Ken",
+    "price": 164
+  },
+  {
+    "year": 2014,
+    "prefecture": "Kumamoto Ken",
+    "price": 168
+  },
+  {
+    "year": 2014,
+    "prefecture": "Oita Ken",
+    "price": 163
+  },
+  {
+    "year": 2014,
+    "prefecture": "Miyazaki Ken",
+    "price": 173
+  },
+  {
+    "year": 2014,
+    "prefecture": "Kagoshima Ken",
+    "price": 170
+  },
+  {
+    "year": 2014,
+    "prefecture": "Okinawa Ken",
+    "price": 191
+  },
+  {
+    "year": 2015,
+    "prefecture": "Hokkaido",
+    "price": 188
+  },
+  {
+    "year": 2015,
+    "prefecture": "Aomori Ken",
+    "price": 171
+  },
+  {
+    "year": 2015,
+    "prefecture": "Iwate Ken",
+    "price": 163
+  },
+  {
+    "year": 2015,
+    "prefecture": "Miyagi Ken",
+    "price": 173
+  },
+  {
+    "year": 2015,
+    "prefecture": "Akita Ken",
+    "price": 179
+  },
+  {
+    "year": 2015,
+    "prefecture": "Yamagata Ken",
+    "price": 171
+  },
+  {
+    "year": 2015,
+    "prefecture": "Fukushima Ken",
+    "price": 165
+  },
+  {
+    "year": 2015,
+    "prefecture": "Ibaraki Ken",
+    "price": 169
+  },
+  {
+    "year": 2015,
+    "prefecture": "Tochigi Ken",
+    "price": 163
+  },
+  {
+    "year": 2015,
+    "prefecture": "Gunma Ken",
+    "price": 171
+  },
+  {
+    "year": 2015,
+    "prefecture": "Saitama Ken",
+    "price": 174
+  },
+  {
+    "year": 2015,
+    "prefecture": "Chiba Ken",
+    "price": 165
+  },
+  {
+    "year": 2015,
+    "prefecture": "Tokyo To",
     "price": 189
   },
   {
+    "year": 2015,
+    "prefecture": "Kanagawa Ken",
+    "price": 181
+  },
+  {
+    "year": 2015,
+    "prefecture": "Niigata Ken",
+    "price": 160
+  },
+  {
+    "year": 2015,
+    "prefecture": "Toyama Ken",
+    "price": 179
+  },
+  {
+    "year": 2015,
+    "prefecture": "Ishikawa Ken",
+    "price": 167
+  },
+  {
+    "year": 2015,
+    "prefecture": "Fukui Ken",
+    "price": 176
+  },
+  {
+    "year": 2015,
+    "prefecture": "Yamanashi Ken",
+    "price": 170
+  },
+  {
+    "year": 2015,
+    "prefecture": "Nagano Ken",
+    "price": 171
+  },
+  {
+    "year": 2015,
+    "prefecture": "Gifu Ken",
+    "price": 168
+  },
+  {
+    "year": 2015,
+    "prefecture": "Shizuoka Ken",
+    "price": 171
+  },
+  {
+    "year": 2015,
+    "prefecture": "Aichi Ken",
+    "price": 175
+  },
+  {
+    "year": 2015,
+    "prefecture": "Mie Ken",
+    "price": 166
+  },
+  {
+    "year": 2015,
+    "prefecture": "Shiga Ken",
+    "price": 160
+  },
+  {
+    "year": 2015,
+    "prefecture": "Kyoto Fu",
+    "price": 170
+  },
+  {
+    "year": 2015,
+    "prefecture": "Osaka Fu",
+    "price": 170
+  },
+  {
+    "year": 2015,
+    "prefecture": "Hyogo Ken",
+    "price": 176
+  },
+  {
+    "year": 2015,
+    "prefecture": "Nara Ken",
+    "price": 168
+  },
+  {
+    "year": 2015,
+    "prefecture": "Wakayama Ken",
+    "price": 161
+  },
+  {
+    "year": 2015,
+    "prefecture": "Tottori Ken",
+    "price": 165
+  },
+  {
+    "year": 2015,
+    "prefecture": "Shimane Ken",
+    "price": 171
+  },
+  {
+    "year": 2015,
+    "prefecture": "Okayama Ken",
+    "price": 172
+  },
+  {
+    "year": 2015,
+    "prefecture": "Hiroshima Ken",
+    "price": 167
+  },
+  {
+    "year": 2015,
+    "prefecture": "Yamaguchi Ken",
+    "price": 165
+  },
+  {
+    "year": 2015,
+    "prefecture": "Tokushima Ken",
+    "price": 179
+  },
+  {
+    "year": 2015,
+    "prefecture": "Kagawa Ken",
+    "price": 171
+  },
+  {
+    "year": 2015,
+    "prefecture": "Ehime Ken",
+    "price": 171
+  },
+  {
+    "year": 2015,
+    "prefecture": "Kochi Ken",
+    "price": 163
+  },
+  {
+    "year": 2015,
+    "prefecture": "Fukuoka Ken",
+    "price": 179
+  },
+  {
+    "year": 2015,
+    "prefecture": "Saga Ken",
+    "price": 178
+  },
+  {
+    "year": 2015,
+    "prefecture": "Nagasaki Ken",
+    "price": 178
+  },
+  {
+    "year": 2015,
+    "prefecture": "Kumamoto Ken",
+    "price": 179
+  },
+  {
+    "year": 2015,
+    "prefecture": "Oita Ken",
+    "price": 178
+  },
+  {
+    "year": 2015,
+    "prefecture": "Miyazaki Ken",
+    "price": 169
+  },
+  {
+    "year": 2015,
+    "prefecture": "Kagoshima Ken",
+    "price": 168
+  },
+  {
+    "year": 2015,
+    "prefecture": "Okinawa Ken",
+    "price": 177
+  },
+  {
+    "year": 2016,
+    "prefecture": "Hokkaido",
+    "price": 194
+  },
+  {
+    "year": 2016,
+    "prefecture": "Aomori Ken",
+    "price": 165
+  },
+  {
+    "year": 2016,
+    "prefecture": "Iwate Ken",
+    "price": 174
+  },
+  {
+    "year": 2016,
+    "prefecture": "Miyagi Ken",
+    "price": 169
+  },
+  {
+    "year": 2016,
+    "prefecture": "Akita Ken",
+    "price": 164
+  },
+  {
+    "year": 2016,
+    "prefecture": "Yamagata Ken",
+    "price": 172
+  },
+  {
+    "year": 2016,
+    "prefecture": "Fukushima Ken",
+    "price": 177
+  },
+  {
+    "year": 2016,
+    "prefecture": "Ibaraki Ken",
+    "price": 180
+  },
+  {
+    "year": 2016,
+    "prefecture": "Tochigi Ken",
+    "price": 177
+  },
+  {
+    "year": 2016,
+    "prefecture": "Gunma Ken",
+    "price": 167
+  },
+  {
+    "year": 2016,
+    "prefecture": "Saitama Ken",
+    "price": 162
+  },
+  {
+    "year": 2016,
+    "prefecture": "Chiba Ken",
+    "price": 173
+  },
+  {
+    "year": 2016,
+    "prefecture": "Tokyo To",
+    "price": 181
+  },
+  {
+    "year": 2016,
+    "prefecture": "Kanagawa Ken",
+    "price": 179
+  },
+  {
+    "year": 2016,
+    "prefecture": "Niigata Ken",
+    "price": 170
+  },
+  {
+    "year": 2016,
+    "prefecture": "Toyama Ken",
+    "price": 169
+  },
+  {
+    "year": 2016,
+    "prefecture": "Ishikawa Ken",
+    "price": 165
+  },
+  {
+    "year": 2016,
+    "prefecture": "Fukui Ken",
+    "price": 169
+  },
+  {
+    "year": 2016,
+    "prefecture": "Yamanashi Ken",
+    "price": 170
+  },
+  {
+    "year": 2016,
+    "prefecture": "Nagano Ken",
+    "price": 163
+  },
+  {
+    "year": 2016,
+    "prefecture": "Gifu Ken",
+    "price": 163
+  },
+  {
+    "year": 2016,
+    "prefecture": "Shizuoka Ken",
+    "price": 171
+  },
+  {
+    "year": 2016,
+    "prefecture": "Aichi Ken",
+    "price": 181
+  },
+  {
+    "year": 2016,
+    "prefecture": "Mie Ken",
+    "price": 174
+  },
+  {
+    "year": 2016,
+    "prefecture": "Shiga Ken",
+    "price": 167
+  },
+  {
+    "year": 2016,
+    "prefecture": "Kyoto Fu",
+    "price": 164
+  },
+  {
+    "year": 2016,
+    "prefecture": "Osaka Fu",
+    "price": 184
+  },
+  {
+    "year": 2016,
+    "prefecture": "Hyogo Ken",
+    "price": 167
+  },
+  {
+    "year": 2016,
+    "prefecture": "Nara Ken",
+    "price": 167
+  },
+  {
+    "year": 2016,
+    "prefecture": "Wakayama Ken",
+    "price": 170
+  },
+  {
+    "year": 2016,
+    "prefecture": "Tottori Ken",
+    "price": 170
+  },
+  {
+    "year": 2016,
+    "prefecture": "Shimane Ken",
+    "price": 162
+  },
+  {
+    "year": 2016,
+    "prefecture": "Okayama Ken",
+    "price": 164
+  },
+  {
+    "year": 2016,
+    "prefecture": "Hiroshima Ken",
+    "price": 163
+  },
+  {
+    "year": 2016,
+    "prefecture": "Yamaguchi Ken",
+    "price": 166
+  },
+  {
+    "year": 2016,
+    "prefecture": "Tokushima Ken",
+    "price": 163
+  },
+  {
+    "year": 2016,
+    "prefecture": "Kagawa Ken",
+    "price": 172
+  },
+  {
+    "year": 2016,
+    "prefecture": "Ehime Ken",
+    "price": 178
+  },
+  {
+    "year": 2016,
+    "prefecture": "Kochi Ken",
+    "price": 172
+  },
+  {
+    "year": 2016,
+    "prefecture": "Fukuoka Ken",
+    "price": 181
+  },
+  {
+    "year": 2016,
+    "prefecture": "Saga Ken",
+    "price": 172
+  },
+  {
+    "year": 2016,
+    "prefecture": "Nagasaki Ken",
+    "price": 168
+  },
+  {
+    "year": 2016,
+    "prefecture": "Kumamoto Ken",
+    "price": 168
+  },
+  {
+    "year": 2016,
+    "prefecture": "Oita Ken",
+    "price": 180
+  },
+  {
+    "year": 2016,
+    "prefecture": "Miyazaki Ken",
+    "price": 169
+  },
+  {
+    "year": 2016,
+    "prefecture": "Kagoshima Ken",
+    "price": 176
+  },
+  {
+    "year": 2016,
+    "prefecture": "Okinawa Ken",
+    "price": 185
+  },
+  {
     "year": 2017,
-    "prefecture": "Niigata",
+    "prefecture": "Hokkaido",
     "price": 183
   },
   {
     "year": 2017,
-    "prefecture": "Toyama",
-    "price": 180
+    "prefecture": "Aomori Ken",
+    "price": 181
   },
   {
     "year": 2017,
-    "prefecture": "Ishikawa",
-    "price": 169
+    "prefecture": "Iwate Ken",
+    "price": 178
   },
   {
     "year": 2017,
-    "prefecture": "Fukui",
-    "price": 168
-  },
-  {
-    "year": 2017,
-    "prefecture": "Yamanashi",
-    "price": 182
-  },
-  {
-    "year": 2017,
-    "prefecture": "Nagano",
-    "price": 164
-  },
-  {
-    "year": 2017,
-    "prefecture": "Gifu",
-    "price": 164
-  },
-  {
-    "year": 2017,
-    "prefecture": "Shizuoka",
-    "price": 179
-  },
-  {
-    "year": 2017,
-    "prefecture": "Aichi",
-    "price": 169
-  },
-  {
-    "year": 2017,
-    "prefecture": "Mie",
-    "price": 171
-  },
-  {
-    "year": 2017,
-    "prefecture": "Shiga",
+    "prefecture": "Miyagi Ken",
     "price": 175
   },
   {
     "year": 2017,
-    "prefecture": "Kyoto",
-    "price": 174
-  },
-  {
-    "year": 2017,
-    "prefecture": "Osaka",
-    "price": 191
-  },
-  {
-    "year": 2017,
-    "prefecture": "Hyogo",
-    "price": 168
-  },
-  {
-    "year": 2017,
-    "prefecture": "Nara",
-    "price": 172
-  },
-  {
-    "year": 2017,
-    "prefecture": "Wakayama",
-    "price": 175
-  },
-  {
-    "year": 2017,
-    "prefecture": "Tottori",
+    "prefecture": "Akita Ken",
     "price": 173
   },
   {
     "year": 2017,
-    "prefecture": "Shimane",
-    "price": 170
+    "prefecture": "Yamagata Ken",
+    "price": 177
   },
   {
     "year": 2017,
-    "prefecture": "Okayama",
+    "prefecture": "Fukushima Ken",
+    "price": 167
+  },
+  {
+    "year": 2017,
+    "prefecture": "Ibaraki Ken",
+    "price": 172
+  },
+  {
+    "year": 2017,
+    "prefecture": "Tochigi Ken",
+    "price": 166
+  },
+  {
+    "year": 2017,
+    "prefecture": "Gunma Ken",
+    "price": 180
+  },
+  {
+    "year": 2017,
+    "prefecture": "Saitama Ken",
+    "price": 180
+  },
+  {
+    "year": 2017,
+    "prefecture": "Chiba Ken",
+    "price": 167
+  },
+  {
+    "year": 2017,
+    "prefecture": "Tokyo To",
+    "price": 174
+  },
+  {
+    "year": 2017,
+    "prefecture": "Kanagawa Ken",
+    "price": 187
+  },
+  {
+    "year": 2017,
+    "prefecture": "Niigata Ken",
+    "price": 181
+  },
+  {
+    "year": 2017,
+    "prefecture": "Toyama Ken",
+    "price": 173
+  },
+  {
+    "year": 2017,
+    "prefecture": "Ishikawa Ken",
+    "price": 173
+  },
+  {
+    "year": 2017,
+    "prefecture": "Fukui Ken",
+    "price": 177
+  },
+  {
+    "year": 2017,
+    "prefecture": "Yamanashi Ken",
+    "price": 178
+  },
+  {
+    "year": 2017,
+    "prefecture": "Nagano Ken",
+    "price": 181
+  },
+  {
+    "year": 2017,
+    "prefecture": "Gifu Ken",
+    "price": 174
+  },
+  {
+    "year": 2017,
+    "prefecture": "Shizuoka Ken",
+    "price": 174
+  },
+  {
+    "year": 2017,
+    "prefecture": "Aichi Ken",
+    "price": 168
+  },
+  {
+    "year": 2017,
+    "prefecture": "Mie Ken",
+    "price": 178
+  },
+  {
+    "year": 2017,
+    "prefecture": "Shiga Ken",
+    "price": 176
+  },
+  {
+    "year": 2017,
+    "prefecture": "Kyoto Fu",
+    "price": 177
+  },
+  {
+    "year": 2017,
+    "prefecture": "Osaka Fu",
+    "price": 193
+  },
+  {
+    "year": 2017,
+    "prefecture": "Hyogo Ken",
+    "price": 174
+  },
+  {
+    "year": 2017,
+    "prefecture": "Nara Ken",
     "price": 179
   },
   {
     "year": 2017,
-    "prefecture": "Hiroshima",
-    "price": 179
+    "prefecture": "Wakayama Ken",
+    "price": 183
   },
   {
     "year": 2017,
-    "prefecture": "Yamaguchi",
+    "prefecture": "Tottori Ken",
+    "price": 180
+  },
+  {
+    "year": 2017,
+    "prefecture": "Shimane Ken",
+    "price": 169
+  },
+  {
+    "year": 2017,
+    "prefecture": "Okayama Ken",
+    "price": 178
+  },
+  {
+    "year": 2017,
+    "prefecture": "Hiroshima Ken",
+    "price": 172
+  },
+  {
+    "year": 2017,
+    "prefecture": "Yamaguchi Ken",
+    "price": 175
+  },
+  {
+    "year": 2017,
+    "prefecture": "Tokushima Ken",
     "price": 165
   },
   {
     "year": 2017,
-    "prefecture": "Tokushima",
-    "price": 170
+    "prefecture": "Kagawa Ken",
+    "price": 182
   },
   {
     "year": 2017,
-    "prefecture": "Kagawa",
-    "price": 169
-  },
-  {
-    "year": 2017,
-    "prefecture": "Ehime",
-    "price": 166
-  },
-  {
-    "year": 2017,
-    "prefecture": "Kochi",
-    "price": 179
-  },
-  {
-    "year": 2017,
-    "prefecture": "Fukuoka",
-    "price": 166
-  },
-  {
-    "year": 2017,
-    "prefecture": "Saga",
-    "price": 183
-  },
-  {
-    "year": 2017,
-    "prefecture": "Nagasaki",
-    "price": 170
-  },
-  {
-    "year": 2017,
-    "prefecture": "Kumamoto",
-    "price": 169
-  },
-  {
-    "year": 2017,
-    "prefecture": "Oita",
-    "price": 175
-  },
-  {
-    "year": 2017,
-    "prefecture": "Miyazaki",
-    "price": 178
-  },
-  {
-    "year": 2017,
-    "prefecture": "Kagoshima",
+    "prefecture": "Ehime Ken",
     "price": 164
   },
   {
     "year": 2017,
-    "prefecture": "Okinawa",
-    "price": 187
+    "prefecture": "Kochi Ken",
+    "price": 178
+  },
+  {
+    "year": 2017,
+    "prefecture": "Fukuoka Ken",
+    "price": 177
+  },
+  {
+    "year": 2017,
+    "prefecture": "Saga Ken",
+    "price": 169
+  },
+  {
+    "year": 2017,
+    "prefecture": "Nagasaki Ken",
+    "price": 178
+  },
+  {
+    "year": 2017,
+    "prefecture": "Kumamoto Ken",
+    "price": 165
+  },
+  {
+    "year": 2017,
+    "prefecture": "Oita Ken",
+    "price": 178
+  },
+  {
+    "year": 2017,
+    "prefecture": "Miyazaki Ken",
+    "price": 177
+  },
+  {
+    "year": 2017,
+    "prefecture": "Kagoshima Ken",
+    "price": 172
+  },
+  {
+    "year": 2017,
+    "prefecture": "Okinawa Ken",
+    "price": 190
   },
   {
     "year": 2018,
@@ -3061,1643 +3061,1643 @@
   },
   {
     "year": 2018,
-    "prefecture": "Aomori",
-    "price": 175
-  },
-  {
-    "year": 2018,
-    "prefecture": "Iwate",
-    "price": 173
-  },
-  {
-    "year": 2018,
-    "prefecture": "Miyagi",
-    "price": 171
-  },
-  {
-    "year": 2018,
-    "prefecture": "Akita",
-    "price": 177
-  },
-  {
-    "year": 2018,
-    "prefecture": "Yamagata",
+    "prefecture": "Aomori Ken",
     "price": 166
   },
   {
     "year": 2018,
-    "prefecture": "Fukushima",
-    "price": 168
-  },
-  {
-    "year": 2018,
-    "prefecture": "Ibaraki",
-    "price": 167
-  },
-  {
-    "year": 2018,
-    "prefecture": "Tochigi",
-    "price": 177
-  },
-  {
-    "year": 2018,
-    "prefecture": "Gunma",
-    "price": 177
-  },
-  {
-    "year": 2018,
-    "prefecture": "Saitama",
-    "price": 175
-  },
-  {
-    "year": 2018,
-    "prefecture": "Chiba",
-    "price": 168
-  },
-  {
-    "year": 2018,
-    "prefecture": "Tokyo",
-    "price": 193
-  },
-  {
-    "year": 2018,
-    "prefecture": "Kanagawa",
-    "price": 194
-  },
-  {
-    "year": 2018,
-    "prefecture": "Niigata",
-    "price": 166
-  },
-  {
-    "year": 2018,
-    "prefecture": "Toyama",
-    "price": 170
-  },
-  {
-    "year": 2018,
-    "prefecture": "Ishikawa",
-    "price": 185
-  },
-  {
-    "year": 2018,
-    "prefecture": "Fukui",
-    "price": 166
-  },
-  {
-    "year": 2018,
-    "prefecture": "Yamanashi",
-    "price": 179
-  },
-  {
-    "year": 2018,
-    "prefecture": "Nagano",
-    "price": 174
-  },
-  {
-    "year": 2018,
-    "prefecture": "Gifu",
-    "price": 180
-  },
-  {
-    "year": 2018,
-    "prefecture": "Shizuoka",
-    "price": 178
-  },
-  {
-    "year": 2018,
-    "prefecture": "Aichi",
-    "price": 180
-  },
-  {
-    "year": 2018,
-    "prefecture": "Mie",
-    "price": 166
-  },
-  {
-    "year": 2018,
-    "prefecture": "Shiga",
-    "price": 178
-  },
-  {
-    "year": 2018,
-    "prefecture": "Kyoto",
+    "prefecture": "Iwate Ken",
     "price": 169
   },
   {
     "year": 2018,
-    "prefecture": "Osaka",
+    "prefecture": "Miyagi Ken",
+    "price": 168
+  },
+  {
+    "year": 2018,
+    "prefecture": "Akita Ken",
+    "price": 166
+  },
+  {
+    "year": 2018,
+    "prefecture": "Yamagata Ken",
+    "price": 183
+  },
+  {
+    "year": 2018,
+    "prefecture": "Fukushima Ken",
+    "price": 168
+  },
+  {
+    "year": 2018,
+    "prefecture": "Ibaraki Ken",
     "price": 182
   },
   {
     "year": 2018,
-    "prefecture": "Hyogo",
-    "price": 173
+    "prefecture": "Tochigi Ken",
+    "price": 175
   },
   {
     "year": 2018,
-    "prefecture": "Nara",
-    "price": 182
-  },
-  {
-    "year": 2018,
-    "prefecture": "Wakayama",
-    "price": 174
-  },
-  {
-    "year": 2018,
-    "prefecture": "Tottori",
-    "price": 171
-  },
-  {
-    "year": 2018,
-    "prefecture": "Shimane",
-    "price": 184
-  },
-  {
-    "year": 2018,
-    "prefecture": "Okayama",
-    "price": 173
-  },
-  {
-    "year": 2018,
-    "prefecture": "Hiroshima",
+    "prefecture": "Gunma Ken",
     "price": 167
   },
   {
     "year": 2018,
-    "prefecture": "Yamaguchi",
-    "price": 173
+    "prefecture": "Saitama Ken",
+    "price": 170
   },
   {
     "year": 2018,
-    "prefecture": "Tokushima",
-    "price": 174
+    "prefecture": "Chiba Ken",
+    "price": 183
   },
   {
     "year": 2018,
-    "prefecture": "Kagawa",
+    "prefecture": "Tokyo To",
+    "price": 189
+  },
+  {
+    "year": 2018,
+    "prefecture": "Kanagawa Ken",
+    "price": 179
+  },
+  {
+    "year": 2018,
+    "prefecture": "Niigata Ken",
     "price": 178
   },
   {
     "year": 2018,
-    "prefecture": "Ehime",
+    "prefecture": "Toyama Ken",
+    "price": 175
+  },
+  {
+    "year": 2018,
+    "prefecture": "Ishikawa Ken",
+    "price": 177
+  },
+  {
+    "year": 2018,
+    "prefecture": "Fukui Ken",
+    "price": 170
+  },
+  {
+    "year": 2018,
+    "prefecture": "Yamanashi Ken",
     "price": 172
   },
   {
     "year": 2018,
-    "prefecture": "Kochi",
-    "price": 178
+    "prefecture": "Nagano Ken",
+    "price": 175
   },
   {
     "year": 2018,
-    "prefecture": "Fukuoka",
-    "price": 173
-  },
-  {
-    "year": 2018,
-    "prefecture": "Saga",
-    "price": 177
-  },
-  {
-    "year": 2018,
-    "prefecture": "Nagasaki",
-    "price": 179
-  },
-  {
-    "year": 2018,
-    "prefecture": "Kumamoto",
-    "price": 166
-  },
-  {
-    "year": 2018,
-    "prefecture": "Oita",
-    "price": 174
-  },
-  {
-    "year": 2018,
-    "prefecture": "Miyazaki",
-    "price": 167
-  },
-  {
-    "year": 2018,
-    "prefecture": "Kagoshima",
+    "prefecture": "Gifu Ken",
     "price": 168
   },
   {
     "year": 2018,
-    "prefecture": "Okinawa",
+    "prefecture": "Shizuoka Ken",
+    "price": 168
+  },
+  {
+    "year": 2018,
+    "prefecture": "Aichi Ken",
+    "price": 180
+  },
+  {
+    "year": 2018,
+    "prefecture": "Mie Ken",
+    "price": 168
+  },
+  {
+    "year": 2018,
+    "prefecture": "Shiga Ken",
+    "price": 185
+  },
+  {
+    "year": 2018,
+    "prefecture": "Kyoto Fu",
+    "price": 166
+  },
+  {
+    "year": 2018,
+    "prefecture": "Osaka Fu",
+    "price": 182
+  },
+  {
+    "year": 2018,
+    "prefecture": "Hyogo Ken",
+    "price": 180
+  },
+  {
+    "year": 2018,
+    "prefecture": "Nara Ken",
+    "price": 174
+  },
+  {
+    "year": 2018,
+    "prefecture": "Wakayama Ken",
+    "price": 167
+  },
+  {
+    "year": 2018,
+    "prefecture": "Tottori Ken",
+    "price": 181
+  },
+  {
+    "year": 2018,
+    "prefecture": "Shimane Ken",
+    "price": 172
+  },
+  {
+    "year": 2018,
+    "prefecture": "Okayama Ken",
+    "price": 177
+  },
+  {
+    "year": 2018,
+    "prefecture": "Hiroshima Ken",
+    "price": 178
+  },
+  {
+    "year": 2018,
+    "prefecture": "Yamaguchi Ken",
+    "price": 173
+  },
+  {
+    "year": 2018,
+    "prefecture": "Tokushima Ken",
+    "price": 167
+  },
+  {
+    "year": 2018,
+    "prefecture": "Kagawa Ken",
+    "price": 174
+  },
+  {
+    "year": 2018,
+    "prefecture": "Ehime Ken",
+    "price": 179
+  },
+  {
+    "year": 2018,
+    "prefecture": "Kochi Ken",
+    "price": 177
+  },
+  {
+    "year": 2018,
+    "prefecture": "Fukuoka Ken",
+    "price": 169
+  },
+  {
+    "year": 2018,
+    "prefecture": "Saga Ken",
+    "price": 167
+  },
+  {
+    "year": 2018,
+    "prefecture": "Nagasaki Ken",
+    "price": 172
+  },
+  {
+    "year": 2018,
+    "prefecture": "Kumamoto Ken",
+    "price": 170
+  },
+  {
+    "year": 2018,
+    "prefecture": "Oita Ken",
+    "price": 172
+  },
+  {
+    "year": 2018,
+    "prefecture": "Miyazaki Ken",
+    "price": 171
+  },
+  {
+    "year": 2018,
+    "prefecture": "Kagoshima Ken",
+    "price": 177
+  },
+  {
+    "year": 2018,
+    "prefecture": "Okinawa Ken",
     "price": 183
   },
   {
     "year": 2019,
     "prefecture": "Hokkaido",
-    "price": 192
+    "price": 193
   },
   {
     "year": 2019,
-    "prefecture": "Aomori",
-    "price": 179
-  },
-  {
-    "year": 2019,
-    "prefecture": "Iwate",
+    "prefecture": "Aomori Ken",
     "price": 169
   },
   {
     "year": 2019,
-    "prefecture": "Miyagi",
-    "price": 173
+    "prefecture": "Iwate Ken",
+    "price": 168
   },
   {
     "year": 2019,
-    "prefecture": "Akita",
-    "price": 180
+    "prefecture": "Miyagi Ken",
+    "price": 179
   },
   {
     "year": 2019,
-    "prefecture": "Yamagata",
-    "price": 175
-  },
-  {
-    "year": 2019,
-    "prefecture": "Fukushima",
+    "prefecture": "Akita Ken",
     "price": 181
   },
   {
     "year": 2019,
-    "prefecture": "Ibaraki",
-    "price": 177
+    "prefecture": "Yamagata Ken",
+    "price": 178
   },
   {
     "year": 2019,
-    "prefecture": "Tochigi",
-    "price": 179
+    "prefecture": "Fukushima Ken",
+    "price": 185
   },
   {
     "year": 2019,
-    "prefecture": "Gunma",
+    "prefecture": "Ibaraki Ken",
+    "price": 182
+  },
+  {
+    "year": 2019,
+    "prefecture": "Tochigi Ken",
     "price": 170
   },
   {
     "year": 2019,
-    "prefecture": "Saitama",
-    "price": 183
+    "prefecture": "Gunma Ken",
+    "price": 169
   },
   {
     "year": 2019,
-    "prefecture": "Chiba",
-    "price": 171
+    "prefecture": "Saitama Ken",
+    "price": 174
   },
   {
     "year": 2019,
-    "prefecture": "Tokyo",
-    "price": 194
+    "prefecture": "Chiba Ken",
+    "price": 184
   },
   {
     "year": 2019,
-    "prefecture": "Kanagawa",
-    "price": 194
+    "prefecture": "Tokyo To",
+    "price": 187
   },
   {
     "year": 2019,
-    "prefecture": "Niigata",
-    "price": 179
+    "prefecture": "Kanagawa Ken",
+    "price": 193
   },
   {
     "year": 2019,
-    "prefecture": "Toyama",
+    "prefecture": "Niigata Ken",
+    "price": 178
+  },
+  {
+    "year": 2019,
+    "prefecture": "Toyama Ken",
+    "price": 168
+  },
+  {
+    "year": 2019,
+    "prefecture": "Ishikawa Ken",
+    "price": 181
+  },
+  {
+    "year": 2019,
+    "prefecture": "Fukui Ken",
+    "price": 173
+  },
+  {
+    "year": 2019,
+    "prefecture": "Yamanashi Ken",
+    "price": 175
+  },
+  {
+    "year": 2019,
+    "prefecture": "Nagano Ken",
     "price": 185
   },
   {
     "year": 2019,
-    "prefecture": "Ishikawa",
-    "price": 185
+    "prefecture": "Gifu Ken",
+    "price": 184
   },
   {
     "year": 2019,
-    "prefecture": "Fukui",
-    "price": 177
+    "prefecture": "Shizuoka Ken",
+    "price": 173
   },
   {
     "year": 2019,
-    "prefecture": "Yamanashi",
-    "price": 179
+    "prefecture": "Aichi Ken",
+    "price": 173
   },
   {
     "year": 2019,
-    "prefecture": "Nagano",
+    "prefecture": "Mie Ken",
     "price": 186
   },
   {
     "year": 2019,
-    "prefecture": "Gifu",
-    "price": 169
-  },
-  {
-    "year": 2019,
-    "prefecture": "Shizuoka",
-    "price": 176
-  },
-  {
-    "year": 2019,
-    "prefecture": "Aichi",
-    "price": 182
-  },
-  {
-    "year": 2019,
-    "prefecture": "Mie",
-    "price": 179
-  },
-  {
-    "year": 2019,
-    "prefecture": "Shiga",
+    "prefecture": "Shiga Ken",
     "price": 178
   },
   {
     "year": 2019,
-    "prefecture": "Kyoto",
-    "price": 181
-  },
-  {
-    "year": 2019,
-    "prefecture": "Osaka",
-    "price": 183
-  },
-  {
-    "year": 2019,
-    "prefecture": "Hyogo",
-    "price": 179
-  },
-  {
-    "year": 2019,
-    "prefecture": "Nara",
-    "price": 170
-  },
-  {
-    "year": 2019,
-    "prefecture": "Wakayama",
+    "prefecture": "Kyoto Fu",
     "price": 177
   },
   {
     "year": 2019,
-    "prefecture": "Tottori",
-    "price": 180
-  },
-  {
-    "year": 2019,
-    "prefecture": "Shimane",
-    "price": 176
-  },
-  {
-    "year": 2019,
-    "prefecture": "Okayama",
-    "price": 169
-  },
-  {
-    "year": 2019,
-    "prefecture": "Hiroshima",
-    "price": 183
-  },
-  {
-    "year": 2019,
-    "prefecture": "Yamaguchi",
-    "price": 185
-  },
-  {
-    "year": 2019,
-    "prefecture": "Tokushima",
-    "price": 172
-  },
-  {
-    "year": 2019,
-    "prefecture": "Kagawa",
-    "price": 168
-  },
-  {
-    "year": 2019,
-    "prefecture": "Ehime",
-    "price": 174
-  },
-  {
-    "year": 2019,
-    "prefecture": "Kochi",
-    "price": 173
-  },
-  {
-    "year": 2019,
-    "prefecture": "Fukuoka",
-    "price": 181
-  },
-  {
-    "year": 2019,
-    "prefecture": "Saga",
-    "price": 174
-  },
-  {
-    "year": 2019,
-    "prefecture": "Nagasaki",
-    "price": 168
-  },
-  {
-    "year": 2019,
-    "prefecture": "Kumamoto",
-    "price": 178
-  },
-  {
-    "year": 2019,
-    "prefecture": "Oita",
-    "price": 177
-  },
-  {
-    "year": 2019,
-    "prefecture": "Miyazaki",
-    "price": 173
-  },
-  {
-    "year": 2019,
-    "prefecture": "Kagoshima",
-    "price": 170
-  },
-  {
-    "year": 2019,
-    "prefecture": "Okinawa",
-    "price": 185
-  },
-  {
-    "year": 2020,
-    "prefecture": "Hokkaido",
+    "prefecture": "Osaka Fu",
     "price": 195
   },
   {
-    "year": 2020,
-    "prefecture": "Aomori",
+    "year": 2019,
+    "prefecture": "Hyogo Ken",
+    "price": 176
+  },
+  {
+    "year": 2019,
+    "prefecture": "Nara Ken",
     "price": 182
   },
   {
-    "year": 2020,
-    "prefecture": "Iwate",
-    "price": 177
+    "year": 2019,
+    "prefecture": "Wakayama Ken",
+    "price": 172
   },
   {
-    "year": 2020,
-    "prefecture": "Miyagi",
+    "year": 2019,
+    "prefecture": "Tottori Ken",
+    "price": 185
+  },
+  {
+    "year": 2019,
+    "prefecture": "Shimane Ken",
+    "price": 181
+  },
+  {
+    "year": 2019,
+    "prefecture": "Okayama Ken",
+    "price": 170
+  },
+  {
+    "year": 2019,
+    "prefecture": "Hiroshima Ken",
+    "price": 179
+  },
+  {
+    "year": 2019,
+    "prefecture": "Yamaguchi Ken",
     "price": 174
   },
   {
+    "year": 2019,
+    "prefecture": "Tokushima Ken",
+    "price": 185
+  },
+  {
+    "year": 2019,
+    "prefecture": "Kagawa Ken",
+    "price": 184
+  },
+  {
+    "year": 2019,
+    "prefecture": "Ehime Ken",
+    "price": 179
+  },
+  {
+    "year": 2019,
+    "prefecture": "Kochi Ken",
+    "price": 170
+  },
+  {
+    "year": 2019,
+    "prefecture": "Fukuoka Ken",
+    "price": 172
+  },
+  {
+    "year": 2019,
+    "prefecture": "Saga Ken",
+    "price": 185
+  },
+  {
+    "year": 2019,
+    "prefecture": "Nagasaki Ken",
+    "price": 169
+  },
+  {
+    "year": 2019,
+    "prefecture": "Kumamoto Ken",
+    "price": 175
+  },
+  {
+    "year": 2019,
+    "prefecture": "Oita Ken",
+    "price": 183
+  },
+  {
+    "year": 2019,
+    "prefecture": "Miyazaki Ken",
+    "price": 181
+  },
+  {
+    "year": 2019,
+    "prefecture": "Kagoshima Ken",
+    "price": 175
+  },
+  {
+    "year": 2019,
+    "prefecture": "Okinawa Ken",
+    "price": 200
+  },
+  {
     "year": 2020,
-    "prefecture": "Akita",
+    "prefecture": "Hokkaido",
     "price": 189
   },
   {
     "year": 2020,
-    "prefecture": "Yamagata",
-    "price": 186
+    "prefecture": "Aomori Ken",
+    "price": 172
   },
   {
     "year": 2020,
-    "prefecture": "Fukushima",
+    "prefecture": "Iwate Ken",
+    "price": 180
+  },
+  {
+    "year": 2020,
+    "prefecture": "Miyagi Ken",
+    "price": 188
+  },
+  {
+    "year": 2020,
+    "prefecture": "Akita Ken",
     "price": 184
   },
   {
     "year": 2020,
-    "prefecture": "Ibaraki",
+    "prefecture": "Yamagata Ken",
+    "price": 187
+  },
+  {
+    "year": 2020,
+    "prefecture": "Fukushima Ken",
+    "price": 175
+  },
+  {
+    "year": 2020,
+    "prefecture": "Ibaraki Ken",
+    "price": 174
+  },
+  {
+    "year": 2020,
+    "prefecture": "Tochigi Ken",
+    "price": 181
+  },
+  {
+    "year": 2020,
+    "prefecture": "Gunma Ken",
+    "price": 180
+  },
+  {
+    "year": 2020,
+    "prefecture": "Saitama Ken",
+    "price": 189
+  },
+  {
+    "year": 2020,
+    "prefecture": "Chiba Ken",
+    "price": 183
+  },
+  {
+    "year": 2020,
+    "prefecture": "Tokyo To",
+    "price": 194
+  },
+  {
+    "year": 2020,
+    "prefecture": "Kanagawa Ken",
+    "price": 194
+  },
+  {
+    "year": 2020,
+    "prefecture": "Niigata Ken",
+    "price": 176
+  },
+  {
+    "year": 2020,
+    "prefecture": "Toyama Ken",
+    "price": 176
+  },
+  {
+    "year": 2020,
+    "prefecture": "Ishikawa Ken",
+    "price": 178
+  },
+  {
+    "year": 2020,
+    "prefecture": "Fukui Ken",
+    "price": 174
+  },
+  {
+    "year": 2020,
+    "prefecture": "Yamanashi Ken",
     "price": 186
   },
   {
     "year": 2020,
-    "prefecture": "Tochigi",
+    "prefecture": "Nagano Ken",
+    "price": 189
+  },
+  {
+    "year": 2020,
+    "prefecture": "Gifu Ken",
+    "price": 189
+  },
+  {
+    "year": 2020,
+    "prefecture": "Shizuoka Ken",
+    "price": 179
+  },
+  {
+    "year": 2020,
+    "prefecture": "Aichi Ken",
+    "price": 178
+  },
+  {
+    "year": 2020,
+    "prefecture": "Mie Ken",
+    "price": 175
+  },
+  {
+    "year": 2020,
+    "prefecture": "Shiga Ken",
+    "price": 187
+  },
+  {
+    "year": 2020,
+    "prefecture": "Kyoto Fu",
+    "price": 178
+  },
+  {
+    "year": 2020,
+    "prefecture": "Osaka Fu",
+    "price": 187
+  },
+  {
+    "year": 2020,
+    "prefecture": "Hyogo Ken",
+    "price": 174
+  },
+  {
+    "year": 2020,
+    "prefecture": "Nara Ken",
+    "price": 172
+  },
+  {
+    "year": 2020,
+    "prefecture": "Wakayama Ken",
+    "price": 170
+  },
+  {
+    "year": 2020,
+    "prefecture": "Tottori Ken",
+    "price": 184
+  },
+  {
+    "year": 2020,
+    "prefecture": "Shimane Ken",
+    "price": 175
+  },
+  {
+    "year": 2020,
+    "prefecture": "Okayama Ken",
+    "price": 173
+  },
+  {
+    "year": 2020,
+    "prefecture": "Hiroshima Ken",
+    "price": 179
+  },
+  {
+    "year": 2020,
+    "prefecture": "Yamaguchi Ken",
+    "price": 172
+  },
+  {
+    "year": 2020,
+    "prefecture": "Tokushima Ken",
+    "price": 174
+  },
+  {
+    "year": 2020,
+    "prefecture": "Kagawa Ken",
+    "price": 173
+  },
+  {
+    "year": 2020,
+    "prefecture": "Ehime Ken",
+    "price": 175
+  },
+  {
+    "year": 2020,
+    "prefecture": "Kochi Ken",
+    "price": 174
+  },
+  {
+    "year": 2020,
+    "prefecture": "Fukuoka Ken",
+    "price": 178
+  },
+  {
+    "year": 2020,
+    "prefecture": "Saga Ken",
+    "price": 175
+  },
+  {
+    "year": 2020,
+    "prefecture": "Nagasaki Ken",
+    "price": 170
+  },
+  {
+    "year": 2020,
+    "prefecture": "Kumamoto Ken",
     "price": 171
   },
   {
     "year": 2020,
-    "prefecture": "Gunma",
-    "price": 177
-  },
-  {
-    "year": 2020,
-    "prefecture": "Saitama",
-    "price": 174
-  },
-  {
-    "year": 2020,
-    "prefecture": "Chiba",
-    "price": 182
-  },
-  {
-    "year": 2020,
-    "prefecture": "Tokyo",
-    "price": 191
-  },
-  {
-    "year": 2020,
-    "prefecture": "Kanagawa",
-    "price": 185
-  },
-  {
-    "year": 2020,
-    "prefecture": "Niigata",
-    "price": 177
-  },
-  {
-    "year": 2020,
-    "prefecture": "Toyama",
-    "price": 175
-  },
-  {
-    "year": 2020,
-    "prefecture": "Ishikawa",
+    "prefecture": "Oita Ken",
     "price": 178
   },
   {
     "year": 2020,
-    "prefecture": "Fukui",
-    "price": 184
-  },
-  {
-    "year": 2020,
-    "prefecture": "Yamanashi",
-    "price": 187
-  },
-  {
-    "year": 2020,
-    "prefecture": "Nagano",
-    "price": 175
-  },
-  {
-    "year": 2020,
-    "prefecture": "Gifu",
-    "price": 188
-  },
-  {
-    "year": 2020,
-    "prefecture": "Shizuoka",
-    "price": 179
-  },
-  {
-    "year": 2020,
-    "prefecture": "Aichi",
-    "price": 178
-  },
-  {
-    "year": 2020,
-    "prefecture": "Mie",
-    "price": 185
-  },
-  {
-    "year": 2020,
-    "prefecture": "Shiga",
-    "price": 188
-  },
-  {
-    "year": 2020,
-    "prefecture": "Kyoto",
+    "prefecture": "Miyazaki Ken",
     "price": 181
   },
   {
     "year": 2020,
-    "prefecture": "Osaka",
-    "price": 189
-  },
-  {
-    "year": 2020,
-    "prefecture": "Hyogo",
-    "price": 173
-  },
-  {
-    "year": 2020,
-    "prefecture": "Nara",
-    "price": 179
-  },
-  {
-    "year": 2020,
-    "prefecture": "Wakayama",
-    "price": 180
-  },
-  {
-    "year": 2020,
-    "prefecture": "Tottori",
-    "price": 180
-  },
-  {
-    "year": 2020,
-    "prefecture": "Shimane",
-    "price": 172
-  },
-  {
-    "year": 2020,
-    "prefecture": "Okayama",
-    "price": 170
-  },
-  {
-    "year": 2020,
-    "prefecture": "Hiroshima",
-    "price": 189
-  },
-  {
-    "year": 2020,
-    "prefecture": "Yamaguchi",
-    "price": 184
-  },
-  {
-    "year": 2020,
-    "prefecture": "Tokushima",
-    "price": 186
-  },
-  {
-    "year": 2020,
-    "prefecture": "Kagawa",
-    "price": 175
-  },
-  {
-    "year": 2020,
-    "prefecture": "Ehime",
-    "price": 181
-  },
-  {
-    "year": 2020,
-    "prefecture": "Kochi",
-    "price": 189
-  },
-  {
-    "year": 2020,
-    "prefecture": "Fukuoka",
-    "price": 175
-  },
-  {
-    "year": 2020,
-    "prefecture": "Saga",
-    "price": 184
-  },
-  {
-    "year": 2020,
-    "prefecture": "Nagasaki",
-    "price": 182
-  },
-  {
-    "year": 2020,
-    "prefecture": "Kumamoto",
-    "price": 188
-  },
-  {
-    "year": 2020,
-    "prefecture": "Oita",
-    "price": 181
-  },
-  {
-    "year": 2020,
-    "prefecture": "Miyazaki",
+    "prefecture": "Kagoshima Ken",
     "price": 183
   },
   {
     "year": 2020,
-    "prefecture": "Kagoshima",
-    "price": 170
-  },
-  {
-    "year": 2020,
-    "prefecture": "Okinawa",
-    "price": 196
-  },
-  {
-    "year": 2021,
-    "prefecture": "Hokkaido",
-    "price": 203
-  },
-  {
-    "year": 2021,
-    "prefecture": "Aomori",
-    "price": 173
-  },
-  {
-    "year": 2021,
-    "prefecture": "Iwate",
-    "price": 189
-  },
-  {
-    "year": 2021,
-    "prefecture": "Miyagi",
-    "price": 181
-  },
-  {
-    "year": 2021,
-    "prefecture": "Akita",
-    "price": 172
-  },
-  {
-    "year": 2021,
-    "prefecture": "Yamagata",
-    "price": 185
-  },
-  {
-    "year": 2021,
-    "prefecture": "Fukushima",
-    "price": 183
-  },
-  {
-    "year": 2021,
-    "prefecture": "Ibaraki",
-    "price": 175
-  },
-  {
-    "year": 2021,
-    "prefecture": "Tochigi",
-    "price": 182
-  },
-  {
-    "year": 2021,
-    "prefecture": "Gunma",
-    "price": 191
-  },
-  {
-    "year": 2021,
-    "prefecture": "Saitama",
-    "price": 187
-  },
-  {
-    "year": 2021,
-    "prefecture": "Chiba",
-    "price": 180
-  },
-  {
-    "year": 2021,
-    "prefecture": "Tokyo",
-    "price": 190
-  },
-  {
-    "year": 2021,
-    "prefecture": "Kanagawa",
-    "price": 182
-  },
-  {
-    "year": 2021,
-    "prefecture": "Niigata",
-    "price": 178
-  },
-  {
-    "year": 2021,
-    "prefecture": "Toyama",
-    "price": 172
-  },
-  {
-    "year": 2021,
-    "prefecture": "Ishikawa",
-    "price": 178
-  },
-  {
-    "year": 2021,
-    "prefecture": "Fukui",
-    "price": 182
-  },
-  {
-    "year": 2021,
-    "prefecture": "Yamanashi",
-    "price": 172
-  },
-  {
-    "year": 2021,
-    "prefecture": "Nagano",
-    "price": 178
-  },
-  {
-    "year": 2021,
-    "prefecture": "Gifu",
-    "price": 177
-  },
-  {
-    "year": 2021,
-    "prefecture": "Shizuoka",
-    "price": 174
-  },
-  {
-    "year": 2021,
-    "prefecture": "Aichi",
-    "price": 182
-  },
-  {
-    "year": 2021,
-    "prefecture": "Mie",
-    "price": 186
-  },
-  {
-    "year": 2021,
-    "prefecture": "Shiga",
-    "price": 190
-  },
-  {
-    "year": 2021,
-    "prefecture": "Kyoto",
-    "price": 175
-  },
-  {
-    "year": 2021,
-    "prefecture": "Osaka",
-    "price": 183
-  },
-  {
-    "year": 2021,
-    "prefecture": "Hyogo",
-    "price": 191
-  },
-  {
-    "year": 2021,
-    "prefecture": "Nara",
-    "price": 191
-  },
-  {
-    "year": 2021,
-    "prefecture": "Wakayama",
-    "price": 191
-  },
-  {
-    "year": 2021,
-    "prefecture": "Tottori",
-    "price": 189
-  },
-  {
-    "year": 2021,
-    "prefecture": "Shimane",
-    "price": 172
-  },
-  {
-    "year": 2021,
-    "prefecture": "Okayama",
-    "price": 182
-  },
-  {
-    "year": 2021,
-    "prefecture": "Hiroshima",
-    "price": 187
-  },
-  {
-    "year": 2021,
-    "prefecture": "Yamaguchi",
-    "price": 191
-  },
-  {
-    "year": 2021,
-    "prefecture": "Tokushima",
-    "price": 189
-  },
-  {
-    "year": 2021,
-    "prefecture": "Kagawa",
-    "price": 191
-  },
-  {
-    "year": 2021,
-    "prefecture": "Ehime",
-    "price": 188
-  },
-  {
-    "year": 2021,
-    "prefecture": "Kochi",
-    "price": 183
-  },
-  {
-    "year": 2021,
-    "prefecture": "Fukuoka",
-    "price": 183
-  },
-  {
-    "year": 2021,
-    "prefecture": "Saga",
-    "price": 180
-  },
-  {
-    "year": 2021,
-    "prefecture": "Nagasaki",
-    "price": 186
-  },
-  {
-    "year": 2021,
-    "prefecture": "Kumamoto",
-    "price": 184
-  },
-  {
-    "year": 2021,
-    "prefecture": "Oita",
-    "price": 179
-  },
-  {
-    "year": 2021,
-    "prefecture": "Miyazaki",
-    "price": 188
-  },
-  {
-    "year": 2021,
-    "prefecture": "Kagoshima",
-    "price": 182
-  },
-  {
-    "year": 2021,
-    "prefecture": "Okinawa",
-    "price": 190
-  },
-  {
-    "year": 2022,
-    "prefecture": "Hokkaido",
-    "price": 208
-  },
-  {
-    "year": 2022,
-    "prefecture": "Aomori",
-    "price": 179
-  },
-  {
-    "year": 2022,
-    "prefecture": "Iwate",
-    "price": 187
-  },
-  {
-    "year": 2022,
-    "prefecture": "Miyagi",
-    "price": 189
-  },
-  {
-    "year": 2022,
-    "prefecture": "Akita",
-    "price": 184
-  },
-  {
-    "year": 2022,
-    "prefecture": "Yamagata",
-    "price": 179
-  },
-  {
-    "year": 2022,
-    "prefecture": "Fukushima",
-    "price": 174
-  },
-  {
-    "year": 2022,
-    "prefecture": "Ibaraki",
-    "price": 178
-  },
-  {
-    "year": 2022,
-    "prefecture": "Tochigi",
-    "price": 187
-  },
-  {
-    "year": 2022,
-    "prefecture": "Gunma",
-    "price": 191
-  },
-  {
-    "year": 2022,
-    "prefecture": "Saitama",
-    "price": 185
-  },
-  {
-    "year": 2022,
-    "prefecture": "Chiba",
-    "price": 189
-  },
-  {
-    "year": 2022,
-    "prefecture": "Tokyo",
-    "price": 193
-  },
-  {
-    "year": 2022,
-    "prefecture": "Kanagawa",
-    "price": 203
-  },
-  {
-    "year": 2022,
-    "prefecture": "Niigata",
-    "price": 181
-  },
-  {
-    "year": 2022,
-    "prefecture": "Toyama",
-    "price": 176
-  },
-  {
-    "year": 2022,
-    "prefecture": "Ishikawa",
-    "price": 193
-  },
-  {
-    "year": 2022,
-    "prefecture": "Fukui",
-    "price": 191
-  },
-  {
-    "year": 2022,
-    "prefecture": "Yamanashi",
-    "price": 174
-  },
-  {
-    "year": 2022,
-    "prefecture": "Nagano",
-    "price": 178
-  },
-  {
-    "year": 2022,
-    "prefecture": "Gifu",
-    "price": 174
-  },
-  {
-    "year": 2022,
-    "prefecture": "Shizuoka",
-    "price": 180
-  },
-  {
-    "year": 2022,
-    "prefecture": "Aichi",
-    "price": 182
-  },
-  {
-    "year": 2022,
-    "prefecture": "Mie",
-    "price": 183
-  },
-  {
-    "year": 2022,
-    "prefecture": "Shiga",
-    "price": 192
-  },
-  {
-    "year": 2022,
-    "prefecture": "Kyoto",
-    "price": 188
-  },
-  {
-    "year": 2022,
-    "prefecture": "Osaka",
-    "price": 196
-  },
-  {
-    "year": 2022,
-    "prefecture": "Hyogo",
-    "price": 188
-  },
-  {
-    "year": 2022,
-    "prefecture": "Nara",
-    "price": 183
-  },
-  {
-    "year": 2022,
-    "prefecture": "Wakayama",
-    "price": 186
-  },
-  {
-    "year": 2022,
-    "prefecture": "Tottori",
-    "price": 188
-  },
-  {
-    "year": 2022,
-    "prefecture": "Shimane",
-    "price": 180
-  },
-  {
-    "year": 2022,
-    "prefecture": "Okayama",
-    "price": 182
-  },
-  {
-    "year": 2022,
-    "prefecture": "Hiroshima",
-    "price": 175
-  },
-  {
-    "year": 2022,
-    "prefecture": "Yamaguchi",
-    "price": 183
-  },
-  {
-    "year": 2022,
-    "prefecture": "Tokushima",
-    "price": 182
-  },
-  {
-    "year": 2022,
-    "prefecture": "Kagawa",
-    "price": 189
-  },
-  {
-    "year": 2022,
-    "prefecture": "Ehime",
-    "price": 183
-  },
-  {
-    "year": 2022,
-    "prefecture": "Kochi",
-    "price": 192
-  },
-  {
-    "year": 2022,
-    "prefecture": "Fukuoka",
-    "price": 178
-  },
-  {
-    "year": 2022,
-    "prefecture": "Saga",
-    "price": 187
-  },
-  {
-    "year": 2022,
-    "prefecture": "Nagasaki",
-    "price": 186
-  },
-  {
-    "year": 2022,
-    "prefecture": "Kumamoto",
-    "price": 186
-  },
-  {
-    "year": 2022,
-    "prefecture": "Oita",
-    "price": 182
-  },
-  {
-    "year": 2022,
-    "prefecture": "Miyazaki",
-    "price": 191
-  },
-  {
-    "year": 2022,
-    "prefecture": "Kagoshima",
-    "price": 185
-  },
-  {
-    "year": 2022,
-    "prefecture": "Okinawa",
+    "prefecture": "Okinawa Ken",
     "price": 197
   },
   {
-    "year": 2023,
+    "year": 2021,
     "prefecture": "Hokkaido",
-    "price": 204
+    "price": 200
   },
   {
-    "year": 2023,
-    "prefecture": "Aomori",
-    "price": 184
-  },
-  {
-    "year": 2023,
-    "prefecture": "Iwate",
-    "price": 177
-  },
-  {
-    "year": 2023,
-    "prefecture": "Miyagi",
-    "price": 191
-  },
-  {
-    "year": 2023,
-    "prefecture": "Akita",
-    "price": 181
-  },
-  {
-    "year": 2023,
-    "prefecture": "Yamagata",
-    "price": 191
-  },
-  {
-    "year": 2023,
-    "prefecture": "Fukushima",
-    "price": 179
-  },
-  {
-    "year": 2023,
-    "prefecture": "Ibaraki",
-    "price": 179
-  },
-  {
-    "year": 2023,
-    "prefecture": "Tochigi",
-    "price": 181
-  },
-  {
-    "year": 2023,
-    "prefecture": "Gunma",
-    "price": 192
-  },
-  {
-    "year": 2023,
-    "prefecture": "Saitama",
-    "price": 181
-  },
-  {
-    "year": 2023,
-    "prefecture": "Chiba",
-    "price": 176
-  },
-  {
-    "year": 2023,
-    "prefecture": "Tokyo",
-    "price": 193
-  },
-  {
-    "year": 2023,
-    "prefecture": "Kanagawa",
-    "price": 188
-  },
-  {
-    "year": 2023,
-    "prefecture": "Niigata",
-    "price": 190
-  },
-  {
-    "year": 2023,
-    "prefecture": "Toyama",
-    "price": 179
-  },
-  {
-    "year": 2023,
-    "prefecture": "Ishikawa",
-    "price": 191
-  },
-  {
-    "year": 2023,
-    "prefecture": "Fukui",
-    "price": 192
-  },
-  {
-    "year": 2023,
-    "prefecture": "Yamanashi",
-    "price": 192
-  },
-  {
-    "year": 2023,
-    "prefecture": "Nagano",
-    "price": 194
-  },
-  {
-    "year": 2023,
-    "prefecture": "Gifu",
-    "price": 191
-  },
-  {
-    "year": 2023,
-    "prefecture": "Shizuoka",
-    "price": 186
-  },
-  {
-    "year": 2023,
-    "prefecture": "Aichi",
-    "price": 186
-  },
-  {
-    "year": 2023,
-    "prefecture": "Mie",
-    "price": 178
-  },
-  {
-    "year": 2023,
-    "prefecture": "Shiga",
-    "price": 181
-  },
-  {
-    "year": 2023,
-    "prefecture": "Kyoto",
-    "price": 190
-  },
-  {
-    "year": 2023,
-    "prefecture": "Osaka",
-    "price": 187
-  },
-  {
-    "year": 2023,
-    "prefecture": "Hyogo",
-    "price": 192
-  },
-  {
-    "year": 2023,
-    "prefecture": "Nara",
-    "price": 183
-  },
-  {
-    "year": 2023,
-    "prefecture": "Wakayama",
-    "price": 195
-  },
-  {
-    "year": 2023,
-    "prefecture": "Tottori",
-    "price": 190
-  },
-  {
-    "year": 2023,
-    "prefecture": "Shimane",
-    "price": 184
-  },
-  {
-    "year": 2023,
-    "prefecture": "Okayama",
-    "price": 193
-  },
-  {
-    "year": 2023,
-    "prefecture": "Hiroshima",
-    "price": 179
-  },
-  {
-    "year": 2023,
-    "prefecture": "Yamaguchi",
-    "price": 190
-  },
-  {
-    "year": 2023,
-    "prefecture": "Tokushima",
-    "price": 177
-  },
-  {
-    "year": 2023,
-    "prefecture": "Kagawa",
-    "price": 185
-  },
-  {
-    "year": 2023,
-    "prefecture": "Ehime",
-    "price": 194
-  },
-  {
-    "year": 2023,
-    "prefecture": "Kochi",
+    "year": 2021,
+    "prefecture": "Aomori Ken",
     "price": 180
   },
   {
-    "year": 2023,
-    "prefecture": "Fukuoka",
-    "price": 182
+    "year": 2021,
+    "prefecture": "Iwate Ken",
+    "price": 178
   },
   {
-    "year": 2023,
-    "prefecture": "Saga",
-    "price": 195
+    "year": 2021,
+    "prefecture": "Miyagi Ken",
+    "price": 175
   },
   {
-    "year": 2023,
-    "prefecture": "Nagasaki",
-    "price": 183
+    "year": 2021,
+    "prefecture": "Akita Ken",
+    "price": 184
   },
   {
-    "year": 2023,
-    "prefecture": "Kumamoto",
-    "price": 187
+    "year": 2021,
+    "prefecture": "Yamagata Ken",
+    "price": 173
   },
   {
-    "year": 2023,
-    "prefecture": "Oita",
-    "price": 192
+    "year": 2021,
+    "prefecture": "Fukushima Ken",
+    "price": 174
   },
   {
-    "year": 2023,
-    "prefecture": "Miyazaki",
-    "price": 181
+    "year": 2021,
+    "prefecture": "Ibaraki Ken",
+    "price": 178
   },
   {
-    "year": 2023,
-    "prefecture": "Kagoshima",
-    "price": 193
+    "year": 2021,
+    "prefecture": "Tochigi Ken",
+    "price": 176
   },
   {
-    "year": 2023,
-    "prefecture": "Okinawa",
-    "price": 205
-  },
-  {
-    "year": 2024,
-    "prefecture": "Hokkaido",
-    "price": 206
-  },
-  {
-    "year": 2024,
-    "prefecture": "Aomori",
-    "price": 196
-  },
-  {
-    "year": 2024,
-    "prefecture": "Iwate",
-    "price": 191
-  },
-  {
-    "year": 2024,
-    "prefecture": "Miyagi",
-    "price": 182
-  },
-  {
-    "year": 2024,
-    "prefecture": "Akita",
-    "price": 185
-  },
-  {
-    "year": 2024,
-    "prefecture": "Yamagata",
-    "price": 194
-  },
-  {
-    "year": 2024,
-    "prefecture": "Fukushima",
-    "price": 182
-  },
-  {
-    "year": 2024,
-    "prefecture": "Ibaraki",
-    "price": 192
-  },
-  {
-    "year": 2024,
-    "prefecture": "Tochigi",
-    "price": 187
-  },
-  {
-    "year": 2024,
-    "prefecture": "Gunma",
-    "price": 186
-  },
-  {
-    "year": 2024,
-    "prefecture": "Saitama",
+    "year": 2021,
+    "prefecture": "Gunma Ken",
     "price": 179
   },
   {
-    "year": 2024,
-    "prefecture": "Chiba",
+    "year": 2021,
+    "prefecture": "Saitama Ken",
+    "price": 186
+  },
+  {
+    "year": 2021,
+    "prefecture": "Chiba Ken",
+    "price": 178
+  },
+  {
+    "year": 2021,
+    "prefecture": "Tokyo To",
+    "price": 184
+  },
+  {
+    "year": 2021,
+    "prefecture": "Kanagawa Ken",
+    "price": 187
+  },
+  {
+    "year": 2021,
+    "prefecture": "Niigata Ken",
+    "price": 182
+  },
+  {
+    "year": 2021,
+    "prefecture": "Toyama Ken",
+    "price": 178
+  },
+  {
+    "year": 2021,
+    "prefecture": "Ishikawa Ken",
+    "price": 191
+  },
+  {
+    "year": 2021,
+    "prefecture": "Fukui Ken",
+    "price": 175
+  },
+  {
+    "year": 2021,
+    "prefecture": "Yamanashi Ken",
+    "price": 176
+  },
+  {
+    "year": 2021,
+    "prefecture": "Nagano Ken",
+    "price": 178
+  },
+  {
+    "year": 2021,
+    "prefecture": "Gifu Ken",
+    "price": 188
+  },
+  {
+    "year": 2021,
+    "prefecture": "Shizuoka Ken",
+    "price": 178
+  },
+  {
+    "year": 2021,
+    "prefecture": "Aichi Ken",
+    "price": 186
+  },
+  {
+    "year": 2021,
+    "prefecture": "Mie Ken",
+    "price": 175
+  },
+  {
+    "year": 2021,
+    "prefecture": "Shiga Ken",
+    "price": 188
+  },
+  {
+    "year": 2021,
+    "prefecture": "Kyoto Fu",
+    "price": 178
+  },
+  {
+    "year": 2021,
+    "prefecture": "Osaka Fu",
     "price": 194
   },
   {
-    "year": 2024,
-    "prefecture": "Tokyo",
-    "price": 204
+    "year": 2021,
+    "prefecture": "Hyogo Ken",
+    "price": 187
   },
   {
-    "year": 2024,
-    "prefecture": "Kanagawa",
+    "year": 2021,
+    "prefecture": "Nara Ken",
+    "price": 191
+  },
+  {
+    "year": 2021,
+    "prefecture": "Wakayama Ken",
+    "price": 175
+  },
+  {
+    "year": 2021,
+    "prefecture": "Tottori Ken",
+    "price": 185
+  },
+  {
+    "year": 2021,
+    "prefecture": "Shimane Ken",
+    "price": 174
+  },
+  {
+    "year": 2021,
+    "prefecture": "Okayama Ken",
+    "price": 181
+  },
+  {
+    "year": 2021,
+    "prefecture": "Hiroshima Ken",
+    "price": 183
+  },
+  {
+    "year": 2021,
+    "prefecture": "Yamaguchi Ken",
+    "price": 186
+  },
+  {
+    "year": 2021,
+    "prefecture": "Tokushima Ken",
+    "price": 174
+  },
+  {
+    "year": 2021,
+    "prefecture": "Kagawa Ken",
+    "price": 175
+  },
+  {
+    "year": 2021,
+    "prefecture": "Ehime Ken",
+    "price": 174
+  },
+  {
+    "year": 2021,
+    "prefecture": "Kochi Ken",
+    "price": 180
+  },
+  {
+    "year": 2021,
+    "prefecture": "Fukuoka Ken",
+    "price": 182
+  },
+  {
+    "year": 2021,
+    "prefecture": "Saga Ken",
+    "price": 177
+  },
+  {
+    "year": 2021,
+    "prefecture": "Nagasaki Ken",
+    "price": 173
+  },
+  {
+    "year": 2021,
+    "prefecture": "Kumamoto Ken",
+    "price": 191
+  },
+  {
+    "year": 2021,
+    "prefecture": "Oita Ken",
+    "price": 191
+  },
+  {
+    "year": 2021,
+    "prefecture": "Miyazaki Ken",
+    "price": 189
+  },
+  {
+    "year": 2021,
+    "prefecture": "Kagoshima Ken",
+    "price": 179
+  },
+  {
+    "year": 2021,
+    "prefecture": "Okinawa Ken",
+    "price": 206
+  },
+  {
+    "year": 2022,
+    "prefecture": "Hokkaido",
+    "price": 207
+  },
+  {
+    "year": 2022,
+    "prefecture": "Aomori Ken",
+    "price": 193
+  },
+  {
+    "year": 2022,
+    "prefecture": "Iwate Ken",
+    "price": 185
+  },
+  {
+    "year": 2022,
+    "prefecture": "Miyagi Ken",
+    "price": 185
+  },
+  {
+    "year": 2022,
+    "prefecture": "Akita Ken",
+    "price": 179
+  },
+  {
+    "year": 2022,
+    "prefecture": "Yamagata Ken",
+    "price": 178
+  },
+  {
+    "year": 2022,
+    "prefecture": "Fukushima Ken",
+    "price": 190
+  },
+  {
+    "year": 2022,
+    "prefecture": "Ibaraki Ken",
+    "price": 187
+  },
+  {
+    "year": 2022,
+    "prefecture": "Tochigi Ken",
+    "price": 188
+  },
+  {
+    "year": 2022,
+    "prefecture": "Gunma Ken",
+    "price": 191
+  },
+  {
+    "year": 2022,
+    "prefecture": "Saitama Ken",
+    "price": 176
+  },
+  {
+    "year": 2022,
+    "prefecture": "Chiba Ken",
+    "price": 186
+  },
+  {
+    "year": 2022,
+    "prefecture": "Tokyo To",
+    "price": 184
+  },
+  {
+    "year": 2022,
+    "prefecture": "Kanagawa Ken",
+    "price": 200
+  },
+  {
+    "year": 2022,
+    "prefecture": "Niigata Ken",
+    "price": 177
+  },
+  {
+    "year": 2022,
+    "prefecture": "Toyama Ken",
+    "price": 180
+  },
+  {
+    "year": 2022,
+    "prefecture": "Ishikawa Ken",
+    "price": 185
+  },
+  {
+    "year": 2022,
+    "prefecture": "Fukui Ken",
+    "price": 182
+  },
+  {
+    "year": 2022,
+    "prefecture": "Yamanashi Ken",
+    "price": 185
+  },
+  {
+    "year": 2022,
+    "prefecture": "Nagano Ken",
+    "price": 191
+  },
+  {
+    "year": 2022,
+    "prefecture": "Gifu Ken",
+    "price": 184
+  },
+  {
+    "year": 2022,
+    "prefecture": "Shizuoka Ken",
+    "price": 176
+  },
+  {
+    "year": 2022,
+    "prefecture": "Aichi Ken",
+    "price": 174
+  },
+  {
+    "year": 2022,
+    "prefecture": "Mie Ken",
+    "price": 178
+  },
+  {
+    "year": 2022,
+    "prefecture": "Shiga Ken",
+    "price": 189
+  },
+  {
+    "year": 2022,
+    "prefecture": "Kyoto Fu",
+    "price": 187
+  },
+  {
+    "year": 2022,
+    "prefecture": "Osaka Fu",
+    "price": 193
+  },
+  {
+    "year": 2022,
+    "prefecture": "Hyogo Ken",
+    "price": 186
+  },
+  {
+    "year": 2022,
+    "prefecture": "Nara Ken",
+    "price": 176
+  },
+  {
+    "year": 2022,
+    "prefecture": "Wakayama Ken",
+    "price": 190
+  },
+  {
+    "year": 2022,
+    "prefecture": "Tottori Ken",
+    "price": 185
+  },
+  {
+    "year": 2022,
+    "prefecture": "Shimane Ken",
+    "price": 184
+  },
+  {
+    "year": 2022,
+    "prefecture": "Okayama Ken",
+    "price": 188
+  },
+  {
+    "year": 2022,
+    "prefecture": "Hiroshima Ken",
+    "price": 186
+  },
+  {
+    "year": 2022,
+    "prefecture": "Yamaguchi Ken",
+    "price": 177
+  },
+  {
+    "year": 2022,
+    "prefecture": "Tokushima Ken",
+    "price": 180
+  },
+  {
+    "year": 2022,
+    "prefecture": "Kagawa Ken",
+    "price": 188
+  },
+  {
+    "year": 2022,
+    "prefecture": "Ehime Ken",
+    "price": 185
+  },
+  {
+    "year": 2022,
+    "prefecture": "Kochi Ken",
+    "price": 183
+  },
+  {
+    "year": 2022,
+    "prefecture": "Fukuoka Ken",
+    "price": 187
+  },
+  {
+    "year": 2022,
+    "prefecture": "Saga Ken",
+    "price": 191
+  },
+  {
+    "year": 2022,
+    "prefecture": "Nagasaki Ken",
+    "price": 181
+  },
+  {
+    "year": 2022,
+    "prefecture": "Kumamoto Ken",
+    "price": 193
+  },
+  {
+    "year": 2022,
+    "prefecture": "Oita Ken",
+    "price": 179
+  },
+  {
+    "year": 2022,
+    "prefecture": "Miyazaki Ken",
+    "price": 192
+  },
+  {
+    "year": 2022,
+    "prefecture": "Kagoshima Ken",
+    "price": 189
+  },
+  {
+    "year": 2022,
+    "prefecture": "Okinawa Ken",
     "price": 198
   },
   {
-    "year": 2024,
-    "prefecture": "Niigata",
+    "year": 2023,
+    "prefecture": "Hokkaido",
+    "price": 195
+  },
+  {
+    "year": 2023,
+    "prefecture": "Aomori Ken",
+    "price": 179
+  },
+  {
+    "year": 2023,
+    "prefecture": "Iwate Ken",
+    "price": 185
+  },
+  {
+    "year": 2023,
+    "prefecture": "Miyagi Ken",
     "price": 194
   },
   {
-    "year": 2024,
-    "prefecture": "Toyama",
-    "price": 187
-  },
-  {
-    "year": 2024,
-    "prefecture": "Ishikawa",
-    "price": 193
-  },
-  {
-    "year": 2024,
-    "prefecture": "Fukui",
+    "year": 2023,
+    "prefecture": "Akita Ken",
     "price": 186
   },
   {
-    "year": 2024,
-    "prefecture": "Yamanashi",
-    "price": 178
-  },
-  {
-    "year": 2024,
-    "prefecture": "Nagano",
-    "price": 190
-  },
-  {
-    "year": 2024,
-    "prefecture": "Gifu",
-    "price": 192
-  },
-  {
-    "year": 2024,
-    "prefecture": "Shizuoka",
-    "price": 178
-  },
-  {
-    "year": 2024,
-    "prefecture": "Aichi",
-    "price": 180
-  },
-  {
-    "year": 2024,
-    "prefecture": "Mie",
+    "year": 2023,
+    "prefecture": "Yamagata Ken",
     "price": 189
   },
   {
-    "year": 2024,
-    "prefecture": "Shiga",
-    "price": 179
+    "year": 2023,
+    "prefecture": "Fukushima Ken",
+    "price": 178
   },
   {
-    "year": 2024,
-    "prefecture": "Kyoto",
-    "price": 182
+    "year": 2023,
+    "prefecture": "Ibaraki Ken",
+    "price": 190
   },
   {
-    "year": 2024,
-    "prefecture": "Osaka",
-    "price": 206
-  },
-  {
-    "year": 2024,
-    "prefecture": "Hyogo",
-    "price": 191
-  },
-  {
-    "year": 2024,
-    "prefecture": "Nara",
-    "price": 184
-  },
-  {
-    "year": 2024,
-    "prefecture": "Wakayama",
-    "price": 184
-  },
-  {
-    "year": 2024,
-    "prefecture": "Tottori",
-    "price": 185
-  },
-  {
-    "year": 2024,
-    "prefecture": "Shimane",
-    "price": 186
-  },
-  {
-    "year": 2024,
-    "prefecture": "Okayama",
+    "year": 2023,
+    "prefecture": "Tochigi Ken",
     "price": 183
   },
   {
-    "year": 2024,
-    "prefecture": "Hiroshima",
-    "price": 191
+    "year": 2023,
+    "prefecture": "Gunma Ken",
+    "price": 184
   },
   {
-    "year": 2024,
-    "prefecture": "Yamaguchi",
-    "price": 182
+    "year": 2023,
+    "prefecture": "Saitama Ken",
+    "price": 184
   },
   {
-    "year": 2024,
-    "prefecture": "Tokushima",
-    "price": 179
+    "year": 2023,
+    "prefecture": "Chiba Ken",
+    "price": 193
   },
   {
-    "year": 2024,
-    "prefecture": "Kagawa",
-    "price": 196
+    "year": 2023,
+    "prefecture": "Tokyo To",
+    "price": 200
   },
   {
-    "year": 2024,
-    "prefecture": "Ehime",
+    "year": 2023,
+    "prefecture": "Kanagawa Ken",
+    "price": 188
+  },
+  {
+    "year": 2023,
+    "prefecture": "Niigata Ken",
     "price": 180
   },
   {
-    "year": 2024,
-    "prefecture": "Kochi",
+    "year": 2023,
+    "prefecture": "Toyama Ken",
+    "price": 186
+  },
+  {
+    "year": 2023,
+    "prefecture": "Ishikawa Ken",
+    "price": 190
+  },
+  {
+    "year": 2023,
+    "prefecture": "Fukui Ken",
+    "price": 183
+  },
+  {
+    "year": 2023,
+    "prefecture": "Yamanashi Ken",
+    "price": 183
+  },
+  {
+    "year": 2023,
+    "prefecture": "Nagano Ken",
     "price": 185
   },
   {
+    "year": 2023,
+    "prefecture": "Gifu Ken",
+    "price": 194
+  },
+  {
+    "year": 2023,
+    "prefecture": "Shizuoka Ken",
+    "price": 193
+  },
+  {
+    "year": 2023,
+    "prefecture": "Aichi Ken",
+    "price": 193
+  },
+  {
+    "year": 2023,
+    "prefecture": "Mie Ken",
+    "price": 176
+  },
+  {
+    "year": 2023,
+    "prefecture": "Shiga Ken",
+    "price": 185
+  },
+  {
+    "year": 2023,
+    "prefecture": "Kyoto Fu",
+    "price": 191
+  },
+  {
+    "year": 2023,
+    "prefecture": "Osaka Fu",
+    "price": 202
+  },
+  {
+    "year": 2023,
+    "prefecture": "Hyogo Ken",
+    "price": 191
+  },
+  {
+    "year": 2023,
+    "prefecture": "Nara Ken",
+    "price": 194
+  },
+  {
+    "year": 2023,
+    "prefecture": "Wakayama Ken",
+    "price": 186
+  },
+  {
+    "year": 2023,
+    "prefecture": "Tottori Ken",
+    "price": 187
+  },
+  {
+    "year": 2023,
+    "prefecture": "Shimane Ken",
+    "price": 191
+  },
+  {
+    "year": 2023,
+    "prefecture": "Okayama Ken",
+    "price": 191
+  },
+  {
+    "year": 2023,
+    "prefecture": "Hiroshima Ken",
+    "price": 186
+  },
+  {
+    "year": 2023,
+    "prefecture": "Yamaguchi Ken",
+    "price": 184
+  },
+  {
+    "year": 2023,
+    "prefecture": "Tokushima Ken",
+    "price": 187
+  },
+  {
+    "year": 2023,
+    "prefecture": "Kagawa Ken",
+    "price": 191
+  },
+  {
+    "year": 2023,
+    "prefecture": "Ehime Ken",
+    "price": 192
+  },
+  {
+    "year": 2023,
+    "prefecture": "Kochi Ken",
+    "price": 185
+  },
+  {
+    "year": 2023,
+    "prefecture": "Fukuoka Ken",
+    "price": 189
+  },
+  {
+    "year": 2023,
+    "prefecture": "Saga Ken",
+    "price": 182
+  },
+  {
+    "year": 2023,
+    "prefecture": "Nagasaki Ken",
+    "price": 177
+  },
+  {
+    "year": 2023,
+    "prefecture": "Kumamoto Ken",
+    "price": 185
+  },
+  {
+    "year": 2023,
+    "prefecture": "Oita Ken",
+    "price": 183
+  },
+  {
+    "year": 2023,
+    "prefecture": "Miyazaki Ken",
+    "price": 185
+  },
+  {
+    "year": 2023,
+    "prefecture": "Kagoshima Ken",
+    "price": 181
+  },
+  {
+    "year": 2023,
+    "prefecture": "Okinawa Ken",
+    "price": 202
+  },
+  {
     "year": 2024,
-    "prefecture": "Fukuoka",
+    "prefecture": "Hokkaido",
+    "price": 207
+  },
+  {
+    "year": 2024,
+    "prefecture": "Aomori Ken",
     "price": 181
   },
   {
     "year": 2024,
-    "prefecture": "Saga",
-    "price": 190
+    "prefecture": "Iwate Ken",
+    "price": 178
   },
   {
     "year": 2024,
-    "prefecture": "Nagasaki",
-    "price": 183
-  },
-  {
-    "year": 2024,
-    "prefecture": "Kumamoto",
-    "price": 194
-  },
-  {
-    "year": 2024,
-    "prefecture": "Oita",
+    "prefecture": "Miyagi Ken",
     "price": 185
   },
   {
     "year": 2024,
-    "prefecture": "Miyazaki",
-    "price": 188
+    "prefecture": "Akita Ken",
+    "price": 178
   },
   {
     "year": 2024,
-    "prefecture": "Kagoshima",
+    "prefecture": "Yamagata Ken",
+    "price": 194
+  },
+  {
+    "year": 2024,
+    "prefecture": "Fukushima Ken",
+    "price": 187
+  },
+  {
+    "year": 2024,
+    "prefecture": "Ibaraki Ken",
+    "price": 183
+  },
+  {
+    "year": 2024,
+    "prefecture": "Tochigi Ken",
+    "price": 186
+  },
+  {
+    "year": 2024,
+    "prefecture": "Gunma Ken",
+    "price": 192
+  },
+  {
+    "year": 2024,
+    "prefecture": "Saitama Ken",
     "price": 182
   },
   {
     "year": 2024,
-    "prefecture": "Okinawa",
+    "prefecture": "Chiba Ken",
+    "price": 182
+  },
+  {
+    "year": 2024,
+    "prefecture": "Tokyo To",
     "price": 205
+  },
+  {
+    "year": 2024,
+    "prefecture": "Kanagawa Ken",
+    "price": 207
+  },
+  {
+    "year": 2024,
+    "prefecture": "Niigata Ken",
+    "price": 195
+  },
+  {
+    "year": 2024,
+    "prefecture": "Toyama Ken",
+    "price": 195
+  },
+  {
+    "year": 2024,
+    "prefecture": "Ishikawa Ken",
+    "price": 180
+  },
+  {
+    "year": 2024,
+    "prefecture": "Fukui Ken",
+    "price": 178
+  },
+  {
+    "year": 2024,
+    "prefecture": "Yamanashi Ken",
+    "price": 189
+  },
+  {
+    "year": 2024,
+    "prefecture": "Nagano Ken",
+    "price": 194
+  },
+  {
+    "year": 2024,
+    "prefecture": "Gifu Ken",
+    "price": 179
+  },
+  {
+    "year": 2024,
+    "prefecture": "Shizuoka Ken",
+    "price": 185
+  },
+  {
+    "year": 2024,
+    "prefecture": "Aichi Ken",
+    "price": 197
+  },
+  {
+    "year": 2024,
+    "prefecture": "Mie Ken",
+    "price": 194
+  },
+  {
+    "year": 2024,
+    "prefecture": "Shiga Ken",
+    "price": 186
+  },
+  {
+    "year": 2024,
+    "prefecture": "Kyoto Fu",
+    "price": 194
+  },
+  {
+    "year": 2024,
+    "prefecture": "Osaka Fu",
+    "price": 189
+  },
+  {
+    "year": 2024,
+    "prefecture": "Hyogo Ken",
+    "price": 192
+  },
+  {
+    "year": 2024,
+    "prefecture": "Nara Ken",
+    "price": 179
+  },
+  {
+    "year": 2024,
+    "prefecture": "Wakayama Ken",
+    "price": 184
+  },
+  {
+    "year": 2024,
+    "prefecture": "Tottori Ken",
+    "price": 193
+  },
+  {
+    "year": 2024,
+    "prefecture": "Shimane Ken",
+    "price": 189
+  },
+  {
+    "year": 2024,
+    "prefecture": "Okayama Ken",
+    "price": 183
+  },
+  {
+    "year": 2024,
+    "prefecture": "Hiroshima Ken",
+    "price": 180
+  },
+  {
+    "year": 2024,
+    "prefecture": "Yamaguchi Ken",
+    "price": 179
+  },
+  {
+    "year": 2024,
+    "prefecture": "Tokushima Ken",
+    "price": 190
+  },
+  {
+    "year": 2024,
+    "prefecture": "Kagawa Ken",
+    "price": 192
+  },
+  {
+    "year": 2024,
+    "prefecture": "Ehime Ken",
+    "price": 191
+  },
+  {
+    "year": 2024,
+    "prefecture": "Kochi Ken",
+    "price": 191
+  },
+  {
+    "year": 2024,
+    "prefecture": "Fukuoka Ken",
+    "price": 191
+  },
+  {
+    "year": 2024,
+    "prefecture": "Saga Ken",
+    "price": 184
+  },
+  {
+    "year": 2024,
+    "prefecture": "Nagasaki Ken",
+    "price": 197
+  },
+  {
+    "year": 2024,
+    "prefecture": "Kumamoto Ken",
+    "price": 196
+  },
+  {
+    "year": 2024,
+    "prefecture": "Oita Ken",
+    "price": 184
+  },
+  {
+    "year": 2024,
+    "prefecture": "Miyazaki Ken",
+    "price": 185
+  },
+  {
+    "year": 2024,
+    "prefecture": "Kagoshima Ken",
+    "price": 191
+  },
+  {
+    "year": 2024,
+    "prefecture": "Okinawa Ken",
+    "price": 206
   },
   {
     "year": 2025,
@@ -4706,232 +4706,232 @@
   },
   {
     "year": 2025,
-    "prefecture": "Aomori",
-    "price": 188
-  },
-  {
-    "year": 2025,
-    "prefecture": "Iwate",
-    "price": 196
-  },
-  {
-    "year": 2025,
-    "prefecture": "Miyagi",
-    "price": 194
-  },
-  {
-    "year": 2025,
-    "prefecture": "Akita",
-    "price": 192
-  },
-  {
-    "year": 2025,
-    "prefecture": "Yamagata",
-    "price": 183
-  },
-  {
-    "year": 2025,
-    "prefecture": "Fukushima",
-    "price": 199
-  },
-  {
-    "year": 2025,
-    "prefecture": "Ibaraki",
-    "price": 192
-  },
-  {
-    "year": 2025,
-    "prefecture": "Tochigi",
-    "price": 192
-  },
-  {
-    "year": 2025,
-    "prefecture": "Gunma",
+    "prefecture": "Aomori Ken",
     "price": 185
   },
   {
     "year": 2025,
-    "prefecture": "Saitama",
-    "price": 188
+    "prefecture": "Iwate Ken",
+    "price": 196
   },
   {
     "year": 2025,
-    "prefecture": "Chiba",
+    "prefecture": "Miyagi Ken",
+    "price": 183
+  },
+  {
+    "year": 2025,
+    "prefecture": "Akita Ken",
+    "price": 185
+  },
+  {
+    "year": 2025,
+    "prefecture": "Yamagata Ken",
+    "price": 194
+  },
+  {
+    "year": 2025,
+    "prefecture": "Fukushima Ken",
+    "price": 189
+  },
+  {
+    "year": 2025,
+    "prefecture": "Ibaraki Ken",
+    "price": 195
+  },
+  {
+    "year": 2025,
+    "prefecture": "Tochigi Ken",
+    "price": 196
+  },
+  {
+    "year": 2025,
+    "prefecture": "Gunma Ken",
+    "price": 194
+  },
+  {
+    "year": 2025,
+    "prefecture": "Saitama Ken",
+    "price": 192
+  },
+  {
+    "year": 2025,
+    "prefecture": "Chiba Ken",
+    "price": 194
+  },
+  {
+    "year": 2025,
+    "prefecture": "Tokyo To",
+    "price": 191
+  },
+  {
+    "year": 2025,
+    "prefecture": "Kanagawa Ken",
+    "price": 202
+  },
+  {
+    "year": 2025,
+    "prefecture": "Niigata Ken",
     "price": 193
   },
   {
     "year": 2025,
-    "prefecture": "Tokyo",
-    "price": 209
+    "prefecture": "Toyama Ken",
+    "price": 193
   },
   {
     "year": 2025,
-    "prefecture": "Kanagawa",
-    "price": 201
-  },
-  {
-    "year": 2025,
-    "prefecture": "Niigata",
-    "price": 192
-  },
-  {
-    "year": 2025,
-    "prefecture": "Toyama",
-    "price": 180
-  },
-  {
-    "year": 2025,
-    "prefecture": "Ishikawa",
-    "price": 195
-  },
-  {
-    "year": 2025,
-    "prefecture": "Fukui",
-    "price": 183
-  },
-  {
-    "year": 2025,
-    "prefecture": "Yamanashi",
-    "price": 180
-  },
-  {
-    "year": 2025,
-    "prefecture": "Nagano",
-    "price": 180
-  },
-  {
-    "year": 2025,
-    "prefecture": "Gifu",
+    "prefecture": "Ishikawa Ken",
     "price": 184
   },
   {
     "year": 2025,
-    "prefecture": "Shizuoka",
+    "prefecture": "Fukui Ken",
     "price": 188
   },
   {
     "year": 2025,
-    "prefecture": "Aichi",
-    "price": 190
+    "prefecture": "Yamanashi Ken",
+    "price": 194
   },
   {
     "year": 2025,
-    "prefecture": "Mie",
+    "prefecture": "Nagano Ken",
     "price": 199
   },
   {
     "year": 2025,
-    "prefecture": "Shiga",
-    "price": 181
-  },
-  {
-    "year": 2025,
-    "prefecture": "Kyoto",
-    "price": 185
-  },
-  {
-    "year": 2025,
-    "prefecture": "Osaka",
-    "price": 192
-  },
-  {
-    "year": 2025,
-    "prefecture": "Hyogo",
-    "price": 180
-  },
-  {
-    "year": 2025,
-    "prefecture": "Nara",
-    "price": 196
-  },
-  {
-    "year": 2025,
-    "prefecture": "Wakayama",
-    "price": 194
-  },
-  {
-    "year": 2025,
-    "prefecture": "Tottori",
-    "price": 188
-  },
-  {
-    "year": 2025,
-    "prefecture": "Shimane",
-    "price": 196
-  },
-  {
-    "year": 2025,
-    "prefecture": "Okayama",
-    "price": 194
-  },
-  {
-    "year": 2025,
-    "prefecture": "Hiroshima",
-    "price": 184
-  },
-  {
-    "year": 2025,
-    "prefecture": "Yamaguchi",
-    "price": 188
-  },
-  {
-    "year": 2025,
-    "prefecture": "Tokushima",
-    "price": 186
-  },
-  {
-    "year": 2025,
-    "prefecture": "Kagawa",
-    "price": 184
-  },
-  {
-    "year": 2025,
-    "prefecture": "Ehime",
-    "price": 194
-  },
-  {
-    "year": 2025,
-    "prefecture": "Kochi",
-    "price": 181
-  },
-  {
-    "year": 2025,
-    "prefecture": "Fukuoka",
-    "price": 186
-  },
-  {
-    "year": 2025,
-    "prefecture": "Saga",
-    "price": 189
-  },
-  {
-    "year": 2025,
-    "prefecture": "Nagasaki",
-    "price": 189
-  },
-  {
-    "year": 2025,
-    "prefecture": "Kumamoto",
+    "prefecture": "Gifu Ken",
     "price": 195
   },
   {
     "year": 2025,
-    "prefecture": "Oita",
+    "prefecture": "Shizuoka Ken",
+    "price": 199
+  },
+  {
+    "year": 2025,
+    "prefecture": "Aichi Ken",
+    "price": 184
+  },
+  {
+    "year": 2025,
+    "prefecture": "Mie Ken",
+    "price": 192
+  },
+  {
+    "year": 2025,
+    "prefecture": "Shiga Ken",
+    "price": 194
+  },
+  {
+    "year": 2025,
+    "prefecture": "Kyoto Fu",
+    "price": 189
+  },
+  {
+    "year": 2025,
+    "prefecture": "Osaka Fu",
+    "price": 192
+  },
+  {
+    "year": 2025,
+    "prefecture": "Hyogo Ken",
+    "price": 189
+  },
+  {
+    "year": 2025,
+    "prefecture": "Nara Ken",
     "price": 187
   },
   {
     "year": 2025,
-    "prefecture": "Miyazaki",
+    "prefecture": "Wakayama Ken",
+    "price": 190
+  },
+  {
+    "year": 2025,
+    "prefecture": "Tottori Ken",
     "price": 193
   },
   {
     "year": 2025,
-    "prefecture": "Kagoshima",
+    "prefecture": "Shimane Ken",
+    "price": 187
+  },
+  {
+    "year": 2025,
+    "prefecture": "Okayama Ken",
     "price": 199
   },
   {
     "year": 2025,
-    "prefecture": "Okinawa",
-    "price": 197
+    "prefecture": "Hiroshima Ken",
+    "price": 186
+  },
+  {
+    "year": 2025,
+    "prefecture": "Yamaguchi Ken",
+    "price": 184
+  },
+  {
+    "year": 2025,
+    "prefecture": "Tokushima Ken",
+    "price": 192
+  },
+  {
+    "year": 2025,
+    "prefecture": "Kagawa Ken",
+    "price": 194
+  },
+  {
+    "year": 2025,
+    "prefecture": "Ehime Ken",
+    "price": 193
+  },
+  {
+    "year": 2025,
+    "prefecture": "Kochi Ken",
+    "price": 198
+  },
+  {
+    "year": 2025,
+    "prefecture": "Fukuoka Ken",
+    "price": 192
+  },
+  {
+    "year": 2025,
+    "prefecture": "Saga Ken",
+    "price": 185
+  },
+  {
+    "year": 2025,
+    "prefecture": "Nagasaki Ken",
+    "price": 188
+  },
+  {
+    "year": 2025,
+    "prefecture": "Kumamoto Ken",
+    "price": 194
+  },
+  {
+    "year": 2025,
+    "prefecture": "Oita Ken",
+    "price": 194
+  },
+  {
+    "year": 2025,
+    "prefecture": "Miyazaki Ken",
+    "price": 186
+  },
+  {
+    "year": 2025,
+    "prefecture": "Kagoshima Ken",
+    "price": 188
+  },
+  {
+    "year": 2025,
+    "prefecture": "Okinawa Ken",
+    "price": 213
   }
 ]
