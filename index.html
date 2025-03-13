@@ -151,7 +151,7 @@
             // Create color scale with three colors
             const colorScale = d3.scaleLinear()
                 .domain([minPrice, midPrice, maxPrice])
-                .range(['#2ecc71', '#e74c3c', '#9b59b6']) // green, red, purple
+                .range(['#2ecc71', '#f1c40f', '#e74c3c']) // green, yellow, red
                 .interpolate(d3.interpolateRgb);
 
             // Create tooltip
@@ -244,15 +244,15 @@
             // Create gradient stops for three colors
             linearGradient.append('stop')
                 .attr('offset', '0%')
-                .attr('stop-color', '#2ecc71');
+                .attr('stop-color', '#2ecc71');  // green for low prices
 
             linearGradient.append('stop')
                 .attr('offset', '50%')
-                .attr('stop-color', '#e74c3c');
+                .attr('stop-color', '#f1c40f');  // yellow for medium prices
 
             linearGradient.append('stop')
                 .attr('offset', '100%')
-                .attr('stop-color', '#9b59b6');
+                .attr('stop-color', '#e74c3c');  // red for high prices
 
             legend.append('rect')
                 .attr('width', legendWidth)
