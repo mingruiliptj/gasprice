@@ -144,11 +144,12 @@
             // Create a mapping between TopoJSON names and our data names
             function mapPrefectureName(name) {
                 if (!name) return null;
+
+                if (name ==="Hokkai Do" ) return "Hokkaido" ;
                 // Add suffix if not present
                 if (!/ (To|Fu|Ken)$/.test(name)) {
                     if (name === "Tokyo") return "Tokyo To";
                     if (name === "Kyoto" || name === "Osaka") return name + " Fu";
-                    if (name === "Hokkaido") return name;
                     return name + " Ken";
                 }
                 return name;
@@ -157,7 +158,7 @@
             // Create reverse mapping for finding map features from price data
             function findMapFeature(prefecture) {
                 return prefectures.features.find(f => 
-                    mapPrefectureName(f.properties.name) === prefecture
+                    mapPrefectureName(f.properties.nam) === prefecture
                 );
             }
 
@@ -168,18 +169,18 @@
                 .attr('class', 'prefecture')
                 .attr('d', path)
                 .attr('fill', d => {
-                    const mappedName = mapPrefectureName(d.properties.name);
+                    const mappedName = mapPrefectureName(d.properties.nam);
                     const price = getPriceForPrefecture(mappedName, 2025);
                     return colorScale(price);
                 })
                 .on('mouseover', (event, d) => {
-                    const mappedName = mapPrefectureName(d.properties.name);
+                    const mappedName = mapPrefectureName(d.properties.nam);
                     const price = getPriceForPrefecture(mappedName, 
                         document.getElementById('year-slider').value);
                     tooltip.transition()
                         .duration(200)
                         .style('opacity', .9);
-                    tooltip.html(`${getDisplayName(d.properties.name)}<br/>Price: ¥${price}`)
+                    tooltip.html(`${getDisplayName(d.properties.nam)}<br/>Price: ¥${price}`)
                         .style('left', (event.pageX + 5) + 'px')
                         .style('top', (event.pageY - 28) + 'px');
                 })
@@ -243,7 +244,7 @@
                     .transition()
                     .duration(200)
                     .attr('fill', d => {
-                        const mappedName = mapPrefectureName(d.properties.name);
+                        const mappedName = mapPrefectureName(d.properties.nam);
                         const price = getPriceForPrefecture(mappedName, year);
                         return colorScale(price);
                     });
@@ -293,7 +294,7 @@
                     const mapFeature = findMapFeature(prefecture);
                     if (mapFeature) {
                         svg.selectAll('.prefecture')
-                            .filter(d => d.properties.name === mapFeature.properties.name)
+                            .filter(d => d.properties.nam === mapFeature.properties.nam)
                             .transition()
                             .duration(200)
                             .style('opacity', opacity);
