@@ -76,12 +76,12 @@
 </head>
 <body>
     <div class="container">
-        <h1>Japan Gasoline Prices (2003-2023)</h1>
+        <h1>Japan Gasoline Prices (2005-2025)</h1>
         <div class="controls">
             <div>
                 <label for="year-slider">Year: </label>
-                <input type="range" id="year-slider" min="2003" max="2023" value="2023">
-                <span id="year-display">2023</span>
+                <input type="range" id="year-slider" min="2005" max="2025" value="2025">
+                <span id="year-display">2025</span>
             </div>
             <button id="play-button">Play Animation</button>
             <div>
@@ -131,6 +131,11 @@
             // Draw the map
             const prefectures = topojson.feature(japanMap, japanMap.objects.japan);
             
+            // Create a mapping function for prefecture names
+            function getDisplayName(name) {
+                return name.replace(/ (To|Fu|Ken)$/, '');
+            }
+
             svg.selectAll('path')
                 .data(prefectures.features)
                 .enter()
@@ -138,7 +143,7 @@
                 .attr('class', 'prefecture')
                 .attr('d', path)
                 .attr('fill', d => {
-                    const price = getPriceForPrefecture(d.properties.name, 2023);
+                    const price = getPriceForPrefecture(d.properties.name, 2025);
                     return colorScale(price);
                 })
                 .on('mouseover', (event, d) => {
@@ -147,7 +152,7 @@
                     tooltip.transition()
                         .duration(200)
                         .style('opacity', .9);
-                    tooltip.html(`${d.properties.name}<br/>Price: ¥${price}`)
+                    tooltip.html(`${getDisplayName(d.properties.name)}<br/>Price: ¥${price}`)
                         .style('left', (event.pageX + 5) + 'px')
                         .style('top', (event.pageY - 28) + 'px');
                 })
@@ -233,7 +238,7 @@
                     let year = parseInt(yearSlider.value);
                     
                     animationInterval = setInterval(() => {
-                        year = year >= 2023 ? 2003 : year + 1;
+                        year = year >= 2025 ? 2005 : year + 1;
                         yearSlider.value = year;
                         yearDisplay.textContent = year;
                         updateMap(year);
@@ -265,7 +270,7 @@
                 
                 const label = document.createElement('label');
                 label.htmlFor = prefecture;
-                label.textContent = prefecture;
+                label.textContent = getDisplayName(prefecture);
                 
                 div.appendChild(checkbox);
                 div.appendChild(label);
