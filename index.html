@@ -24,20 +24,35 @@
         h1 {
             text-align: center;
             color: #333;
+            margin-bottom: 20px;
         }
         .controls {
-            margin: 20px 0;
             display: flex;
-            justify-content: space-between;
             align-items: center;
+            gap: 20px;
+            padding: 10px;
+            background-color: #f8f8f8;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
         }
         #year-slider {
-            width: 300px;
+            width: 200px;
+        }
+        #prefecture-select {
+            padding: 5px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            width: 150px;
         }
         .map-container {
             position: relative;
-            width: 100%;
-            height: 600px;
+            width: 50%;
+            height: 500px;
         }
         .prefecture {
             stroke: #fff;
@@ -50,18 +65,11 @@
         .legend {
             position: absolute;
             right: 20px;
-            bottom: 20px;
+            top: 20px;
             background: rgba(255,255,255,0.9);
             padding: 10px;
             border-radius: 4px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-        }
-        .prefecture-list {
-            max-height: 200px;
-            overflow-y: auto;
-            border: 1px solid #ddd;
-            padding: 10px;
-            margin-top: 10px;
         }
         .tooltip {
             position: absolute;
@@ -72,21 +80,36 @@
             font-size: 12px;
             pointer-events: none;
         }
+        button {
+            padding: 5px 10px;
+            border: none;
+            border-radius: 4px;
+            background-color: #4CAF50;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Japan Gasoline Prices (2005-2025)</h1>
         <div class="controls">
-            <div>
+            <div class="control-group">
                 <label for="year-slider">Year: </label>
                 <input type="range" id="year-slider" min="2005" max="2025" value="2025">
                 <span id="year-display">2025</span>
             </div>
-            <button id="play-button">Play Animation</button>
-            <div>
-                <label>Filter Prefectures:</label>
-                <div class="prefecture-list" id="prefecture-checkboxes"></div>
+            <div class="control-group">
+                <button id="play-button">Play Animation</button>
+            </div>
+            <div class="control-group">
+                <label for="prefecture-select">Filter Prefecture:</label>
+                <select id="prefecture-select">
+                    <option value="all">All Prefectures</option>
+                </select>
             </div>
         </div>
         <div class="map-container">
@@ -101,7 +124,7 @@
             d3.json('https://raw.githubusercontent.com/dataofjapan/land/master/japan.topojson'),
             d3.json('data/gasoline_prices.json')
         ]).then(([japanMap, priceData]) => {
-            const width = 800;
+            const width = 600;
             const height = 600;
             const margin = { top: 20, right: 20, bottom: 20, left: 20 };
 
@@ -119,9 +142,17 @@
 
             const path = d3.geoPath().projection(projection);
 
-            // Create color scale
-            const colorScale = d3.scaleSequential(d3.interpolateReds)
-                .domain([100, 200]); // Adjust based on your price range
+            // Find min and max prices for the color scale
+            const prices = priceData.map(d => d.price);
+            const minPrice = d3.min(prices);
+            const maxPrice = d3.max(prices);
+            const midPrice = (minPrice + maxPrice) / 2;
+
+            // Create color scale with three colors
+            const colorScale = d3.scaleLinear()
+                .domain([minPrice, midPrice, maxPrice])
+                .range(['#2ecc71', '#e74c3c', '#9b59b6']) // green, red, purple
+                .interpolate(d3.interpolateRgb);
 
             // Create tooltip
             const tooltip = d3.select('body').append('div')
@@ -144,8 +175,7 @@
             // Create a mapping between TopoJSON names and our data names
             function mapPrefectureName(name) {
                 if (!name) return null;
-
-                if (name ==="Hokkai Do" ) return "Hokkaido" ;
+                if (name === "Hokkai Do") return "Hokkaido";
                 // Add suffix if not present
                 if (!/ (To|Fu|Ken)$/.test(name)) {
                     if (name === "Tokyo") return "Tokyo To";
@@ -180,7 +210,7 @@
                     tooltip.transition()
                         .duration(200)
                         .style('opacity', .9);
-                    tooltip.html(`${getDisplayName(d.properties.nam)}<br/>Price: ¥${price}`)
+                    tooltip.html(`${getDisplayName(d.properties.nam_ja)}<br/>平均価格: ¥${price}`)
                         .style('left', (event.pageX + 5) + 'px')
                         .style('top', (event.pageY - 28) + 'px');
                 })
@@ -195,7 +225,7 @@
             const legendHeight = 20;
 
             const legendScale = d3.scaleLinear()
-                .domain([100, 200])
+                .domain([minPrice, maxPrice])
                 .range([0, legendWidth]);
 
             const legendAxis = d3.axisBottom(legendScale)
@@ -211,15 +241,18 @@
             const linearGradient = defs.append('linearGradient')
                 .attr('id', 'linear-gradient');
 
-            linearGradient.selectAll('stop')
-                .data(colorScale.ticks().map((t, i, n) => ({ 
-                    offset: `${100*i/n.length}%`,
-                    color: colorScale(t) 
-                })))
-                .enter()
-                .append('stop')
-                .attr('offset', d => d.offset)
-                .attr('stop-color', d => d.color);
+            // Create gradient stops for three colors
+            linearGradient.append('stop')
+                .attr('offset', '0%')
+                .attr('stop-color', '#2ecc71');
+
+            linearGradient.append('stop')
+                .attr('offset', '50%')
+                .attr('stop-color', '#e74c3c');
+
+            linearGradient.append('stop')
+                .attr('offset', '100%')
+                .attr('stop-color', '#9b59b6');
 
             legend.append('rect')
                 .attr('width', legendWidth)
@@ -272,42 +305,33 @@
                         yearSlider.value = year;
                         yearDisplay.textContent = year;
                         updateMap(year);
-                    }, 1000);
+                    }, 200);
                 } else {
                     this.textContent = 'Play Animation';
                     clearInterval(animationInterval);
                 }
             });
 
-            // Create prefecture checkboxes
+            // Create prefecture dropdown
+            const prefectureSelect = document.getElementById('prefecture-select');
             const prefectureList = [...new Set(priceData.map(d => d.prefecture))];
-            const checkboxContainer = document.getElementById('prefecture-checkboxes');
             
             prefectureList.forEach(prefecture => {
-                const div = document.createElement('div');
-                const checkbox = document.createElement('input');
-                checkbox.type = 'checkbox';
-                checkbox.id = prefecture;
-                checkbox.checked = true;
-                checkbox.addEventListener('change', function() {
-                    const opacity = this.checked ? 1 : 0.2;
-                    const mapFeature = findMapFeature(prefecture);
-                    if (mapFeature) {
-                        svg.selectAll('.prefecture')
-                            .filter(d => d.properties.nam === mapFeature.properties.nam)
-                            .transition()
-                            .duration(200)
-                            .style('opacity', opacity);
-                    }
-                });
-                
-                const label = document.createElement('label');
-                label.htmlFor = prefecture;
-                label.textContent = getDisplayName(prefecture);
-                
-                div.appendChild(checkbox);
-                div.appendChild(label);
-                checkboxContainer.appendChild(div);
+                const option = document.createElement('option');
+                option.value = prefecture;
+                option.textContent = getDisplayName(prefecture);
+                prefectureSelect.appendChild(option);
+            });
+
+            prefectureSelect.addEventListener('change', function() {
+                const selectedPrefecture = this.value;
+                svg.selectAll('.prefecture')
+                    .transition()
+                    .duration(200)
+                    .style('opacity', d => {
+                        if (selectedPrefecture === 'all') return 1;
+                        return mapPrefectureName(d.properties.nam) === selectedPrefecture ? 1 : 0.2;
+                    });
             });
         });
     </script>
