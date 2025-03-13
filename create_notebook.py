@@ -1,0 +1,159 @@
+import json
+
+notebook = {
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "# Japan Gasoline Price Data Generator\n",
+                "\n",
+                "This notebook generates sample gasoline price data for all 47 Japanese prefectures over the last 20 years."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Install required packages\n",
+                "!pip install pandas requests beautifulsoup4"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "import pandas as pd\n",
+                "import requests\n",
+                "from bs4 import BeautifulSoup\n",
+                "import json\n",
+                "from datetime import datetime, timedelta\n",
+                "import os"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "def fetch_meti_data():\n",
+                "    \"\"\"\n",
+                "    Fetch gasoline price data from METI (Ministry of Economy, Trade and Industry) website\n",
+                "    This is a simplified version - in reality we would need to handle pagination and multiple years\n",
+                "    \"\"\"\n",
+                "    # Create sample data structure (in real implementation, we would scrape from METI)\n",
+                "    prefectures = [\n",
+                "        \"Hokkaido\", \"Aomori\", \"Iwate\", \"Miyagi\", \"Akita\", \"Yamagata\", \"Fukushima\",\n",
+                "        \"Ibaraki\", \"Tochigi\", \"Gunma\", \"Saitama\", \"Chiba\", \"Tokyo\", \"Kanagawa\",\n",
+                "        \"Niigata\", \"Toyama\", \"Ishikawa\", \"Fukui\", \"Yamanashi\", \"Nagano\", \"Gifu\",\n",
+                "        \"Shizuoka\", \"Aichi\", \"Mie\", \"Shiga\", \"Kyoto\", \"Osaka\", \"Hyogo\", \"Nara\",\n",
+                "        \"Wakayama\", \"Tottori\", \"Shimane\", \"Okayama\", \"Hiroshima\", \"Yamaguchi\",\n",
+                "        \"Tokushima\", \"Kagawa\", \"Ehime\", \"Kochi\", \"Fukuoka\", \"Saga\", \"Nagasaki\",\n",
+                "        \"Kumamoto\", \"Oita\", \"Miyazaki\", \"Kagoshima\", \"Okinawa\"\n",
+                "    ]\n",
+                "    \n",
+                "    # Generate sample data for last 20 years\n",
+                "    current_year = datetime.now().year\n",
+                "    start_year = current_year - 20\n",
+                "    \n",
+                "    data = []\n",
+                "    base_price = 150  # Base price in yen\n",
+                "    \n",
+                "    for year in range(start_year, current_year + 1):\n",
+                "        for prefecture in prefectures:\n",
+                "            # Generate somewhat realistic price variations\n",
+                "            price = base_price + (year - start_year) * 2  # Slight increase over years\n",
+                "            # Add some regional variations\n",
+                "            if prefecture in [\"Tokyo\", \"Osaka\", \"Kanagawa\"]:\n",
+                "                price += 10\n",
+                "            elif prefecture in [\"Hokkaido\", \"Okinawa\"]:\n",
+                "                price += 15\n",
+                "            \n",
+                "            data.append({\n",
+                "                \"year\": year,\n",
+                "                \"prefecture\": prefecture,\n",
+                "                \"price\": round(price + ((hash(prefecture + str(year)) % 20) - 10), 2)\n",
+                "            })\n",
+                "            \n",
+                "    return data"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Generate the data\n",
+                "data = fetch_meti_data()\n",
+                "\n",
+                "# Create a sample of the data to verify\n",
+                "print(\"Sample of generated data:\")\n",
+                "df = pd.DataFrame(data)\n",
+                "print(df.head())\n",
+                "\n",
+                "# Save as JSON\n",
+                "if not os.path.exists('data'):\n",
+                "    os.makedirs('data')\n",
+                "\n",
+                "with open('data/gasoline_prices.json', 'w', encoding='utf-8') as f:\n",
+                "    json.dump(data, f, ensure_ascii=False, indent=2)\n",
+                "\n",
+                "print(\"\\nData has been saved to 'data/gasoline_prices.json'\")"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "## Download the Generated JSON File\n",
+                "\n",
+                "Run the following cell to download the generated JSON file. You can then use this file with the HTML visualization."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "from google.colab import files\n",
+                "files.download('data/gasoline_prices.json')"
+            ]
+        }
+    ],
+    "metadata": {
+        "colab": {
+            "name": "gas_price_analysis.ipynb",
+            "provenance": []
+        },
+        "kernelspec": {
+            "display_name": "Python 3",
+            "language": "python",
+            "name": "python3"
+        },
+        "language_info": {
+            "codemirror_mode": {
+                "name": "ipython",
+                "version": 3
+            },
+            "file_extension": ".py",
+            "mimetype": "text/x-python",
+            "name": "python",
+            "nbconvert_exporter": "python",
+            "pygments_lexer": "ipython3",
+            "version": "3.8.0"
+        }
+    },
+    "nbformat": 4,
+    "nbformat_minor": 4
+}
+
+# Write the notebook to a file
+with open('gas_price_analysis.ipynb', 'w', encoding='utf-8') as f:
+    json.dump(notebook, f, indent=2) 
